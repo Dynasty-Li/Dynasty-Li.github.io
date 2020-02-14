@@ -89,7 +89,7 @@ My friends are **always** doing terrific in the various walks of life😃.
 
 For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/);
 
-[Xiabee XIAO](http://xiabee.cn:8000/) from [Beijing Institute of Technology](http://www.bit.edu.cn/);
+[Xiabee XIAO](http://39.102.32.107/) from [Beijing Institute of Technology](http://www.bit.edu.cn/);
 
 [KaKi WANG](https://kakiii.github.io/) from [XJTLU](https://www.xjtlu.edu.cn/);
 
