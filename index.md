@@ -4,11 +4,11 @@ Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Un
 
 For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com">email</a> me to ask for my latest academic curriculum vitae.
 
-### Research
+## Research
 
 My research interests include Human-Computer Interaction and Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing).
 
-### Academic Experience
+## Academic Experience
 
 I am now working at the [X-CHI Lab] at our university under the supervision of [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger, and my first research paper is accepted by the IEEE VR. Good Job!
 
@@ -16,7 +16,7 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) at the 
 
 Due to the spread of new coronavirus and nowadays serious public health situation in China, I have to cancel the planned visit to the University of British Columbia. It would be the whole June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦**.
 
-### Publications
+## Publications
 
 **Conference**
 
@@ -33,11 +33,11 @@ C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR), CCF B]
 J1. [JMIR Serious Games, SCIE(IF=3.351)] _tba._
 
 
-### Friends
+## Friends
 
 My friends are always doing terrific in the various walks of life. I'm just the WORST ONE😭. For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/), [Xiabee XIAO](http://xiabee.cn:8000/) from [Beijing Institute of Technology](http://www.bit.edu.cn/), [KaKi WANG](https://kakiii.github.io/) from [XJTLU](https://www.xjtlu.edu.cn/) and some MASTERs who don't make their personal websites.
 
-### WAIT FOR MY UPDATE
+# WAIT FOR MY UPDATE
 
 等我更新，下面别看了，懒得做。
 
