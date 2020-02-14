@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Xiang 'Dynasty' Li's Home!
 
-You can use the [editor on GitHub](https://github.com/Dynasty-Li/Dynasty-Li.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, my name is Xiang Li, a Year 2 student at the Xi'an Jiaotong-Liverpool Univiersity in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the University of Liverpool in UK).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests include Human-Computer Interaction and Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing).
+
+I am now working at the X-CHI Lab at our university under the supervision of Prof. Hai-Ning Liang and Dr. Wenge Xu, with a focus on Virtual and Augmented Reality, Game Tech and Exergames. 
 
 ### Markdown
 
