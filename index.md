@@ -39,7 +39,7 @@ My friends are always doing terrific in the various walks of life. I'm just the 
 
 # WAIT FOR MY UPDATE
 
-[^WAITING]: 加我微信：Lee-T-Dynasty.
+[^WAITING]: 加我微信 -- Lee-T-Dynasty.
 [^RUNOOB]: 菜鸟教程 -- 学的不仅是技术，更是梦想！！！
 
 
