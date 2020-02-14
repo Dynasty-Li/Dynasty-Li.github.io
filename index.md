@@ -1,6 +1,6 @@
 ## Welcome to the Xiang 'Dynasty' Li's HomePage!
 
-Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). You can also find me in the ResearchGate [Xiang_Li](https://www.researchgate.net/profile/Xiang_Li31/). 
+Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). You can also find me in the ResearchGate [Xiang Li](https://www.researchgate.net/profile/Xiang_Li31/). 
 
 For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your (Nick)Name">email</a> me to ask for my latest academic curriculum vitae.
 
@@ -35,16 +35,16 @@ J1. [JMIR Serious Games, SCIE (IF=3.351)] _tba._
 
 ## Friends
 
-My friends are always doing terrific in the various walks of life. I'm just the WORST ONE😭. For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/), [Xiabee XIAO](http://xiabee.cn:8000/) from [Beijing Institute of Technology](http://www.bit.edu.cn/), [KaKi WANG](https://kakiii.github.io/) from [XJTLU](https://www.xjtlu.edu.cn/) and some MASTERs who don't make their personal websites.
+My friends are `always` doing terrific in the various walks of life. I'm just the WORST ONE😭. For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/), [Xiabee XIAO](http://xiabee.cn:8000/) from [Beijing Institute of Technology](http://www.bit.edu.cn/), [KaKi WANG](https://kakiii.github.io/) from [XJTLU](https://www.xjtlu.edu.cn/) and some MASTERs who don't make their personal websites.
 
 ## WAIT FOR MY UPDATE
 
 ```markdown
 Here I will write down a few words to record some important events.
 
-`Wuhan!` 🇨🇳!
+* `Wuhan!` 🇨🇳!
 
-`IEEE VR` Finally Accepted!
+* `IEEE VR` Finally Accepted!
 
 - Bulleted
 - List
