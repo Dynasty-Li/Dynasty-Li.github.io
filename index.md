@@ -2,7 +2,7 @@
 
 Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). You can also find me in the ResearchGate [Xiang_Li](https://www.researchgate.net/profile/Xiang_Li31/). 
 
-For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com">email</a> me to ask for my latest academic curriculum vitae.
+For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your (Nick)Name">email</a> me to ask for my latest academic curriculum vitae.
 
 ## Research
 
@@ -39,7 +39,7 @@ My friends are always doing terrific in the various walks of life. I'm just the 
 
 # WAIT FOR MY UPDATE
 
-等我更新，下面别看了，懒得做。
+`等我更新，下面别看了，懒得做。`
 
 
 
