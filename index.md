@@ -2,9 +2,7 @@
 
 Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the University of Liverpool in UK).
 
-For more details about me, just wait for the further update OR email [Xiang Li](dynasty.li@outlook.com) to ask for my academic curriculum vitae.
-
- <a href="mailto:dynasty.li@outlook.com">Email</a>
+For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com">email</a> me to ask for my latest academic curriculum vitae.
 
 ### Research
 
