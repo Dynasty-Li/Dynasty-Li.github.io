@@ -10,9 +10,11 @@ My research interests include Human-Computer Interaction and Sociological Applic
 
 ### Academic Experience
 
-I am now working at the [X-CHI Lab] at our university under the supervision of [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger.
+I am now working at the [X-CHI Lab] at our university under the supervision of [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger, and my first research paper is accepted by the IEEE VR. Good Job!
 
 I will also join the [Exertion Games Lab](https://exertiongameslab.org/) at the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my intern 'boss'. He is the General Co-Chair of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. My pleasure anyway.
+
+Due to the spread of new coronavirus and nowadays serious public health situation in China, I have to cancel the planned visit to the University of British Columbia. It would be the whole June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦**.
 
 ### Publications
 
@@ -33,7 +35,7 @@ J1. [JMIR Serious Games, SCIE(IF=3.351)] _tba._
 
 ### Friends
 
-My friends are always doing terrific in the various walks of life. I'm just the WORST ONE😭. For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/), [Xiabee XIAO](http://xiabee.cn:8000/) from [Beijing Institute of Technology](http://www.bit.edu.cn/), [KaKi WANG](https://kakiii.github.io/) from [XJTLU](https://www.xjtlu.edu.cn/) and some masters who don't make their personal websites.
+My friends are always doing terrific in the various walks of life. I'm just the WORST ONE😭. For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/), [Xiabee XIAO](http://xiabee.cn:8000/) from [Beijing Institute of Technology](http://www.bit.edu.cn/), [KaKi WANG](https://kakiii.github.io/) from [XJTLU](https://www.xjtlu.edu.cn/) and some MASTERs who don't make their personal websites.
 
 ### WAIT FOR MY UPDATE
 
