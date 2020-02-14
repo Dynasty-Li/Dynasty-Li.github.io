@@ -4,9 +4,9 @@ Hello, my name is Xiang Li, a Year 2 student at the Xi'an Jiaotong-Liverpool Uni
 
 My research interests include Human-Computer Interaction and Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing).
 
-I am now working at the X-CHI Lab at our university under the supervision of Prof. Hai-Ning Liang and Dr. Wenge Xu, with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger.
+I am now working at the [X-CHI Lab] at our university under the supervision of [Prof. Hai-Ning Liang] and [Dr. Wenge Xu], with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger.
 
-I also will join the Exertion Games Lab this summer as the intern from the end of June to early Sept. ! Prof. Florian 'Floyd' Mueller will be my intern 'boss'. He is the general co-chair of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction.
+I will also join the [Exertion Games Lab] at the [University of Monash] this summer as a three-month intern from the end of June to early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller] will be my intern 'boss'. He is the General Co-Chair of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. My pleasure anyway.
 
 For more details about me, just wait for the further update OR email me (dynasty[dot]li[at]outlook[dot]com) to ask for my academic CV.
 
