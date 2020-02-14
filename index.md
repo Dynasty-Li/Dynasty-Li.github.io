@@ -2,6 +2,8 @@
 
 Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the University of Liverpool in UK).
 
+For more details about me, just wait for the further update OR email [Xiang Li](dynasty.li@outlook.com) to ask for my academic curriculum vitae.
+
 ### Research
 
 My research interests include Human-Computer Interaction and Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing).
@@ -11,8 +13,6 @@ My research interests include Human-Computer Interaction and Sociological Applic
 I am now working at the [X-CHI Lab] at our university under the supervision of [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger.
 
 I will also join the [Exertion Games Lab](https://exertiongameslab.org/) at the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my intern 'boss'. He is the General Co-Chair of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. My pleasure anyway.
-
-For more details about me, just wait for the further update OR email me (dynasty[dot]li[at]outlook[dot]com) to ask for my academic curriculum vitae.
 
 ### Publications
 
