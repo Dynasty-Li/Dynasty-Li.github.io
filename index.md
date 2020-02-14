@@ -1,6 +1,6 @@
 ## Welcome to the Xiang 'Dynasty' Li's HomePage!
 
-Hello, my name is Xiang Li, a Year 2 student at the Xi'an Jiaotong-Liverpool Univiersity in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the University of Liverpool in UK).
+Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the University of Liverpool in UK).
 
 ### Research
 
@@ -8,27 +8,32 @@ My research interests include Human-Computer Interaction and Sociological Applic
 
 ### Academic Experience
 
-I am now working at the [X-CHI Lab] at our university under the supervision of [Prof. Hai-Ning Liang] and [Dr. Wenge Xu], with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger.
+I am now working at the [X-CHI Lab] at our university under the supervision of [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger.
 
-I will also join the [Exertion Games Lab](https://exertiongameslab.org/) at the [University of Monash] this summer as a three-month intern from the end of June to early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller] will be my intern 'boss'. He is the General Co-Chair of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. My pleasure anyway.
+I will also join the [Exertion Games Lab](https://exertiongameslab.org/) at the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my intern 'boss'. He is the General Co-Chair of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. My pleasure anyway.
 
 For more details about me, just wait for the further update OR email me (dynasty[dot]li[at]outlook[dot]com) to ask for my academic curriculum vitae.
 
 ### Publications
 
-**Conference** 
+**Conference**
+
 [IEEE Virtual Reality 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
-[Authors] Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu
+
+_[Authors] Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_
 
 [IEEE Big Data Analysis 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.
-[Authors] **Xiang Li**, Yuzhen Chen
 
-others tba.
+_[Authors] **Xiang Li**, Yuzhen Chen_
+
+_others tba_
 
 **Journal**
-tba.
+
+_tba_
 
 ### WAIT FOR MY UPDATE
+
 等我更新，下面别看了，懒得做。
 
 
