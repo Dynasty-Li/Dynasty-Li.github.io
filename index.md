@@ -42,9 +42,9 @@ My friends are always doing terrific in the various walks of life. I'm just the 
 ```markdown
 Here I will write down a few words to record some important events.
 
-## `Wuhan!` 🇨🇳!
+`Wuhan!` 🇨🇳!
 
-## `IEEE VR` Finally Accepted!
+`IEEE VR` Finally Accepted!
 
 - Bulleted
 - List
