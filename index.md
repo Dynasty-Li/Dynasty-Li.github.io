@@ -1,14 +1,12 @@
 ## Welcome to the Xiang 'Dynasty' Li's HomePage!
 
-Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the University of Liverpool in UK). You can find me in the [ResearchGate-Xiang_Li](https://www.researchgate.net/profile/Xiang_Li31/)
+Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). You can also find me in the ResearchGate [Xiang_Li](https://www.researchgate.net/profile/Xiang_Li31/). 
 
 For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com">email</a> me to ask for my latest academic curriculum vitae.
 
 ### Research
 
 My research interests include Human-Computer Interaction and Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing).
-
-My friends are doing terrific in the various walks of life. I'm just the WORST ONE😭. For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from CUHK Shenzhen, [Xiabee XIAO](http://xiabee.cn:8000/) from Beijing Institute of Technology and some masters who don't make their personal websites.
 
 ### Academic Experience
 
@@ -20,19 +18,22 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) at the 
 
 **Conference**
 
-[IEEE Virtual Reality 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
-
+C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
 _[Authors] Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_
 
-[IEEE Big Data Analysis 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.
-
+C2. [IEEE Conference Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.
 _[Authors] **Xiang Li**, Yuzhen Chen_
 
-_others tba._
+C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR), CCF B] _tba._
 
 **Journal**
 
-_tba._
+J1. [JMIR Serious Games, SCIE(IF=3.351)] _tba._
+
+
+### Friends
+
+My friends are always doing terrific in the various walks of life. I'm just the WORST ONE😭. For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/), [Xiabee XIAO](http://xiabee.cn:8000/) from [Beijing Institute of Technology](http://www.bit.edu.cn/), [KaKi WANG](https://kakiii.github.io/) from [XJTLU](https://www.xjtlu.edu.cn/) and some masters who don't make their personal websites.
 
 ### WAIT FOR MY UPDATE
 
