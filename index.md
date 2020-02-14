@@ -37,18 +37,14 @@ J1. [JMIR Serious Games, SCIE (IF=3.351)] _tba._
 
 My friends are always doing terrific in the various walks of life. I'm just the WORST ONE😭. For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/), [Xiabee XIAO](http://xiabee.cn:8000/) from [Beijing Institute of Technology](http://www.bit.edu.cn/), [KaKi WANG](https://kakiii.github.io/) from [XJTLU](https://www.xjtlu.edu.cn/) and some MASTERs who don't make their personal websites.
 
-# WAIT FOR MY UPDATE
-
-[^WAITING]: 加我微信 -- Lee-T-Dynasty.
-[^RUNOOB]: 菜鸟教程 -- 学的不仅是技术，更是梦想！！！
-
+## WAIT FOR MY UPDATE
 
 ```markdown
-Syntax highlighted code block
+Here I will write down a few words to record some important events.
 
-# Header 1
-## Header 2
-### Header 3
+## `Wuhan!` 🇨🇳!
+
+## `IEEE VR` Finally Accepted!
 
 - Bulleted
 - List
@@ -62,11 +58,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dynasty-Li/Dynasty-Li.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
