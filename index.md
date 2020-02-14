@@ -20,19 +20,19 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
 1. **Conference**
 
-C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<br />
-_[Authors] Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_
+    - C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<br />
+    _[Authors] Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_
 
-C2. [IEEE Conference Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
-_[Authors] **Xiang Li**, Yuzhen Chen_
+    - C2. [IEEE Conference Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
+    _[Authors] **Xiang Li**, Yuzhen Chen_
 
-C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR), CCF B] title tba.<br />
-_[Authors] Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
+    - C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR), CCF B] title tba.<br />
+    _[Authors] Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
 
 2. **Journal**
 
-J1. [JMIR Serious Games, SCIE (IF=3.351)] title tba.<br />
-_[Authors] Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzhen Chen, Kangyou Yu, Qiuyu He_
+    - J1. [JMIR Serious Games, SCIE (IF=3.351)] title tba.<br />
+    _[Authors] Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzhen Chen, Kangyou Yu, Qiuyu He_
 
 
 ## Friends
