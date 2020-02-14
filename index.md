@@ -35,26 +35,24 @@ J1. [JMIR Serious Games, SCIE (IF=3.351)] _tba._
 
 ## Friends
 
-My friends are `always` doing terrific in the various walks of life. I'm just the WORST ONE😭. For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/), [Xiabee XIAO](http://xiabee.cn:8000/) from [Beijing Institute of Technology](http://www.bit.edu.cn/), [KaKi WANG](https://kakiii.github.io/) from [XJTLU](https://www.xjtlu.edu.cn/) and some MASTERs who don't make their personal websites.
+My friends are **always** doing terrific in the various walks of life😃. 
+
+For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/);
+
+[Xiabee XIAO](http://xiabee.cn:8000/) from [Beijing Institute of Technology](http://www.bit.edu.cn/);
+
+[KaKi WANG](https://kakiii.github.io/) from [XJTLU](https://www.xjtlu.edu.cn/);
+
+And some other MASTERs _TBA_.
 
 ## WAIT FOR MY UPDATE
 
 ```markdown
 Here I will write down a few words to record some important events.
 
-* `Wuhan!` 🇨🇳!
+1. `Wuhan!` 🇨🇳!
 
-* `IEEE VR` Finally Accepted!
+2. One Paper is Finally Accepted by `IEEE VR` !
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+3. Travelled in `UAE (Dubai & Abu Dhabi)`, `Tunisia (almost the whole country)` and `Morocco (almost the whole country)` this Winter Vacation!
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
