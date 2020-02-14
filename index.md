@@ -20,17 +20,17 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
 **Conference**
 
-C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
+C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<br />
 _[Authors] Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_
 
-C2. [IEEE Conference Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.
+C2. [IEEE Conference Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
 _[Authors] **Xiang Li**, Yuzhen Chen_
 
 C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR), CCF B] _tba._
 
 **Journal**
 
-J1. [JMIR Serious Games, SCIE(IF=3.351)] _tba._
+J1. [JMIR Serious Games, SCIE (IF=3.351)] _tba._
 
 
 ## Friends
