@@ -26,11 +26,13 @@ _[Authors] Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_
 C2. [IEEE Conference Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
 _[Authors] **Xiang Li**, Yuzhen Chen_
 
-C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR), CCF B] _tba._
+C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR), CCF B] title tba.<br />
+_[Authors] Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
 
 **Journal**
 
-J1. [JMIR Serious Games, SCIE (IF=3.351)] _tba._
+J1. [JMIR Serious Games, SCIE (IF=3.351)] title tba.<br />
+_[Authors] Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzhen Chen, Kangyou Yu, Qiuyu He_
 
 
 ## Friends
@@ -45,7 +47,7 @@ For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github
 
 And some other MASTERs _TBA_.
 
-## WAIT FOR MY UPDATE
+## Life
 
 ```markdown
 Here I will write down a few words to record some important events.
