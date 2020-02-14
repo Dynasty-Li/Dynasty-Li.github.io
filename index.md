@@ -4,6 +4,8 @@ Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Un
 
 For more details about me, just wait for the further update OR email [Xiang Li](dynasty.li@outlook.com) to ask for my academic curriculum vitae.
 
+ <a href="mailto:dynasty.li@outlook.com">Email</a>
+
 ### Research
 
 My research interests include Human-Computer Interaction and Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing).
