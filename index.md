@@ -20,7 +20,7 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
 My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and social computing.
 
-For short goal, ~~I have to graduate alive from XJTLU first~~
+For my short goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate (e.g., MIT Media Lab/CSAIL, Stanford HCI Group, CMU HCII, University of Washington, UMich, UMD, Cambridge Rainbow Group, UCL Interaction Centre, ETH Zurich, Facebook, Google, etc.). <font color="red">Idiot Dreams 😭</font>
 
 ## Publications
 
@@ -58,7 +58,7 @@ For short goal, ~~I have to graduate alive from XJTLU first~~
 2. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University
     - Position: Undergraduate Representative (1 of Univ.)
 
-3. Summer Undergraduate Research Fellowship (SURF) at University
+3. Summer Undergraduate Research Fellowship (SURF) at XJTLU
     - Position: `Research Volunteer`
 
 4. Best Results-Making Team for Great Performance in Summer Social Research (1 of Univ.)
