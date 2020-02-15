@@ -1,20 +1,26 @@
 ## Welcome to the Xiang 'Dynasty' Li's HomePage!
 
-Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member. You can also find me in the ResearchGate [Xiang Li](https://www.researchgate.net/profile/Xiang_Li31/). 
+Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member. You can find me in the ResearchGate [Xiang Li](https://www.researchgate.net/profile/Xiang_Li31/). 
 
 For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your (Nick)Name">email</a> me to ask for my latest academic curriculum vitae.
 
-## Research
+## Research Interests
 
-My research interests include Human-Computer Interaction and Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing).
+My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing).
 
 ## Academic Experience
 
 I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger, and my first research paper is accepted by the **IEEE VR. Good Job!**
 
-I will also join the [Exertion Games Lab](https://exertiongameslab.org/) at the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my intern 'boss'. He is the **General Co-Chair** of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. **My pleasure anyway**.
+I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to the early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my 'boss' of this intern . He is the **General Co-Chair** of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. **My Pleasure!**.
 
-Due to the spread of new coronavirus and nowadays serious public health situation in China, I have to cancel the planned visit to the [University of British Columbia](https://ok.ubc.ca/). It would be the whole June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦**.
+Due to the spread of new coronavirus and nowadays serious public health situation in China, I have to cancel the planned visit to the [University of British Columbia](https://ok.ubc.ca/). It was supposed to take place in June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦**.
+
+## Career
+
+My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and social computing.
+
+For short goal, ~~I have to graduate alive from XJTLU first~~
 
 ## Publications
 
@@ -23,7 +29,7 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
     - C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<br />
     [Authors] _Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_
 
-    - C2. [IEEE Conference Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
+    - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
     [Authors] _**Xiang Li**, Yuzhen Chen_
 
     - C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR), CCF B] Title TBA.<br />
@@ -33,39 +39,52 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
     - J1. [JMIR Serious Games, SCIE (IF=3.351)] Title TBA.<br />
     [Authors] _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzhen Chen, Kangyou Yu, Qiuyu He_
+    
+## Presentations
+
+1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA.
+
+    - Oral Presentation: Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
+    
+2. IEEE International Conference on Big Data Analysis (ICBDA) 2020, Xiamen, Fujian, China.
+
+    - Oral Presentation: Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.
 
 ## Extracurricular Activities
 
-1. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University
+1. The Institute of Leadership and Education Advanced Development at Xi'an Jiaotong-Liverpool University
+    - Position: Student Lecturer
+
+2. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University
     - Position: Undergraduate Representative (1 of Univ.)
 
-2. Summer Undergraduate Research Fellowship (SURF) at University
+3. Summer Undergraduate Research Fellowship (SURF) at University
     - Position: `Research Volunteer`
 
-3. Best Results-Making Team for Great Performance in Summer Social Research (1 of Univ.)
+4. Best Results-Making Team for Great Performance in Summer Social Research (1 of Univ.)
     - With a Report in Chinese: Research on the Application of Unity in Game Development
 
-4. National Academic Research Competition in China: National First Prize (10%) 
+5. National Academic Research Competition in China: National First Prize (10%) 
     - With a Report in Chinese: Transition and Innovation of Elementary in the Age of the Internet
 
-5. QCon: The 10th International Software Development Conference
+6. QCon: The 10th International Software Development Conference
     - Position: Assistant Lecturer & Student Volunteer
 
-6. University of Zurich – XJTLU IBSS Cultural Exchange Experience
+7. University of Zurich – XJTLU IBSS Cultural Exchange Experience
     - Position: Student Volunteer
 
-7. WingPlus Program at Xi'an Jiaotong-Liverpool University
+8. WingPlus Program at Xi'an Jiaotong-Liverpool University
     - Position: Big Buddy
 
-8. Summer Social Research Group
+9. Summer Social Research Group
     - Position: Member
     - Content: Research on the Application of Unity in Game Development
     
-9. The 3rd China University Students VR/AR Development Competition (Sponsored by **Sony** and **Unity**)
+10. The 3rd China University Students VR/AR Development Competition (Sponsored by **Sony** and **Unity**)
     - Position: Leader
     - Content: Design and program a VR game: _Cartoon Fitness Coach: My Fitness Coach Cannot be so Cute!_
     
-10. Winter Social Research Group
+11. Winter Social Research Group
     - Position: Leader
     - Content: Exploring the Impact of the Internet Age on Primary Education in the Common City of China
 
