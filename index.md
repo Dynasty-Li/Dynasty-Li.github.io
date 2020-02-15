@@ -10,7 +10,9 @@ My research interests include Human-Computer Interaction (HCI) with subfields in
 
 ## Academic Experience
 
-I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger, and my first research paper is accepted by the **IEEE VR. Good Job!**
+I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger. I closely work with my colleagues [Kangyou (Viper) Yu](https://www.researchgate.net/profile/Kangyou_Yu/) and [Yuzheng Chen](https://www.researchgate.net/profile/Yuzheng_Chen7/)
+
+My first research paper is finally accepted by the **IEEE VR Conference 2020. Good Job!**
 
 I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to the early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my 'boss' of this intern . He is the **General Co-Chair** of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. **My Pleasure!**.
 
