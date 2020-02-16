@@ -10,7 +10,7 @@ My research interests include Human-Computer Interaction (HCI) with subfields in
 
 ## Academic Experience
 
-I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger. I closely work with my colleagues [Kangyou (Viper) Yu](https://www.researchgate.net/profile/Kangyou_Yu/) and [Yuzheng Chen](https://www.researchgate.net/profile/Yuzheng_Chen7/)
+I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech and Exergames. Honest thanks to Wenger. I closely work with my colleagues [Kangyou (Viper) Yu](https://www.researchgate.net/profile/Kangyou_Yu/), [Yuzheng Chen](https://www.researchgate.net/profile/Yuzheng_Chen7/) and [Xiaoyue (Harold) Ma](https://linkedin.com/in/xiaoyue-ma-6b268b193/).
 
 My first research paper is finally accepted by the **IEEE VR Conference 2020. Good Job!**
 
