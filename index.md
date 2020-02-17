@@ -15,8 +15,6 @@ My first research paper is finally accepted by the **IEEE VR Conference 2020. Go
 
 I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger.` 
 
-I closely work with my colleagues [Kangyou (Viper) Yu](https://www.researchgate.net/profile/Kangyou_Yu/), [Yuzheng Chen](https://www.researchgate.net/profile/Yuzheng_Chen7/) and [Xiaoyue (Harold) Ma](https://linkedin.com/in/xiaoyue-ma-6b268b193/).
-
 I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to the early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my 'boss' of this intern . He is the **General Co-Chair** of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. **My Pleasure!**.
 
 Due to the spread of new coronavirus and nowadays serious public health situation in China, I have to cancel the planned visit to the [University of British Columbia](https://ok.ubc.ca/). It was supposed to take place in June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦**.
@@ -109,7 +107,9 @@ Here I will write down a few words to record some important/interesting events.
 
 ## Friends
 
-My friends are **always** doing terrific in the various walks of life😃. 
+I closely work with my colleagues [Kangyou (Viper) Yu](https://www.researchgate.net/profile/Kangyou_Yu/), [Yuzheng Chen](https://www.researchgate.net/profile/Yuzheng_Chen7/) and [Xiaoyue (Harold) Ma](https://linkedin.com/in/xiaoyue-ma-6b268b193/).
+
+And my friends are **always** doing terrific in the various walks of life😃. 
 
 For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/);
 
