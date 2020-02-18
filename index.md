@@ -10,7 +10,7 @@ My research interests include Human-Computer Interaction (HCI) with subfields in
 
 ## Academic Experience
 ```markdown
-<p style="text-align: center"> 02.14.2020-updated </p>
+02.14.2020-update
 My first research paper is finally accepted by the **IEEE VR Conference 2020. Good Job!**
 ```
 
