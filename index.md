@@ -9,16 +9,12 @@ For more details about me, just wait for the further update OR  <a href="mailto:
 My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing).
 
 ## Academic Experience
-```markdown
-02.14.2020-update
-My first research paper is finally accepted by the **IEEE VR Conference 2020. Good Job!**
-```
 
 I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger.` 
 
-I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to the early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my 'boss' of this intern . He is the **General Co-Chair** of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. **My Pleasure!**.
+I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to the early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my 'boss' of this intern . He is the **General Co-Chair** of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Dr. Rakesh Patibanda and Dr. Nathan Semertzidis at Exertion Games Lab. **My Pleasure!**.
 
-Due to the spread of new coronavirus and nowadays serious public health situation in China, I have to cancel the planned visit to the [University of British Columbia](https://ok.ubc.ca/). It was supposed to take place in June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦**.
+Due to the spread of new coronavirus and nowadays serious public health situation in China, I have to cancel the planned visit to the [University of British Columbia](https://ok.ubc.ca/). It was supposed to take place in June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦(Breach of Plan)**.
 
 ## Career
 
@@ -99,23 +95,23 @@ Here I will write down a few words to record some important/interesting events.
 
 1. `Wuhan!` 🇨🇳!
 
-2. One Paper is Finally Accepted by `IEEE VR` !
+2. One Paper is Finally Accepted by `IEEE VR`! It's also my `first` academic paper!
 
 3. Travelled in `UAE🇦🇪 (Dubai & Abu Dhabi)`, `Tunisia🇹🇳 (almost the whole country)` and `Morocco🇲🇦 (almost the whole country)` this Winter Vacation!
 
-4. To be continued...
+4. 😭No visa to US, so I won't make it to Atlanta. What a pity! I will do the remote presentation instead!
 ```
 
 ## Friends
 
-I closely work with my colleagues [Kangyou (Viper) Yu](https://www.researchgate.net/profile/Kangyou_Yu/), [Yuzheng Chen](https://www.researchgate.net/profile/Yuzheng_Chen7/) and [Xiaoyue (Harold) Ma](https://linkedin.com/in/xiaoyue-ma-6b268b193/).
+I closely work with my colleagues [Kangyou (Viper) Yu](https://www.researchgate.net/profile/Kangyou_Yu/), [Yuzheng Chen](https://www.researchgate.net/profile/Yuzheng_Chen7/) and [Xiaoyue (Harold) Ma](https://linkedin.com/in/xiaoyue-ma-6b268b193/) from Xi'an Jiaotong-Liverpool University.
 
-And my friends are **always** doing terrific in the various walks of life😃. 
+And my friends are **always** doing terrific in the various walks of life😃. If you are also interested in them, try to directly contact them via email (or if you need my help to build a bridge with them, the answer is of course YES, email me)!
 
-For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [CUHK Shenzhen](https://www.cuhk.edu.cn/en/);
+For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en/);
 
 [Xiabee XIAO](http://39.102.32.107/) from [Beijing Institute of Technology](http://www.bit.edu.cn/);
 
-[KaKi WANG](https://kakiii.github.io/) from [XJTLU](https://www.xjtlu.edu.cn/);
+[KaKi WANG](https://kakiii.github.io/) from [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/);
 
 And some other MASTERs _TBA_.
