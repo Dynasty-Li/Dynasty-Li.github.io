@@ -44,7 +44,7 @@ For my short goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have
 
 1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA.
 
-    - Oral Presentation: Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
+    - Remote Oral Presentation: Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
     
 2. IEEE International Conference on Big Data Analysis (ICBDA) 2020, Xiamen, Fujian, China.
 
