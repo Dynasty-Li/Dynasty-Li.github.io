@@ -1,6 +1,6 @@
 ## Welcome to the Xiang 'Dynasty' Li's HomePage!
 
-Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member. You can find me in the ResearchGate [Xiang Li](https://www.researchgate.net/profile/Xiang_Li31/). 
+Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member. You can find me in my [Research Gate](https://www.researchgate.net/profile/Xiang_Li31/). 
 
 For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your (Nick)Name">email</a> me to ask for my latest academic curriculum vitae.
 
@@ -20,7 +20,7 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
 My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
 
-For my short goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate (e.g., MIT Media Lab/CSAIL, Stanford HCI Group, CMU HCII, University of Washington, UMich, UMD, Cambridge Rainbow Group, UCL Interaction Centre, ETH Zurich, Facebook, Google, etc.). <font color="red">Idiot Dreams 😭</font>
+For my short goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate. 
 
 ## Publications
 
@@ -108,7 +108,7 @@ I closely work with my colleagues [Kangyou (Viper) Yu](https://www.researchgate.
 
 And my friends are **always** doing terrific in the various walks of life😃. If you are also interested in them, try to directly contact them via email (or if you need my help to build a bridge with them, the answer is of course YES, email me)!
 
-For example, [Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en/);
+For example, 😘[Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en/);
 
 [Xiabee XIAO](http://39.102.32.107/) from [Beijing Institute of Technology](http://www.bit.edu.cn/);
 
