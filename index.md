@@ -1,4 +1,4 @@
-## Welcome to the Xiang 'Dynasty' Li's HomePage!
+## Welcome to Xiang 'Dynasty' Li's HomePage!
 
 Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member. You can find me in my [Research Gate](https://www.researchgate.net/profile/Xiang_Li31/). 
 
