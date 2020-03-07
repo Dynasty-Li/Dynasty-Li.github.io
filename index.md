@@ -8,7 +8,7 @@ In addition to my research projects and the research projects I participated in,
 
 ## Research Interests
 
-My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). <p><color="red">I am actively looking for some friends with the same research interests but with a strong background in Python and Deep Learning</p>
+My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). <font><color="red">I am actively looking for some friends with the same research interests but with a strong background in Python and Deep Learning</font>
 
 ## Academic Experience
 
