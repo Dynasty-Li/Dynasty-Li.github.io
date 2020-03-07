@@ -1,12 +1,14 @@
 ## Welcome to Xiang 'Dynasty' Li's HomePage!
 
-Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member. You can find me in my [Research Gate](https://www.researchgate.net/profile/Xiang_Li31/). 
+Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member. You can find me in my [Research Gate](https://www.researchgate.net/profile/Xiang_Li31/). Honestly, my GPA is a bit low compared with my classmates in our Univ.
 
 For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your (Nick)Name">email</a> me to ask for my latest academic curriculum vitae.
 
+In addition to my research projects and the research projects I participated in, I am now sorting out several materials for Algorithms and Data Structures (in Java) and you will see these open srouces in my github later.
+
 ## Research Interests
 
-My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing).
+My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). <p><color="red">I am actively looking for some friends with the same research interests but with a strong background in Python and Deep Learning</p>
 
 ## Academic Experience
 
@@ -14,7 +16,7 @@ I am now working in the [X-CHI Lab] of our university under the supervision of t
 
 I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to the early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my 'boss' of this intern . He is the **General Co-Chair** of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Dr. Rakesh Patibanda and Dr. Nathan Semertzidis at the Exertion Games Lab. **My Pleasure!**.
 
-Due to the spread of new coronavirus and nowadays serious public health situation in China, I have to cancel the planned visit to the [University of British Columbia](https://ok.ubc.ca/). It was supposed to take place in June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦(Breach of Plan)**.
+Due to the spread of new coronavirus and nowadays serious public health situation around the world, I have to cancel the planned visit to the [University of British Columbia](https://ok.ubc.ca/). It was supposed to take place in June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦(Breach of Plan)**.
 
 ## Career
 
