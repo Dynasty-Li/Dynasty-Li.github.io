@@ -10,7 +10,7 @@ In addition to my research projects and the research projects I participated in,
 
 My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). 
 
-<font color="red">I am actively looking for some friends with the same research interests in HCI who have a strong background in Python and Deep Learning. If you are interested in working with me, <a href="mailto:dynasty.li@outlook.com?subject=Co-operation in HCI and Deep Learning + Your (Nick)Name">email</a> me!</font><br />
+I am actively looking for some friends <font color="red">who have the same research interests in HCI and a strong background in Python and Deep Learning.</font> If you are interested in working with me, <a href="mailto:dynasty.li@outlook.com?subject=Co-operation in HCI and Deep Learning + Your (Nick)Name">email</a> me for more information!<br />
 
 
 ## Academic Experience
