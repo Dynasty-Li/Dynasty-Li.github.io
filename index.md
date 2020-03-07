@@ -2,7 +2,7 @@
 
 Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member. You can find me in my [Research Gate](https://www.researchgate.net/profile/Xiang_Li31/). 
 
-Honestly, my GPA is a bit lower than my classmates in our Univ. In addition to my research projects and the research projects I participated in, I am now sorting out several materials for Algorithms and Data Structures (in Java) and you will see these open srouces in my github later.
+In addition to my research projects and the research projects I participated in, I am now sorting out several materials for Algorithms and Data Structures (in Java) and you will see these open srouces in my github later.
 
 For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your (Nick)Name">email</a> me to ask for my latest academic curriculum vitae.
 
@@ -106,6 +106,8 @@ Here I will write down a few words to record some important/interesting events.
 3. Travelled in `UAE🇦🇪 (Dubai & Abu Dhabi)`, `Tunisia🇹🇳 (almost the whole country)` and `Morocco🇲🇦 (almost the whole country)` this Winter Vacation!
 
 4. 😭No visa to US, so I won't make it to Atlanta. What a pity! I will do the remote presentation instead!
+
+5. Honestly, my GPA (3.3) is quite lower than my classmates in our Univ.  So sad! :-(
 ```
 
 ## Friends
