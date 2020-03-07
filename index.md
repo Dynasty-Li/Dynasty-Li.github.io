@@ -12,6 +12,7 @@ My research interests include Human-Computer Interaction (HCI) with subfields in
 
 <font color="red">I am actively looking for some friends with the same research interests in HCI who have a strong background in Python and Deep Learning. If you are interested in working with me, <a href="mailto:dynasty.li@outlook.com?subject=Co-operation in HCI and Deep Learning + Your (Nick)Name">email</a> me!</font><br />
 
+
 ## Academic Experience
 
 I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger.` 
