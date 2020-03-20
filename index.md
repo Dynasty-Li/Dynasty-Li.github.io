@@ -1,6 +1,6 @@
 ## Welcome to Xiang 'Dynasty' Li's HomePage!
 
-Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member. You can find me in my [Research Gate](https://www.researchgate.net/profile/Xiang_Li31/). 
+Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member.
 
 In addition to my research projects and the research projects I participated in, I am now sorting out several materials for Algorithms and Data Structures (in Java) and you will see these open srouces in my github later.
 
@@ -12,7 +12,6 @@ For more details about me, just wait for the further update OR  <a href="mailto:
 My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). 
 
 I am actively looking for some friends <font color="red">who have the same research interests in HCI and a strong background in Python and Deep Learning.</font> If you are interested in working with me, <a href="mailto:dynasty.li@outlook.com?subject=Co-operation in HCI and Deep Learning + Your (Nick)Name">email</a> me for more information!<br />
-
 
 ## Academic Experience
 
