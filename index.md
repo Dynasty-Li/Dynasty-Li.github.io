@@ -27,10 +27,11 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
     - C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Best Paper Award Mentioned (5%)</font> <br />
     [Authors] _Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_<br />
-    It is my first academic paper! Also, I am the <font color="red">present author</font> of this paper in IEEE VR Conference.
+    I am the <font color="red">present author</font> of this paper in IEEE VR Conference.
 
     - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
     [Authors] _**Xiang Li**, Yuzhen Chen_
+    I am the <font color="red">present author</font> of this paper in IEEE ICBDA Conference.
 
     - C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR), CCF B] Title TBA.<br />
     [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
@@ -44,7 +45,7 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
 1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA.
 
-    - Remote Oral Presentation: Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
+    - [Oral Presentation](https://youtu.be/i49SahQoNj0): Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
     
 2. IEEE International Conference on Big Data Analysis (ICBDA) 2020, Xiamen, Fujian, China.
 
@@ -118,7 +119,7 @@ And my friends are **always** doing terrific in the various walks of life😃. I
 
 For example, 😘[Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.github.io/) from [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en/);
 
-[Xiabee XIAO](http://39.102.32.107/) from [Beijing Institute of Technology](http://www.bit.edu.cn/);
+[Xiabee XIAO](http://xiabee.cn) from [Beijing Institute of Technology](http://www.bit.edu.cn/);
 
 [KaKi WANG](https://kakiii.github.io/) from [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/);
 
