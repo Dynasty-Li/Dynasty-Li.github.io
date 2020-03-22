@@ -109,6 +109,8 @@ Here I will write down a few words to record some important/interesting events.
 4. 😭No visa to US, so I won't make it to Atlanta. What a pity! I will do the remote presentation instead!
 
 5. Honestly, my GPA (3.3) is quite lower than my classmates in our Univ.  So sad! :-(
+
+6. I am so happy that my first (but not first-author) paper has been Nominated for a Best Paper Award in the upcoming IEEE VR 2020 Conference. 🎉 🎉 🎉
 ```
 
 ## Friends
