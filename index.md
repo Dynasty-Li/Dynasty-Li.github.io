@@ -26,7 +26,7 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 1. **Conference**
 
     - C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red">Best Paper Award Mentioned (5%)</font> <br />
-    [Authors] _Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_
+    [Authors] _Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_<br />
     It is my first academic paper! Also, I am the <font color="red">present author</font> of this paper in IEEE VR Conference.
 
     - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
