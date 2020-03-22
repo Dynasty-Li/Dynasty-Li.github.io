@@ -30,7 +30,7 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
     I am the <font color="red">present author</font> of this paper in IEEE VR Conference.
 
     - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
-    [Authors] _**Xiang Li**, Yuzhen Chen_
+    [Authors] _**Xiang Li**, Yuzhen Chen_<br />
     I am the <font color="red">present author</font> of this paper in IEEE ICBDA Conference.
 
     - C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR), CCF B] Title TBA.<br />
