@@ -21,18 +21,14 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
 
 Due to the spread of new coronavirus and nowadays serious public health situation around the world, I have to cancel the planned visit to the [University of British Columbia](https://ok.ubc.ca/). It was supposed to take place in June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦(Breach of Plan)**.
 
-## Career
-
-My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
-
-For my short goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate. 
-
 ## Publications
 
 1. **Conference**
 
     - C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<br />
     [Authors] _Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_
+    <font color="red">Best Paper Award Mentioned (5%)</font>
+    * It is my first academic paper! Also, I am the <font color="red">present author</font> of this paper in IEEE VR Conference.
 
     - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
     [Authors] _**Xiang Li**, Yuzhen Chen_
@@ -92,6 +88,12 @@ For my short goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have
 11. Winter Social Research Group
     - Position: Leader
     - Content: Exploring the Impact of the Internet Age on Primary Education in the Common City of China
+    
+## Goals
+
+My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
+
+For my short goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate. 
 
 ## Life
 
