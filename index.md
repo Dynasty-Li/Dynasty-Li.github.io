@@ -17,7 +17,7 @@ I am actively looking for some friends <font color="red">who have the same resea
 
 I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger.` 
 
-I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to the early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my 'boss' of this intern . He is the **General Co-Chair** of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Dr. Rakesh Patibanda and Dr. Nathan Semertzidis at the Exertion Games Lab. **My Pleasure!**.
+I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to the early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my advisor of this intern. He is the **General Co-Chair** of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Dr. Rakesh Patibanda and Dr. Nathan Semertzidis at the Exertion Games Lab. **My Pleasure!**.
 
 Due to the spread of new coronavirus and nowadays serious public health situation around the world, I have to cancel the planned visit to the [University of British Columbia](https://ok.ubc.ca/). It was supposed to take place in June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦(Breach of Plan)**.
 
@@ -25,7 +25,7 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
 1. **Conference**
 
-    - C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Best Paper Award Mentioned (5%)</font> <br />
+    - C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font> <br />
     [Authors] _Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_<br />
     I am the <font color="red">present author</font> of this paper in IEEE VR Conference.
 
@@ -45,7 +45,9 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
 1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA.
 
-    - [Oral Presentation](https://youtu.be/i49SahQoNj0): Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
+    - [Oral Presentation](https://youtu.be/qhnN5UNYX1Q): Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
+    
+    - For Chinese friends you can click [here](https://www.bilibili.com/video/BV18E411c73c/) to find my presentation.
     
 2. IEEE International Conference on Big Data Analysis (ICBDA) 2020, Xiamen, Fujian, China.
 
@@ -110,7 +112,7 @@ Here I will write down a few words to record some important/interesting events.
 
 5. Honestly, my GPA (3.3) is quite lower than my classmates in our Univ.  So sad! :-(
 
-6. I am so happy that my first (but not first-author) paper has been Nominated for a Best Paper Award in the upcoming IEEE VR 2020 Conference. 🎉 🎉 🎉
+6. I am so happy that my first (but not first-author) paper has been Nominated for a Best Paper Award in the IEEE VR 2020 Conference. 🎉 🎉 🎉
 ```
 
 ## Friends
