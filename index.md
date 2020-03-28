@@ -4,8 +4,7 @@ Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Un
 
 In addition to my research projects and the research projects I participated in, I am now sorting out several materials for Algorithms and Data Structures (in Java) and you will see these open-srouce study materials in my github later.
 
-For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your (Nick)Name">email</a> me to ask for my latest academic curriculum vitae.
-
+For more details about me, just wait for the further update or <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your (Nick)Name">email</a> me to ask for my latest academic curriculum vitae.
 
 ## Research Interests
 
@@ -43,7 +42,7 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
     
     - J…. (about 1 - 2 more journal papers in 2020) <br />
     
-## Presentations
+## Presentations (As a Presenting Author)
 
 1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA.
 
@@ -57,42 +56,46 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
 ## Extracurricular Activities
 
-1. The Institute of Leadership and Education Advanced Development at Xi'an Jiaotong-Liverpool University
+11. Exertion Games Lab of University of Monash (06/2020 - 09/2020)
+    - Position: Research Assistant
+
+10. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
+    - Position: Research Assistant
+
+9. The Institute of Leadership and Education Advanced Development at Xi'an Jiaotong-Liverpool University (11/2019 - )
     - Position: Student Lecturer
 
-2. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University
+8. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University (11/2019 - 09/2020 )
     - Position: Undergraduate Representative (1 of Univ.)
 
-3. Summer Undergraduate Research Fellowship (SURF) at XJTLU
+7. Summer Undergraduate Research Fellowship (SURF) at Xi'an Jiaotong-Liverpool University (06/2019 - 09/2020)
     - Position: `Research Volunteer`
 
-4. Best Results-Making Team for Great Performance in Summer Social Research (1 of Univ.)
-    - With a Report in Chinese: Research on the Application of Unity in Game Development
+6. The 3rd China University Students VR/AR Development Competition (Sponsored by **Sony** and **Unity**)
+    - Position: Leader
+    - Content: Design and program a VR game: _[Cartoon Fitness Coach: My Fitness Coach Cannot be so Cute!](https://connect.unity.com/p/indoors-exergame-er-ci-yuan-de-jian-shen-guan-jia)_
 
-5. National Academic Research Competition in China: National First Prize (10%) 
-    - With a Report in Chinese: Transition and Innovation of Elementary in the Age of the Internet
-
-6. QCon: The 10th International Software Development Conference
-    - Position: Assistant Lecturer & Student Volunteer
-
-7. University of Zurich – XJTLU IBSS Cultural Exchange Experience
-    - Position: Student Volunteer
-
-8. WingPlus Program at Xi'an Jiaotong-Liverpool University
-    - Position: Big Buddy
-
-9. Summer Social Research Group
+5. Summer Social Research Group (06/2019 - 09/2020)
     - Position: Member
     - Content: Research on the Application of Unity in Game Development
+    - Award: Best Results-Making Team for Great Performance in Summer Social Research (1 of Univ.) 
+    - With a Report in Chinese: Research on the Application of Unity in Game Development
     
-10. The 3rd China University Students VR/AR Development Competition (Sponsored by **Sony** and **Unity**)
-    - Position: Leader
-    - Content: Design and program a VR game: _Cartoon Fitness Coach: My Fitness Coach Cannot be so Cute!_
-    
-11. Winter Social Research Group
+4. Winter Social Research Group (12/2018 - 03/2019)
     - Position: Leader
     - Content: Exploring the Impact of the Internet Age on Primary Education in the Common City of China
-    
+    - Award: National Academic Research Competition in China: National First Prize (10%) 
+    - With a Report in Chinese: Transition and Innovation of Elementary in the Age of the Internet
+
+3. QCon: The 10th International Software Development Conference (12/2018 - 03/2019)
+    - Position: Assistant Lecturer & Student Volunteer
+
+2. University of Zurich – XJTLU IBSS Cultural Exchange Experience (09/2019)
+    - Position: Student Volunteer
+
+1. WingPlus Program at Xi'an Jiaotong-Liverpool University (09/2019 - )
+    - Position: Big Buddy
+   
 ## Goals
 
 My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
@@ -104,17 +107,17 @@ For my short goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have
 ```markdown
 Here I will write down a few words to record some important/interesting events.
 
-1. `Wuhan!` 🇨🇳!
-
-2. One Paper is Finally Accepted by `IEEE VR`! It's also my `first` academic paper!
-
-3. Travelled in `UAE🇦🇪 (Dubai & Abu Dhabi)`, `Tunisia🇹🇳 (almost the whole country)` and `Morocco🇲🇦 (almost the whole country)` this Winter Vacation!
-
-4. 😭No visa to US, so I won't make it to Atlanta. What a pity! I will do the remote presentation instead!
+6. I am so happy that my first (but not first-author) paper has been Nominated for a #Best Paper Award# in the IEEE VR 2020 Conference. 🎉 🎉 🎉
 
 5. Honestly, my GPA (3.3) is quite lower than my classmates in our Univ.  So sad! :-(
 
-6. I am so happy that my first (but not first-author) paper has been Nominated for a Best Paper Award in the IEEE VR 2020 Conference. 🎉 🎉 🎉
+4. 😭No visa to US, so I won't make it to Atlanta. What a pity! I will do the remote presentation instead!
+
+3. Travelled in `UAE🇦🇪 (Dubai & Abu Dhabi)`, `Tunisia🇹🇳 (almost the whole country)` and `Morocco🇲🇦 (almost the whole country)` this Winter Vacation!
+
+2. One Paper is Finally Accepted by `IEEE VR`! It's also my `first` academic paper!
+
+1. `Wuhan!` 🇨🇳!
 ```
 
 ## Friends
