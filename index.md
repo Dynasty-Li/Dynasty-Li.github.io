@@ -2,7 +2,7 @@
 
 Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a Computer Science bachelor degree from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member.
 
-In addition to my research projects and the research projects I participated in, I am now sorting out several materials for Algorithms and Data Structures (in Java) and you will see these open srouces in my github later.
+In addition to my research projects and the research projects I participated in, I am now sorting out several materials for Algorithms and Data Structures (in Java) and you will see these open-srouce study materials in my github later.
 
 For more details about me, just wait for the further update OR  <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your (Nick)Name">email</a> me to ask for my latest academic curriculum vitae.
 
@@ -11,13 +11,11 @@ For more details about me, just wait for the further update OR  <a href="mailto:
 
 My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). 
 
-I am actively looking for some friends <font color="red">who have the same research interests in HCI and a strong background in Python and Deep Learning.</font> If you are interested in working with me, <a href="mailto:dynasty.li@outlook.com?subject=Co-operation in HCI and Deep Learning + Your (Nick)Name">email</a> me for more information!<br />
-
 ## Academic Experience
 
 I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger.` 
 
-I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the end of June to the early September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my advisor of this intern. He is the **General Co-Chair** of CHI 2020, which is the TOP 1 academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Dr. Rakesh Patibanda and Dr. Nathan Semertzidis at the Exertion Games Lab. **My Pleasure!**.
+I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the July to the September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my advisor of this intern. He is the **General Co-Chair** of CHI 2020, which is the Top 1 academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Dr. Rakesh Patibanda and Dr. Nathan Semertzidis at the Exertion Games Lab. **My Pleasure!**.
 
 Due to the spread of new coronavirus and nowadays serious public health situation around the world, I have to cancel the planned visit to the [University of British Columbia](https://ok.ubc.ca/). It was supposed to take place in June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦(Breach of Plan)**.
 
@@ -25,7 +23,7 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
 1. **Conference**
 
-    - C1. [IEEE Virtual Reality (VR) 2020, CCF A] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font> <br />
+    - C1. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font> <br />
     [Authors] _Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_<br />
     I am the <font color="red">present author</font> of this paper in IEEE VR Conference.
 
@@ -33,13 +31,17 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
     [Authors] _**Xiang Li**, Yuzhen Chen_<br />
     I am the <font color="red">present author</font> of this paper in IEEE ICBDA Conference.
 
-    - C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR), CCF B] Title TBA.<br />
+    - C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR)] Title TBA.<br />
     [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
+    
+    - C…. (about 3 - 4 more conference papers in 2020) <br />
 
 2. **Journal**
 
     - J1. [JMIR Serious Games, SCIE (IF=3.351)] Title TBA.<br />
     [Authors] _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzhen Chen, Kangyou Yu, Qiuyu He_
+    
+    - J…. (about 1 - 2 more journal papers in 2020) <br />
     
 ## Presentations
 
