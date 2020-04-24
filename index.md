@@ -8,7 +8,7 @@ For more details about me, just wait for the further update or <a href="mailto:d
 
 ## Research Interests
 
-My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). I am highly interested in publishing my academic research projects in the top conferences of Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, 
+My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). I am highly interested in publishing the academic research projects to the top conferences of Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, ISMAR, TEI and so on.
 
 ## Academic Experience
 
@@ -31,24 +31,22 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
     - C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR)] Title TBA.<br />
     [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
     
-    - C…. (about 3 - 4 more conference papers in 2020) <br />
+    - C4. [CHI PLAY 2020: Extended Abstract for Student Game Design Competition] Title TBA.<br />
+    [Authors] _**Xiang Li**, <u>Xiaoyue Ma</u>, et al._
+    
+    - C…. (about 3 more conference papers in 2020) <br />
 
 2. **Journal**
 
-    - J1. [JMIR Serious Games, SCIE (IF=3.351)] Title TBA.<br />
+    - J1. [JMIR Serious Games, SCI (IF=3.351)] Title TBA.<br />
     [Authors] _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzhen Chen, Kangyou Yu, Qiuyu He_
     
-    - J…. (about 1 - 2 more journal papers in 2020) <br />
+    - J…. (about 1 more journal papers in 2020) <br />
     
 3. **Poster**
 
     - P1. [SIGGRAPH Asia 2020] Title TBA.<br />
     [Authors] _**Xiang Li**, Yuzhen Chen, Xiaoyue Ma_
-
-3. **Extended Abstract**
-
-    - E1. [CHI PLAY 2020: Student Game Design Competition] Title TBA.<br />
-    [Authors] _**Xiang Li**, <u>Xiaoyue Ma<u>, and so on_
     
 ## Presentations (As a Presenting Author)
 
@@ -63,6 +61,12 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
     - Oral Presentation: Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.
 
 ## Extracurricular Activities
+
+13. CHI PLAY: Student Game Design Competition (03/2020 - 07/2020)
+    - Position: Leader
+
+12. Tencent: The NEXT Game Development Competition (03/2020 - 09/2020)
+    - Position: Member
 
 11. Exertion Games Lab of University of Monash (06/2020 - 09/2020)
     - Position: Research Assistant
