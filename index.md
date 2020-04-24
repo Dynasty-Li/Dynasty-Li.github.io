@@ -4,19 +4,17 @@ Hello, my name is Xiang Li, a Year 2 student at the [Xi'an Jiaotong-Liverpool Un
 
 In addition to my research projects and the research projects I participated in, I am now sorting out several materials for Algorithms and Data Structures (in Java) and you will see these open-srouce study materials in my github later.
 
-For more details about me, just wait for the further update or <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your (Nick)Name">email</a> me to ask for my latest academic curriculum vitae.
+For more details about me, just wait for the further update or <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your Name">email</a> me to ask for my latest academic curriculum vitae.
 
 ## Research Interests
 
-My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). 
+My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). I am highly interested in publishing my academic research projects in the top conferences of Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, 
 
 ## Academic Experience
 
 I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger.` 
 
-I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the July to the September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my advisor of this intern. He is the **General Co-Chair** of CHI 2020, which is the Top 1 academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Dr. Rakesh Patibanda and Dr. Nathan Semertzidis at the Exertion Games Lab. **My Pleasure!**.
-
-Due to the spread of new coronavirus and nowadays serious public health situation around the world, I have to cancel the planned visit to the [University of British Columbia](https://ok.ubc.ca/). It was supposed to take place in June. I hope the [Prof. Khalad Hasan](https://people.ok.ubc.ca/mkhasan/) can understand me😭, **I didn't mean to 🐦🐦🐦(Breach of Plan)**.
+I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the July to the September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my advisor of this intern. He is the General Chair of _CHI 2020_ and _CHI Play 2018_ , which is the Top 1 academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Dr. Rakesh Patibanda and Dr. Nathan Semertzidis at the Exertion Games Lab. **My Pleasure!**.
 
 ## Publications
 
@@ -41,6 +39,16 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
     [Authors] _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzhen Chen, Kangyou Yu, Qiuyu He_
     
     - J…. (about 1 - 2 more journal papers in 2020) <br />
+    
+3. **Poster**
+
+    - P1. [SIGGRAPH Asia 2020] Title TBA.<br />
+    [Authors] _**Xiang Li**, Yuzhen Chen, Xiaoyue Ma_
+
+3. **Extended Abstract**
+
+    - E1. [CHI PLAY 2020: Student Game Design Competition] Title TBA.<br />
+    [Authors] _**Xiang Li**, <u>Xiaoyue Ma<u>, and so on_
     
 ## Presentations (As a Presenting Author)
 
@@ -100,7 +108,7 @@ Due to the spread of new coronavirus and nowadays serious public health situatio
 
 My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
 
-For my short goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate. 
+For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate. 
 
 ## Life
 
