@@ -21,11 +21,11 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
 1. **Conference**
 
     - C1. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font> <br />
-    [Authors] _Wenge Xu, Hai-Ning Liang, Yuzhen Chen, **Xiang Li**, Kangyou Yu_<br />
+    [Authors] _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_<br />
     I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
 
     - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
-    [Authors] _**Xiang Li**, Yuzhen Chen_<br />
+    [Authors] _**Xiang Li**, Yuzheng Chen_<br />
     I am the <font color="red">presenting author</font> of this paper in IEEE ICBDA Conference.
 
     - C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR)] Title TBA.<br />
@@ -39,14 +39,14 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
 2. **Journal**
 
     - J1. [JMIR Serious Games, SCI (IF=3.351)] Title TBA.<br />
-    [Authors] _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzhen Chen, Kangyou Yu, Qiuyu He_
+    [Authors] _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_
     
     - J…. (about 1 more journal papers in 2020) <br />
     
 3. **Poster**
 
     - P1. [SIGGRAPH Asia 2020] Title TBA.<br />
-    [Authors] _**Xiang Li**, Yuzhen Chen, Xiaoyue Ma_
+    [Authors] _**Xiang Li**, Yuzheng Chen, Xiaoyue Ma_
     
 ## Presentations (As a Presenting Author)
 
