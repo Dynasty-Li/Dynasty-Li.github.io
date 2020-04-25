@@ -20,7 +20,9 @@ For more details about me, just wait for the further update or <a href="mailto:d
 
 ## Research Interests
 
-My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). I am highly interested in publishing the academic research projects to the top conferences of Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, ISMAR, TEI and so on.
+My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). 
+
+I am highly interested in publishing the academic research projects to the top conferences of Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, ISMAR, TEI and so on.
 
 ## Academic Experience
 
@@ -44,7 +46,10 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
     [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
     
     - C4. [CHI PLAY 2020: Extended Abstract for Student Game Design Competition] Title TBA.<br />
-    [Authors] _**Xiang Li**, <u>Xiaoyue Ma</u>, et al._
+    [Authors] _**Xiang Li**, Xiaoyue Ma, et al._
+    
+    - C5. [CHI 2021] Title TBA.<br />
+    [Authors] _**Xiang Li**, Yuzheng Chen, Xiaoyue Ma, et al._
     
     - C…. (about 3 more conference papers in 2020) <br />
 
