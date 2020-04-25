@@ -43,13 +43,13 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
     [Authors] _**Xiang Li**, Yuzheng Chen_<br />
     I am the <font color="red">presenting author</font> of this paper in IEEE ICBDA Conference.
 
-    - C3. [IEEE International Symposium on Mixed and Augmented Reality (ISMAR)] Title TBA.<br />
+    - C3. [will to IEEE International Symposium on Mixed and Augmented Reality (ISMAR)] Title TBA.<br />
     [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
     
-    - C4. [CHI PLAY 2020: Extended Abstract for Student Game Design Competition] Title TBA.<br />
+    - C4. [will to CHI PLAY 2020: Extended Abstract for Student Game Design Competition] Title TBA.<br />
     [Authors] _**Xiang Li**, Xiaoyue Ma, et al._
     
-    - C5. [CHI 2021] Title TBA.<br />
+    - C5. [will to CHI 2021] Title TBA.<br />
     [Authors] _**Xiang Li**, Yuzheng Chen, Xiaoyue Ma, et al._
     
     - C…. (about 3 more conference papers in 2020) <br />
@@ -63,7 +63,7 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
     
 3. **Poster**
 
-    - P1. [SIGGRAPH Asia 2020] Title TBA.<br />
+    - P1. [will to SIGGRAPH Asia 2020] Title TBA.<br />
     [Authors] _**Xiang Li**, Yuzheng Chen, Xiaoyue Ma_
     
 ## Presentations (As a Presenting Author)
