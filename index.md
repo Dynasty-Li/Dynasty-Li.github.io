@@ -3,8 +3,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Xiang Li</h1>
-      <p><b>e-mail：dynasty.li@outlook.com</b></p>
+      <h1>Xiang 'Dynasty' Li</h1>
       <p><b>If you want to have an unconstrained-style and creative conversation with me, with a focus on my research interests or academic projects, feel free to contact me via email (click the blue 'email' below)</b></p>
     </td>
     <td width="25%">
