@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <h1>Xiang 'Dynasty' Li</h1>
+      <h1>Xiang Li</h1>
       <p><b>If you want to have an unconstrained-style and creative conversation with me, with a focus on my research interests or academic projects, feel free to contact me via email (click the blue 'email' below)</b></p>
       <p><b>If you are interested in recruiting a PhD candidate, please feel free to contact me!</b></p>
     </td>
