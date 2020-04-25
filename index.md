@@ -7,7 +7,7 @@
       <p><b>If you want to have an unconstrained-style and creative conversation with me, with a focus on my research interests or academic projects, feel free to contact me via email (click the blue 'email' below)</b></p>
     </td>
     <td width="25%">
-      <img src="/ppp.jpg" width="100%"> 
+      <img src="/ppp.jpg" width="125%"> 
     </td>
   </tr>
 </table>
