@@ -8,7 +8,7 @@
       <p><b>If you are interested in recruiting a PhD candidate, please feel free to contact me!</b></p>
     </td>
     <td width="40%">
-      <img src="/ppp.jpg" width="100%"> 
+      <img src="/ppp.jpg" width="100%">  %Photos of My Freshmen
     </td>
   </tr>
 </table>
