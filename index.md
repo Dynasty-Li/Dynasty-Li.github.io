@@ -8,7 +8,7 @@
       <p><b>If you are interested in recruiting a PhD candidate in 2022 fall, please feel free to contact me!</b></p>
     </td>
     <td width="40%">
-      <img src="/ppp.jpg" width="100%">  Photo of My Freshmen Time
+      <img src="/ppp.jpg" width="100%">  Photo of My Freshman Time
     </td>
   </tr>
 </table>
