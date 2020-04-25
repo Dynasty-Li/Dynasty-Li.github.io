@@ -2,12 +2,12 @@
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <h1>Xiang 'Dynasty' Li</h1>
       <p><b>If you want to have an unconstrained-style and creative conversation with me, with a focus on my research interests or academic projects, feel free to contact me via email (click the blue 'email' below)</b></p>
       <p><b>If you are interested in recruiting a PhD candidate, please feel free to contact me!</b></p>
     </td>
-    <td width="50%">
+    <td width="40%">
       <img src="/ppp.jpg" width="100%"> 
     </td>
   </tr>
