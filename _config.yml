@@ -3,3 +3,8 @@ title: Xiang Li's Personal Web!
 subtitle: You are my today and all of my tomorrows, and I wish I don't know you. But l do.
 description: If you want to have an unconstrained-style and creative conversation with me, with a focus on my research interests or academic projects, feel free to contact me via email (click the blue 'email' below)
 author: Xiang Li
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "风过青山来就来"
+sidebar-avatar: /img/ppp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
