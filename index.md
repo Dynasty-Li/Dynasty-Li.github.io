@@ -54,19 +54,19 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
     
     - C…. (about 3 more conference papers in 2020) <br />
     
-<table border="0">
-  <tr>
-    <td width="60%">
-      <h3>C1. [IEEE Virtual Reality (VR) 2020]</h1>
-      <p><b>Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font> <br /></b></p>
-      <p><b>Wenge Xu, Hai-Ning Liang, Yuzheng Chen, <u>Xiang Li</u>, Kangyou Yu <br /></b></p>
-      <p><b>I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.<br /></b></p>
-    </td>
-    <td width="40%">
-      <img src="/WechatIMG3.png" width="100%">
-    </td>
-  </tr>
-</table>
+    <table border="0">
+      <tr>
+        <td width="60%">
+          <h3>C1. [IEEE Virtual Reality (VR) 2020]</h1>
+          <p><b>Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font> <br /></b></p>
+          <p><b>Wenge Xu, Hai-Ning Liang, Yuzheng Chen, <u>Xiang Li</u>, Kangyou Yu <br /></b></p>
+          <p><b>I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.<br /></b></p>
+        </td>
+        <td width="40%">
+          <img src="/WechatIMG3.png" width="100%">
+        </td>
+      </tr>
+    </table>
 
 2. **Journal**
 
