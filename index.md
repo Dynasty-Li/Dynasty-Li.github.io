@@ -54,7 +54,6 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
     
     - C…. (about 3 more conference papers in 2020) <br />
     
-    <table border="0">
       <tr>
         <td width="60%">
           <h3>C1. [IEEE Virtual Reality (VR) 2020]</h1>
@@ -66,7 +65,6 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
           <img src="/WechatIMG3.png" width="100%">
         </td>
       </tr>
-    </table> <br />
 
 2. **Journal**
 
