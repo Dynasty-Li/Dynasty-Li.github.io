@@ -66,7 +66,7 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
           <img src="/WechatIMG3.png" width="100%">
         </td>
       </tr>
-    </table>
+    </table> <br />
 
 2. **Journal**
 
