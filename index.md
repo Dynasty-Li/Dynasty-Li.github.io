@@ -52,6 +52,8 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
     - C5. [will to CHI 2021] Title TBA.<br />
     [Authors] _**Xiang Li**, Yuzheng Chen, Xiaoyue Ma, et al._
     
+    - C…. (about 3 more conference papers in 2020) <br />
+    
 <table border="0">
   <tr>
     <td width="60%">
@@ -65,8 +67,6 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
     </td>
   </tr>
 </table>
-    
-    - C…. (about 3 more conference papers in 2020) <br />
 
 2. **Journal**
 
