@@ -52,6 +52,20 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
     - C5. [will to CHI 2021] Title TBA.<br />
     [Authors] _**Xiang Li**, Yuzheng Chen, Xiaoyue Ma, et al._
     
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h1>C1. [IEEE Virtual Reality (VR) 2020]</h1>
+      <p><b>Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font> <br /></b></p>
+      <p><b>[Authors] _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_<br /></b></p>
+      <p><b>I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.<br /></b></p>
+    </td>
+    <td width="40%">
+      <img src="/WechatIMG3.png" width="100%">
+    </td>
+  </tr>
+</table>
+    
     - C…. (about 3 more conference papers in 2020) <br />
 
 2. **Journal**
