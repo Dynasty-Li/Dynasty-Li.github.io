@@ -9,7 +9,7 @@
     </td>
     <td width="40%">
       <img src="/ppp.jpg" width="50%">
-      Photo of My Freshman Time
+      <p><b>Photo of My Freshman Time</b></p>
     </td>
   </tr>
 </table>
