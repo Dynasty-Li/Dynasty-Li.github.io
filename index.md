@@ -30,6 +30,12 @@ I am highly interested in publishing the academic research projects to the top c
 I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger.` 
 
 I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the June to this September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my advisor of this intern. He is the General Chair of _CHI 2020_, which is the Top 1 academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Dr. Rakesh Patibanda at the Exertion Games Lab. **My Pleasure!**.
+   
+## Goals
+
+My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
+
+For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate. 
 
 ## Publications
 
@@ -81,56 +87,50 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
 ## Extracurricular Activities
 
 13. CHI PLAY: Student Game Design Competition (03/2020 - 07/2020)
-    - Position: Leader
+    - Position: Leader<br />
 
 12. Tencent: The NEXT Game Development Competition (03/2020 - 09/2020)
-    - Position: Member
+    - Position: Member<br />
 
 11. Exertion Games Lab of University of Monash (06/2020 - 09/2020)
-    - Position: Research Assistant
+    - Position: Research Assistant<br />
 
 10. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
-    - Position: Research Assistant
+    - Position: Research Assistant<br />
 
 9. The Institute of Leadership and Education Advanced Development at Xi'an Jiaotong-Liverpool University (11/2019 - )
-    - Position: Student Lecturer
+    - Position: Student Lecturer<br />
 
 8. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University (11/2019 - 09/2020 )
-    - Position: Undergraduate Representative (1 of Univ.)
+    - Position: Undergraduate Representative (1 of Univ.)<br />
 
 7. Summer Undergraduate Research Fellowship (SURF) at Xi'an Jiaotong-Liverpool University (06/2019 - 09/2020)
-    - Position: `Research Volunteer`
+    - Position: `Research Volunteer`<br />
 
 6. The 3rd China University Students VR/AR Development Competition (Sponsored by **Sony** and **Unity**)
     - Position: Leader
-    - Content: Design and program a VR game: _[Cartoon Fitness Coach: My Fitness Coach Cannot be so Cute!](https://connect.unity.com/p/indoors-exergame-er-ci-yuan-de-jian-shen-guan-jia)_
+    - Content: Design and program a VR game: _[Cartoon Fitness Coach: My Fitness Coach Cannot be so Cute!](https://connect.unity.com/p/indoors-exergame-er-ci-yuan-de-jian-shen-guan-jia)_<br />
 
 5. Summer Social Research Group (06/2019 - 09/2020)
     - Position: Member
     - Content: Research on the Application of Unity in Game Development
     - Award: Best Results-Making Team for Great Performance in Summer Social Research (1 of Univ.) 
-    - With a Report in Chinese: Research on the Application of Unity in Game Development
+    - With a Report in Chinese: Research on the Application of Unity in Game Development<br />
     
 4. Winter Social Research Group (12/2018 - 03/2019)
     - Position: Leader
     - Content: Exploring the Impact of the Internet Age on Primary Education in the Common City of China
     - Award: National Academic Research Competition in China: National First Prize (10%) 
-    - With a Report in Chinese: Transition and Innovation of Elementary in the Age of the Internet
+    - With a Report in Chinese: Transition and Innovation of Elementary in the Age of the Internet<br />
 
 3. QCon: The 10th International Software Development Conference (12/2018 - 03/2019)
-    - Position: Assistant Lecturer & Student Volunteer
+    - Position: Assistant Lecturer & Student Volunteer<br />
 
 2. University of Zurich – XJTLU IBSS Cultural Exchange Experience (09/2019)
-    - Position: Student Volunteer
+    - Position: Student Volunteer<br />
 
 1. WingPlus Program at Xi'an Jiaotong-Liverpool University (09/2019 - )
-    - Position: Big Buddy
-   
-## Goals
-
-My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
-
-For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate. 
+    - Position: Big Buddy<br />
 
 ## Life
 
