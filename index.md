@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <h1>Xiang Li</h1>
+      <h3>Xiang Li</h3>
       <p><b>If you want to have an unconstrained-style and creative conversation with me, feel free to contact me via email (click the blue 'email' below)</b></p>
       <p><b>If you are interested in recruiting a PhD candidate in 2022 fall, please feel free to contact me!</b></p>
     </td>
