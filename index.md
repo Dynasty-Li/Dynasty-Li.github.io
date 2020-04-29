@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <h3>Xiang Li</h3>
+      <h2>Xiang Li</h2>
       <p><b>If you want to have an unconstrained-style and creative conversation with me, feel free to contact me via email (click the blue 'email' below)</b></p>
       <p><b>If you are interested in recruiting a PhD candidate in 2022 fall, please feel free to contact me!</b></p>
     </td>
@@ -86,7 +86,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 ## Extracurricular Activities
 
-13. CHI PLAY: Student Game Design Competition (03/2020 - 07/2020)
+13. ACM CHI Play: Student Game Design Competition (03/2020 - 07/2020)
     - Position: Leader<br />
 
 12. Tencent: The NEXT Game Development Competition (03/2020 - 09/2020)
