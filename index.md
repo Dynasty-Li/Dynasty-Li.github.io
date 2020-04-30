@@ -32,7 +32,7 @@ I am now working in the [X-CHI Lab] of our university under the supervision of t
 
 I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the June to this September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my advisor of this intern. He is the General Chair of _CHI 2020_, which is the Top 1 academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Rakesh Patibanda at the Exertion Games Lab. **My Pleasure!**.
 
-<img src="/logo.png" width="100%">
+<img src="/logo.png" width="60%">
 
    
 ## Goals
