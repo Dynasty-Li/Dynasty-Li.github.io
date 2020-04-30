@@ -55,6 +55,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     [Authors] _**Xiang Li**, Yuzheng Chen_<br />
 
     - C3. [will to IEEE International Symposium on Mixed and Augmented Reality (ISMAR)] Title TBA.<br />
+    <img src="/WechatIMG2.png" width="60%"> <br />
     [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
     
     - C4. [will to CHI PLAY 2020: Extended Abstract for Student Game Design Competition] Title TBA.<br />
