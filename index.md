@@ -50,8 +50,8 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
 
     - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
+    <img src="/ICBDA.png" width="40%">
     [Authors] _**Xiang Li**, Yuzheng Chen_<br />
-    I am the <font color="red">presenting author</font> of this paper in IEEE ICBDA Conference.
 
     - C3. [will to IEEE International Symposium on Mixed and Augmented Reality (ISMAR)] Title TBA.<br />
     [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
