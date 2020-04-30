@@ -32,7 +32,7 @@ I am now working in the [X-CHI Lab] of our university under the supervision of t
 
 I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [University of Monash](https://www.monash.edu/) this summer as a three-month intern from the June to this September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my advisor of this intern. He is the General Chair of _CHI 2020_, which is the Top 1 academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Rakesh Patibanda at the Exertion Games Lab. **My Pleasure!**.
 
-<img src="/logo.png" width="80%">
+<img src="/logo.png" width="100%">
 
    
 ## Goals
@@ -46,11 +46,12 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 1. **Conference**
 
     - C1. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font> <br />
+    <img src="/WechatIMG3.png" width="60%"> <br />
     [Authors] _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_<br />
     I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
 
     - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
-    <img src="/ICBDA.png" width="40%"> <br />
+    <img src="/ICBDA.png" width="60%"> <br />
     [Authors] _**Xiang Li**, Yuzheng Chen_<br />
 
     - C3. [will to IEEE International Symposium on Mixed and Augmented Reality (ISMAR)] Title TBA.<br />
@@ -67,6 +68,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 2. **Journal**
 
     - J1. [JMIR Serious Games, SCI (IF=3.351)] Title TBA.<br />
+    <img src="/WechatIMG1.png" width="60%"> <br />
     [Authors] _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_
     
     - J…. (about 1 more journal papers in 2020) <br />
