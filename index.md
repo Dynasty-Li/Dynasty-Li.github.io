@@ -48,7 +48,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     - C1. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font> <br />
     <img src="/WechatIMG3.png" width="60%"> <br />
     [Authors] _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_<br />
-    I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
+      - I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
 
     - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
     <img src="/ICBDA.png" width="60%"> <br />
