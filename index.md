@@ -169,6 +169,8 @@ For example, 😘[Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.gi
 
 [KaKi WANG](https://kakiii.github.io/) from [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/);
 
-[Lenconda Peng](https://blog.lenconda.top/) from [Nanchang University](http://english.ncu.edu.cn/).
+[Lenconda PENG](https://blog.lenconda.top/) from [Nanchang University](http://english.ncu.edu.cn/);
+
+[You Li (李由)](https://rzvtech.top) from [Beijing Jiaotong University](http://en.njtu.edu.cn/);
 
 And some other MASTERs _TBA_.
