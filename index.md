@@ -1,13 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164997660-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-164997660-1');
-</script>
-
 ## Welcome to Xiang 'Dynasty' Li's HomePage!
 
 <table border="0">
