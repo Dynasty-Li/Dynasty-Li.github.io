@@ -34,7 +34,6 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the 
 
 <img src="/logo.png" width="60%">
 
-   
 ## Goals
 
 My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
@@ -86,24 +85,20 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     - [Oral Presentation](https://youtu.be/qhnN5UNYX1Q): Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
     
     - For Chinese friends you can click [here](https://www.bilibili.com/video/BV18E411c73c/) to find my presentation.
-    
-2. IEEE International Conference on Big Data Analysis (ICBDA) 2020, Xiamen, Fujian, China.
-
-    - Oral Presentation: Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.
 
 ## Extracurricular Activities
 
-13. ACM CHI Play: Student Game Design Competition (03/2020 - 07/2020)
+13. Exertion Games Lab of the University of Monash (06/2020 - 09/2020)
+    - Position: Research Assistant<br />
+
+12. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
+    - Position: Research Assistant<br />
+
+11. ACM CHI Play: Student Game Design Competition (03/2020 - 07/2020)
     - Position: Leader<br />
 
-12. Tencent: The NEXT Game Development Competition (03/2020 - 09/2020)
+10. Tencent: The NEXT Game Development Competition (03/2020 - 09/2020)
     - Position: Member<br />
-
-11. Exertion Games Lab of University of Monash (06/2020 - 09/2020)
-    - Position: Research Assistant<br />
-
-10. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
-    - Position: Research Assistant<br />
 
 9. The Institute of Leadership and Education Advanced Development at Xi'an Jiaotong-Liverpool University (11/2019 - )
     - Position: Student Lecturer<br />
