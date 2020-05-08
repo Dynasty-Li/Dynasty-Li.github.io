@@ -53,14 +53,14 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     <img src="/ICBDA.png" width="60%"> <br />
     [Authors] _**Xiang Li**, Yuzheng Chen_<br />
 
-    - C3. [will to IEEE International Symposium on Mixed and Augmented Reality (ISMAR)] Title TBA.<br />
+    - C3. Title TBA.<br />
     <img src="/WechatIMG2.png" width="60%"> <br />
     [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
     
     - C4. [will to CHI PLAY 2020: Extended Abstract for Student Game Design Competition] Title TBA.<br />
     [Authors] _**Xiang Li**, Xiaoyue Ma, et al._
     
-    - C5. [will to CHI 2021] Title TBA.<br />
+    - C5. Title TBA.<br />
     [Authors] _**Xiang Li**, Yuzheng Chen, Xiaoyue Ma, et al._
     
     - C…. (about 3 more conference papers in 2020) <br />
@@ -75,7 +75,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     
 3. **Poster**
 
-    - P1. [will to SIGGRAPH Asia 2020] Title TBA.<br />
+    - P1. Title TBA.<br />
     [Authors] _**Xiang Li**, Yuzheng Chen, Xiaoyue Ma_
     
 ## Presentations (As a Presenting Author)
