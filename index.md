@@ -61,7 +61,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     [Authors] _**Xiang Li**, Xiaoyue Ma, et al._
     
     - C5. Title TBA.<br />
-    [Authors] _**Xiang Li**, Yuzheng Chen, Xiaoyue Ma, et al._
+    [Authors]
     
     - C…. (about 3 more conference papers in 2020) <br />
     
@@ -76,7 +76,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 3. **Poster**
 
     - P1. Title TBA.<br />
-    [Authors] _**Xiang Li**, Yuzheng Chen, Xiaoyue Ma_
+    [Authors] 
     
 ## Presentations (As a Presenting Author)
 
