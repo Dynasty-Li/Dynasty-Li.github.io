@@ -4,8 +4,8 @@
   <tr>
     <td width="60%">
       <h2>Xiang Li</h2>
-      <p><b>If you want to have an unconstrained-style and creative conversation with me, feel free to contact me via email (click the blue 'email' below)</b></p>
-      <p><b>If you are interested in recruiting a PhD candidate in 2022 fall, please feel free to contact me!</b></p>
+      <p><b>I am actively looking for a PhD position in 2022 fall, and the opportunities of research visiting/internship in 2021 winter and summer.</b></p>
+      <p><b>If you are considered in recruiting a PhD candidate/RA, feel free to contact me!</b></p>
     </td>
     <td width="40%">
       <img src="/ppp.jpg" width="100%">
