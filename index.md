@@ -1,7 +1,7 @@
 ## Welcome to Xiang 'Dynasty' Li's HomePage!
 <head> 
-  <link rel="shortcut icon" href="/favicon2.ico"> 
-  <link rel="icon" href="/favicon.ico"> 
+  <link rel="shortcut icon" href="/favicon2.ico" type="image/x-icon"> 
+  <link rel="icon" href="/favicon.ico" type="image/x-icon"> 
 </head>
 
 <table border="0">
