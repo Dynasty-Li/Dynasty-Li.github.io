@@ -8,7 +8,7 @@
     <td width="60%">
       <h2>Xiang Li</h2>
       <p><b>I am actively looking for a PhD position in 2022 fall, and the opportunities of research visiting/internship in 2021 winter and summer.</b></p>
-      <p><b>If you are considered in recruiting a PhD candidate/RA, feel free to contact me!</b></p>
+      <p><b>If you are considered in recruiting a PhD student/visiting RA, feel free to contact me!</b></p>
     </td>
     <td width="40%">
       <img src="/ppp.jpg" width="100%">
@@ -56,7 +56,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     <img src="/ICBDA.png" width="60%"> <br />
     [Authors] _**Xiang Li**, Yuzheng Chen_<br />
 
-    - C3. Title TBA.<br />
+    - C3. [to ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality<br />
     <img src="/WechatIMG2.png" width="60%"> <br />
     [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
     
