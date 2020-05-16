@@ -56,7 +56,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     <img src="/ICBDA.png" width="60%"> <br />
     [Authors] _**Xiang Li**, Yuzheng Chen_<br />
 
-    - C3. [to ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality<br />
+    - C3. [to IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
     <img src="/WechatIMG2.png" width="60%"> <br />
     [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
     
