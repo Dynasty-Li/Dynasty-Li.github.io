@@ -57,13 +57,14 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     <img src="/ICBDA.png" width="60%"> <br />
     [Authors] _**Xiang Li**, Yuzheng Chen_<br />
 
-<!--    - C3. [to IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
+<!--    
+- C3. [to IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
     <img src="/WechatIMG2.png" width="60%"> <br />
-    [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ -->
+    [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ 
+-->
     
-    
-
-    - C…. <br />
+ 
+ - C…. <br />
     
 2. **Journal**
 
@@ -78,7 +79,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
     - [Oral Presentation](https://youtu.be/qhnN5UNYX1Q): Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
     
-    - For Chinese friends you can click [here](https://www.bilibili.com/video/BV18E411c73c/) to find my presentation.
+    - For Chinese friends you can click [here](https://www.bilibili.com/video/BV18E411c73c/) to find my presentation.<br />
 
 ## Extracurricular Activities
 
@@ -91,7 +92,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 11. ACM CHI Play: Student Game Design Competition (03/2020 - 07/2020)
     - Position: Leader<br />
 
-10. Tencent: The NEXT Game Development Competition (03/2020 - 09/2020)
+10. Tencent: NEXT IDEA Game Development Competition (03/2020 - 09/2020)
     - Position: Member<br />
 
 9. The Institute of Leadership and Education Advanced Development at Xi'an Jiaotong-Liverpool University (11/2019 - )
@@ -129,7 +130,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     - Position: Big Buddy<br />
 
 ## Life
-
+<br />
 ```markdown
 Here I will write down a few words to record some important/interesting events.
 
