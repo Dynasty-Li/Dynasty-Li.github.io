@@ -57,17 +57,13 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     <img src="/ICBDA.png" width="60%"> <br />
     [Authors] _**Xiang Li**, Yuzheng Chen_<br />
 
-    - C3. [to IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
+<!--    - C3. [to IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
     <img src="/WechatIMG2.png" width="60%"> <br />
-    [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
+    [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ -->
     
-    - C4. [will to CHI PLAY 2020: Extended Abstract for Student Game Design Competition] Title TBA.<br />
-    [Authors] _**Xiang Li**, Xiaoyue Ma, et al._
     
-    - C5. Title TBA.<br />
-    [Authors]
-    
-    - C…. (about 3 more conference papers in 2020) <br />
+
+    - C…. <br />
     
 2. **Journal**
 
@@ -75,12 +71,6 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     <img src="/WechatIMG1.png" width="60%"> <br />
     [Authors] _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_
     
-    - J…. (about 1 more journal papers in 2020) <br />
-    
-3. **Poster**
-
-    - P1. Title TBA.<br />
-    [Authors] 
     
 ## Presentations (As a Presenting Author)
 
