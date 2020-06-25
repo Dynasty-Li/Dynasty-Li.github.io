@@ -34,7 +34,7 @@ I am highly interested in publishing the academic research projects to the top c
 
 I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger.` 
 
-I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of the [Monash University](https://www.monash.edu/) this summer as a three-month intern from the June to this September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my advisor of this intern. He is the **General co-Chair of the _CHI 2020_**, which is the **Top 1** academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Rakesh Patibanda at the Exertion Games Lab. **My Pleasure!**.
+I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of [Monash University](https://www.monash.edu/) this summer as a three-month intern from the June to this September, with a focus on Brain-Computer Interaction and Motor Memory. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/home/home.htm/) will be my advisor of this intern. He is the **General co-Chair of the _CHI 2020_**, which is the **Top 1** academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Rakesh Patibanda at the Exertion Games Lab. **My Pleasure!**.
 
 <img src="/logo.png" width="60%">
 
@@ -83,7 +83,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 ## Extracurricular Activities
 
-13. Exertion Games Lab of the Monash University (06/2020 - 09/2020)
+13. Exertion Games Lab of Monash University (06/2020 - 09/2020)
     - Position: Research Assistant<br />
 
 12. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
