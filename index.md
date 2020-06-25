@@ -68,7 +68,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     
 2. **Journal**
 
-    - J1. [JMIR Serious Games, SCI (IF=3.351)] Title TBA.<br />
+    - J1. [JMIR Serious Games, SCI (IF=3.351)] Standing Versus Seated: Results and Guidelines from a Repeated-measures Design Experiment of a Full-body Gesture-based Immersive Virtual Reality Exergame<br />
     <img src="/WechatIMG1.png" width="60%"> <br />
     [Authors] _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_
     
@@ -83,7 +83,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 ## Extracurricular Activities
 
-13. Exertion Games Lab of the University of Monash (06/2020 - 09/2020)
+13. Exertion Games Lab of the Monash University (06/2020 - 09/2020)
     - Position: Research Assistant<br />
 
 12. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
