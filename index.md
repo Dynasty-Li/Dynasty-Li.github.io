@@ -28,7 +28,7 @@ For more details about me, just wait for the further update or <a href="mailto:d
 
 My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). 
 
-I am highly interested in publishing the academic research projects to the top conferences of Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, IEEE ISMAR, TEI and so on.
+I am highly interested in publishing the academic research projects to the top conferences of Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, IEEE ISMAR and so on.
 
 ## Academic Experience
 
@@ -48,27 +48,25 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 1. **Conference**
 
-    - C1. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font> <br />
+    - C1. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font> <img class="style6" src="/pdf.png" height="16" width="16"> Paper <br />
     <img src="/WechatIMG3.png" width="60%"> <br />
-    [Authors] _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_ <img class="style6" src="/pdf.png" height="16" width="16"> Paper <br />
+    [Authors] _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_ <br />
       - I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
 
-    - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<br />
+    - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<img class="style6" src="/pdf.png" height="16" width="16"> Paper <br />
     <img src="/ICBDA.png" width="60%"> <br />
     [Authors] _**Xiang Li**, Yuzheng Chen_<br />
 
-<!--    
-- C3. [to IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
+
+    - C3. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<img class="style6" src="/pdf.png" height="16" width="16"> Paper <br />
     <img src="/WechatIMG2.png" width="60%"> <br />
     [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ 
--->
     
- 
  - C…. <br />
     
 2. **Journal**
 
-    - J1. [JMIR Serious Games, SCI (IF=3.351)] Standing Versus Seated: Results and Guidelines from a Repeated-measures Design Experiment of a Full-body Gesture-based Immersive Virtual Reality Exergame<br />
+    - J1. [JMIR Serious Games, SCI (IF=3.351)] Standing Versus Seated: Results and Guidelines from a Repeated-measures Design Experiment of a Full-body Gesture-based Immersive Virtual Reality Exergame. <img class="style6" src="/pdf.png" height="16" width="16"> Paper <br />
     <img src="/WechatIMG1.png" width="60%"> <br />
     [Authors] _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_
     
