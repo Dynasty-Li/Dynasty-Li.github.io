@@ -19,7 +19,7 @@
 
 Hello, my name is Xiang Li, a Year 2 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member.
 
-In addition to my research projects and the research projects I participated in, I am now sorting out several materials for Algorithms and Data Structures (in Java) and you will see these open-srouce study materials in my github later.
+In addition to my research projects and the research projects I participated in, I am now sorting out several materials for Algorithms and Data Structures (in Java) and you will see these open-source study materials in my github later (perhaps in early 2022).
 
 For more details about me, just wait for the further update or <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your Name">email</a> me to ask for my latest academic curriculum vitae.
 
