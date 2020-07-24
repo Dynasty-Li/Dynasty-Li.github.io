@@ -53,7 +53,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     [Authors] _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_ <br />
       - I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
 
-    - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in Virtual Reality.<img class="style6" src="/pdf.gif" height="16" width="16"> Paper <br />
+    - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in VR.<img class="style6" src="/pdf.gif" height="16" width="16"> Paper <br />
     <img src="/ICBDA.png" width="60%"> <br />
     [Authors] _**Xiang Li**, Yuzheng Chen_<br />
 
