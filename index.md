@@ -60,7 +60,12 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
     - C3. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<img class="style6" src="/pdf.gif" height="16" width="16"> Paper <br />
     <img src="/WechatIMG2.png" width="60%"> <br />
-    [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ 
+    [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_
+   
+    - C4. [ACM CHI PLAY 2020] A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device.<img class="style6" src="/pdf.gif" height="16" width="16"> Paper <br /> 
+    <img src="/WechatIMG4.png" width="60%"> <br />
+    [Authors] _Rakesh Pantibanda, Utkarsh Tripathi, **Xiang Li**, Yuzheng Chen, Elise van den Hoven, Florian 'Floyd' Mueller_   
+<!--  在此处写注释 -->
     
  - C…. <br />
     
