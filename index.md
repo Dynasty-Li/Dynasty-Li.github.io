@@ -55,7 +55,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
     - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in VR.<br />
     <img src="/ICBDA.png" width="60%"> <br />
-    [Authors] _**Xiang Li**, Yuzheng Chen_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <br />
+    [Authors] _**Xiang Li**, Yuzheng Chen_ <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/icbda2020.pdf) <br />
 
 
     - C3. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
