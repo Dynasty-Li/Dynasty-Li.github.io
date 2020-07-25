@@ -46,32 +46,46 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 ## Publications
 
+Note: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI PLAY are generally recognized as top-tier conferences in my field of Human-Computer Interaction and Virtual and Augmented Reality.
+
 1. **Conference**
 
-    - C1. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
+    - C7. [ACM CHI PLAY 2020] MusicBubble: When Puzzle Game Meets Musical Rhythms. <br />
+    <img src="/WeChat5.png" width="60%"> <br />
+    [Authors] _**Xiang Li**, Yuzheng Chen, Florian 'Floyd' Mueller_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper
+    
+    - C6. [ACM CHI PLAY 2020] A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device. <br /> 
+    <img src="/WechatIMG4.png" width="60%"> <br />
+    [Authors] _Rakesh Pantibanda, Utkarsh Tripathi, **Xiang Li**, Yuzheng Chen, Elise van den Hoven, Florian 'Floyd' Mueller_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
+    
+    - C5. [ACM CHI PLAY 2020] VirusBoxing: A HIIT-based VR Boxing Game. <br />
+    <img src="/ICBDA.png" width="60%"> <br />
+    [Authors] _Wenge Xu, Hai-Ning Liang, Xiaoyue Ma, **Xiang Li**_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper
+    
+    - C4. [ACM CHI PLAY 2020] LoseSight: Feeling Empathy Towards the Underprivileged. <br />
+    <img src="/WeChat6.png" width="60%"> <br />
+    [Authors] _**Xiang Li**, Xiaoyue Ma, Wenge Xu, Hai-Ning Liang_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper
+    
+    - C3. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
+    <img src="/WechatIMG2.png" width="60%"> <br />
+    [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
+    
+    - C2. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
     <img src="/WechatIMG3.png" width="60%"> <br />
     [Authors] _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_ <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/AR_Boundary_with_author_names_fixed_fig_issue(1).pdf) <br />
       - I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
 
-    - C2. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in VR.<br />
+    - C1. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in VR.<br />
     <img src="/ICBDA.png" width="60%"> <br />
     [Authors] _**Xiang Li**, Yuzheng Chen_ <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/icbda2020.pdf) <br />
-
-
-    - C3. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
-    <img src="/WechatIMG2.png" width="60%"> <br />
-    [Authors] _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
-   
-    - C4. [ACM CHI PLAY 2020] A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device. <br /> 
-    <img src="/WechatIMG4.png" width="60%"> <br />
-    [Authors] _Rakesh Pantibanda, Utkarsh Tripathi, **Xiang Li**, Yuzheng Chen, Elise van den Hoven, Florian 'Floyd' Mueller_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
+    
 <!--  在此处写注释 -->
     
  - C…. <br />
     
 2. **Journal**
 
-    - J1. [JMIR Serious Games, SCI (IF=3.351)] Standing Versus Seated: Results and Guidelines from a Repeated-measures Design Experiment of a Full-body Gesture-based Immersive Virtual Reality Exergame. <br />
+    - J1. [JMIR Serious Games, SCI (IF=3.53)] Results and Guidelines from a Repeated-Measures Design Experiment Comparing Standing and Seated Full-Body Gesture-Based Immersive Virtual Reality Exergames: Within-Subjects Study. <br />
     <img src="/WechatIMG1.png" width="60%"> <br />
     [Authors] _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
     
