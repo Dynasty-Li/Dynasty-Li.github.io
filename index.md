@@ -93,7 +93,8 @@ Note: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI
 
     - J1. [JMIR Serious Games, SCI (IF=3.53)] Results and Guidelines from a Repeated-Measures Design Experiment Comparing Standing and Seated Full-Body Gesture-Based Immersive Virtual Reality Exergames: Within-Subjects Study. <br />
     <img src="/WechatIMG1.png" width="60%"> <br />
-    _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
+    _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_ <br />
+    <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
     
     
 ## Presentations (As a Presenting Author)
