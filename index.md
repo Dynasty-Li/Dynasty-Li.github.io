@@ -46,7 +46,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 ## Publications
 
-Note: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI PLAY are generally recognized as top-tier conferences in my field of Human-Computer Interaction and Virtual and Augmented Reality.
+**Note**: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI PLAY are generally recognized as top-tier conferences in my field of Human-Computer Interaction, Game Technology, Interaction Design and Virtual/Augmented Reality.
 
 1. **Conference**    
     
