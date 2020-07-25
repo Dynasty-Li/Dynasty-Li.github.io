@@ -52,7 +52,8 @@ Note: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI
 
     - C7. [ACM CHI PLAY 2020] MusicBubble: When Puzzle Game Meets Musical Rhythms. <br />
     <img src="/WeChat5.png" width="60%"> <br />
-    _**Xiang Li**, Yuzheng Chen, Florian 'Floyd' Mueller_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper
+    _**Xiang Li**, Yuzheng Chen, Florian 'Floyd' Mueller_ 
+    <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code
     
     - C6. [ACM CHI PLAY 2020] A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device. <br /> 
     <img src="/WechatIMG4.png" width="60%"> <br />
