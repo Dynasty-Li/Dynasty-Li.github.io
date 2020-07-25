@@ -79,7 +79,7 @@ Note: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI
 ## Presentations (As a Presenting Author)
 
 1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA.
-
+    <img src="/vr2020.png" width="60%"> <br />
     - [Oral Presentation](https://youtu.be/qhnN5UNYX1Q): Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
     
     - For Chinese friends you can click [here](https://www.bilibili.com/video/BV18E411c73c/) to find my presentation.<br />
