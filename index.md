@@ -57,19 +57,22 @@ Note: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI
     
     - C6. [ACM CHI PLAY 2020] A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device. <br /> 
     <img src="/WechatIMG4.png" width="60%"> <br />
-    _Rakesh Pantibanda, Utkarsh Tripathi, **Xiang Li**, Yuzheng Chen, Elise van den Hoven, Florian 'Floyd' Mueller_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
+    _Rakesh Pantibanda, Utkarsh Tripathi, **Xiang Li**, Yuzheng Chen, Elise van den Hoven, Florian 'Floyd' Mueller_ <br />
+    <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code
     
     - C5. [ACM CHI PLAY 2020] VirusBoxing: A HIIT-based VR Boxing Game. <br />
-    <img src="/ICBDA.png" width="60%"> <br />
-    _Wenge Xu, Hai-Ning Liang, Xiaoyue Ma, **Xiang Li**_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper
+    _Wenge Xu, Hai-Ning Liang, Xiaoyue Ma, **Xiang Li**_ <br />
+    <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code
     
     - C4. [ACM CHI PLAY 2020] LoseSight: Feeling Empathy Towards the Underprivileged. <br />
     <img src="/WeChat6.png" width="60%"> <br />
-    _**Xiang Li**, Xiaoyue Ma, Wenge Xu, Hai-Ning Liang_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper
+    _**Xiang Li**, Xiaoyue Ma, Wenge Xu, Hai-Ning Liang_ <br />
+    <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code
     
     - C3. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
     <img src="/WechatIMG2.png" width="60%"> <br />
-    _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
+    _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <br />
+    <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
     
     - C2. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
     <img src="/WechatIMG3.png" width="60%"> <br />
