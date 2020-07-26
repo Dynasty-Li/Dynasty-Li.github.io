@@ -58,7 +58,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     - C2. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
     <img src="/WechatIMG3.png" width="60%"> <br />
     _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_ <br />
-    <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/AR_Boundary_with_author_names_fixed_fig_issue(1).pdf) <br />
+    <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/AR_Boundary_with_author_names_fixed_fig_issue(1).pdf) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/qhnN5UNYX1Q)<br />
       - I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
 
     - C1. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in VR.<br />
