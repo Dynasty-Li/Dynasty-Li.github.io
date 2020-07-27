@@ -78,7 +78,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     
 ## Presentations (As a Presenting Author)
 
-1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA.
+1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA.<br />
     <img src="/vr2020.png" width="60%"> <br />
     - [Oral Presentation](https://youtu.be/qhnN5UNYX1Q): Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
     
