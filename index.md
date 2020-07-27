@@ -48,52 +48,52 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 **Note**: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI PLAY are generally recognized as top-tier conferences in my field of Human-Computer Interaction, Game Technology, Interaction Design and Virtual/Augmented Reality.
 
-1. **Conference**
+**1. Conference**
+    
+  - C7. [ACM CHI PLAY 2020] MusicBubble: When Puzzle Game Meets Musical Rhythms. <br />
+  <img src="/WeChat5.png" width="60%"> <br />
+  _**Xiang Li**, Yuzheng Chen, Florian 'Floyd' Mueller_ <br />
+  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/T8BqO01OwYg)  
+    
+  - C6. [ACM CHI PLAY 2020] A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device. <br /> 
+  <img src="/WechatIMG4.png" width="60%"> <br />
+  _Rakesh Pantibanda, Utkarsh Tripathi, **Xiang Li**, Yuzheng Chen, Elise van den Hoven, Florian 'Floyd' Mueller_ <br />
+  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code
+    
+  - C5. [ACM CHI PLAY 2020] VirusBoxing: A HIIT-based VR Boxing Game. <br />
+  <img src="/WechatIMG106.png" width="60%"> <br />
+  _Wenge Xu, Hai-Ning Liang, Xiaoyue Ma, **Xiang Li**_ <br />
+  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/LYTcdu3NmT8)
+    
+  - C4. [ACM CHI PLAY 2020] LoseSight: Feeling Empathy Towards the Underprivileged. <br />
+  <img src="/WeChat6.png" width="60%"> <br />
+  _**Xiang Li**, Xiaoyue Ma, Wenge Xu, Hai-Ning Liang_ <br />
+  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/bXmtd_iwHBg)
 
-    - C7. [ACM CHI PLAY 2020] MusicBubble: When Puzzle Game Meets Musical Rhythms. <br />
-    <img src="/WeChat5.png" width="60%"> <br />
-    _**Xiang Li**, Yuzheng Chen, Florian 'Floyd' Mueller_ <br />
-    <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/T8BqO01OwYg)  
+  - C3. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
+  <img src="/WechatIMG2.png" width="60%"> <br />
+  _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <br />
+  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
     
-    - C6. [ACM CHI PLAY 2020] A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device. <br /> 
-    <img src="/WechatIMG4.png" width="60%"> <br />
-    _Rakesh Pantibanda, Utkarsh Tripathi, **Xiang Li**, Yuzheng Chen, Elise van den Hoven, Florian 'Floyd' Mueller_ <br />
-    <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code
-    
-    - C5. [ACM CHI PLAY 2020] VirusBoxing: A HIIT-based VR Boxing Game. <br />
-    <img src="/WechatIMG106.png" width="60%"> <br />
-    _Wenge Xu, Hai-Ning Liang, Xiaoyue Ma, **Xiang Li**_ <br />
-    <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/LYTcdu3NmT8)
-    
-    - C4. [ACM CHI PLAY 2020] LoseSight: Feeling Empathy Towards the Underprivileged. <br />
-    <img src="/WeChat6.png" width="60%"> <br />
-    _**Xiang Li**, Xiaoyue Ma, Wenge Xu, Hai-Ning Liang_ <br />
-    <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/bXmtd_iwHBg)
+  - C2. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
+  <img src="/WechatIMG3.png" width="60%"> <br />
+  _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_ <br />
+  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/AR_Boundary_with_author_names_fixed_fig_issue(1).pdf) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/qhnN5UNYX1Q)<br />
+    - I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
 
-    - C3. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
-    <img src="/WechatIMG2.png" width="60%"> <br />
-    _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <br />
-    <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
+  - C1. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in VR.<br />
+  <img src="/ICBDA.png" width="60%"> <br />
+  _**Xiang Li**, Yuzheng Chen_ <br />
+  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/icbda2020.pdf) <br />
     
-    - C2. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
-    <img src="/WechatIMG3.png" width="60%"> <br />
-    _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_ <br />
-    <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/AR_Boundary_with_author_names_fixed_fig_issue(1).pdf) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/qhnN5UNYX1Q)<br />
-      - I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
+  - C…. <br />
+    
+**2. Journal**
 
-    - C1. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in VR.<br />
-    <img src="/ICBDA.png" width="60%"> <br />
-    _**Xiang Li**, Yuzheng Chen_ <br />
-    <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/icbda2020.pdf) <br />
-    
- - C…. <br />
-    
-2. **Journal**
-
-    - J1. [JMIR Serious Games, SCI (IF=3.53)] Results and Guidelines from a Repeated-Measures Design Experiment Comparing Standing and Seated Full-Body Gesture-Based Immersive Virtual Reality Exergames: Within-Subjects Study. <br />
-    <img src="/WechatIMG1.png" width="60%"> <br />
-    _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_ <br />
-    <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](https://games.jmir.org/2020/3/e17972/) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/RujYL73hjYM)
+  - J1. [JMIR Serious Games, SCI (IF=3.53)] Results and Guidelines from a Repeated-Measures Design Experiment Comparing Standing and Seated Full-Body Gesture-Based Immersive Virtual Reality Exergames: Within-Subjects Study. <br />
+  <img src="/WechatIMG1.png" width="60%"> <br />
+  _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_ <br />
+  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](https://games.jmir.org/2020/3/e17972/) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/RujYL73hjYM)
     
     
 ## Presentations (As a Presenting Author)
