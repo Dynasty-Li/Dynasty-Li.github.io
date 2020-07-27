@@ -137,9 +137,13 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 ```markdown
 Here I will write down a few words to record some important/interesting events.
 
-6. I am so happy that my first (but not first-author) paper has been Nominated for a #Best Paper Award# in the IEEE VR 2020 Conference. 🎉 🎉 🎉
+8.
 
-5. Honestly, my GPA (3.3) is quite lower than my classmates in our Univ.  So sad! :-(
+7. 4x CHI PLAY 2020 Extended Abstract Papers have been submitted! Good Luck! 7/2020
+
+6. I am so happy that my first (but not first-author) paper has been Nominated for a #Best Paper Award# in the IEEE VR 2020 Conference. 🎉 🎉 🎉 3/2020
+
+5. Honestly, my GPA (3.5) is quite lower than my classmates in our Univ.  So sad! :-(
 
 4. 😭No visa to US, so I won't make it to Atlanta. What a pity! I will do the remote presentation instead!
 
