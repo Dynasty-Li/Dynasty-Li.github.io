@@ -60,11 +60,6 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     _Rakesh Pantibanda, Utkarsh Tripathi, **Xiang Li**, Yuzheng Chen, Elise van den Hoven, Florian 'Floyd' Mueller_ <br />
     < img class="style6" src="/pdf.gif" height="16" width="16"> Paper < img class="style6" src="/github.png" height="16" width="16"> Code
     
-    - C5. [ACM CHI PLAY 2020] VirusBoxing: A HIIT-based VR Boxing Game. <br />
-    < img src="/WechatIMG106.png" width="60%"> <br />
-    _Wenge Xu, Hai-Ning Liang, Xiaoyue Ma, **Xiang Li**_ <br />
-    < img class="style6" src="/pdf.gif" height="16" width="16"> Paper < img class="style6" src="/github.png" height="16" width="16"> Code < img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/LYTcdu3NmT8)
-    
     - C4. [ACM CHI PLAY 2020] LoseSight: Feeling Empathy Towards the Underprivileged. <br />
     < img src="/WeChat6.png" width="60%"> <br />
     _**Xiang Li**, Xiaoyue Ma, Wenge Xu, Hai-Ning Liang_ <br />
