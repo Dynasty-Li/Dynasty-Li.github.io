@@ -38,6 +38,8 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of [Mon
 
 <img src="/logo.png" width="60%">
 
+I serverd as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020 and CHI PLAY 2020, and I got 2x Special Recognitions for Outstanding Reviews for ISMAR 2020.
+
 ## Goals
 
 My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
@@ -83,6 +85,21 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     - [Oral Presentation](https://youtu.be/qhnN5UNYX1Q): Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
     
     - For Chinese friends you can click [here](https://www.bilibili.com/video/BV18E411c73c/) to find my presentation.<br />
+
+## Awards & Honors
+
+6. 2x Special Recognitions for Outstanding Reviews for ISMAR 2020 (06/2020)
+
+5. IEEE VR 2020 Best Conference Paper Nominee (5%) (03/2020)
+
+4. Student Representative in Academic Practice Sub-Committee (1 of the Univ.) (09/2019 – 09/2020)
+
+3. Summer Undergraduate Research Fellowship (SURF) (5% of the Univ.) (06/2019 – 09/2019)
+
+2. Best Results-Making Team for Great Performance in Summer Social Research (1 of the Univ.) (10/2019)
+
+1. National Academic Research Competition in China: National First Prize (10%) (02/2019)
+
 
 ## Extracurricular Activities
 
