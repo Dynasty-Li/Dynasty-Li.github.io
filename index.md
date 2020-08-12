@@ -2,6 +2,13 @@
        <link rel="icon" href="favicon.ico" type="image/x-icon" /> </head>
 
 ## Welcome to Xiang 'Dynasty' Li's HomePage!
+<p><a href="#Research Interests">Research Interests</a> |
+<a href="#Academic Experience">Academic Experience</a> |
+<a href="#Goals">Goals</a> |
+<a href="#Publications">Publications</a> |
+<a href="#Presentations (As a Presenting Author)">Presentations (As a Presenting Author)</a> |
+<a href="#Awards & Honors">Awards & Honors</a>
+<a href="#Extracurricular Activities">Extracurricular Activities</a></p>
 
 <table border="0">
   <tr>
