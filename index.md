@@ -7,7 +7,7 @@
 <a href="#Goals">Goals</a> |
 <a href="#Publications">Publications</a> |
 <a href="#Presentations (As a Presenting Author)">Presentations (As a Presenting Author)</a> |
-<a href="#Awards & Honors">Awards & Honors</a>
+<a href="#Awards & Honors">Awards & Honors</a> |
 <a href="#Extracurricular Activities">Extracurricular Activities</a></p>
 
 <table border="0">
