@@ -60,9 +60,9 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 **1. Conference**
     
   - C4. [ACM CHI PLAY 2020] A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device. <br /> 
-  < img src="/WechatIMG4.png" width="60%"> <br />
+  <img src="/WechatIMG4.png" width="60%"> <br />
   _Rakesh Pantibanda, Utkarsh Tripathi, **Xiang Li**, Yuzheng Chen, Elise van den Hoven, Florian 'Floyd' Mueller_ <br />
-  < img class="style6" src="/pdf.gif" height="16" width="16"> Paper < img class="style6" src="/github.png" height="16" width="16"> Code
+  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code 
     
 
   - C3. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
@@ -93,19 +93,19 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 **3. Poster/Extended Abstract**
 
   - P3. [ACM CHI PLAY 2020] MusicBubble: When Puzzle Game Meets Musical Rhythms. <br />
-  < img src="/WeChat5.png" width="60%"> <br />
+  <img src="/WeChat5.png" width="60%"> <br />
   _**Xiang Li**, Yuzheng Chen, Florian 'Floyd' Mueller_ <br />
-  < img class="style6" src="/pdf.gif" height="16" width="16"> Paper < img class="style6" src="/github.png" height="16" width="16"> Code < img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/T8BqO01OwYg)  
+  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/T8BqO01OwYg)  
   
   - P2. [ACM CHI PLAY 2020] VirusBoxing: A HIIT-based VR Boxing Game. <br />
-  < img src="/WechatIMG106.png" width="60%"> <br />
+  <img src="/WechatIMG106.png" width="60%"> <br />
   _Wenge Xu, Hai-Ning Liang, Xiaoyue Ma, **Xiang Li**_ <br />
-  < img class="style6" src="/pdf.gif" height="16" width="16"> Paper < img class="style6" src="/github.png" height="16" width="16"> Code < img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/LYTcdu3NmT8)
+  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/LYTcdu3NmT8)
     
   - P1. [ACM CHI PLAY 2020] LoseSight: Feeling Empathy Towards the Underprivileged. <br />
-  < img src="/WeChat6.png" width="60%"> <br />
+  <img src="/WeChat6.png" width="60%"> <br />
   _**Xiang Li**, Xiaoyue Ma, Wenge Xu, Hai-Ning Liang_ <br />
-  < img class="style6" src="/pdf.gif" height="16" width="16"> Paper < img class="style6" src="/github.png" height="16" width="16"> Code < img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/bXmtd_iwHBg)
+  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/bXmtd_iwHBg)
     
 <h2 id="Presentations-(As-a-Presenting-Author)">Presentations (As a Presenting Author)</h2>
 
