@@ -1,5 +1,5 @@
-## 2022 Fall CS-HCI PhD 申请流水账
-<br />
+<h2 id="title">2022 Fall CS-HCI PhD 申请流水账</h2>
+
 <p><a href="#Description">说明</a> |
 <a href="#Major">申请方向</a> |
 <a href="#Background">学校背景</a> |
