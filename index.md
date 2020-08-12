@@ -2,13 +2,13 @@
        <link rel="icon" href="favicon.ico" type="image/x-icon" /> </head>
 
 ## Welcome to Xiang 'Dynasty' Li's HomePage!
-<p><a href="#Research Interests">Research Interests</a> |
-<a href="#Academic Experience">Academic Experience</a> |
+<p><a href="#Research-Interests">Research Interests</a> |
+<a href="#Academic-Experience">Academic Experience</a> |
 <a href="#Goals">Goals</a> |
 <a href="#Publications">Publications</a> |
-<a href="#Presentations (As a Presenting Author)">Presentations (As a Presenting Author)</a> |
-<a href="#Awards & Honors">Awards & Honors</a> |
-<a href="#Extracurricular Activities">Extracurricular Activities</a></p>
+<a href="#Presentations-(As-a-Presenting-Author)">Presentations (As a Presenting Author)</a> |
+<a href="#Awards-&-Honors">Award & Honors</a> |
+<a href="#Extracurricular-Activities">Extracurricular Activities</a></p>
 
 <table border="0">
   <tr>
@@ -31,13 +31,13 @@ In addition to my research projects and the research projects I participated in,
 For more details about me, just wait for the further update or <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your Name">email</a> me to ask for my latest academic curriculum vitae.
 
 
-## Research Interests
+<h2 id="Research-Interests">Research Interests</h2>
 
 My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). 
 
 I am highly interested in publishing the academic research projects to the top conferences of Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, IEEE ISMAR and so on.
 
-## Academic Experience
+<h2 id="Academic-Experience">Academic Experience</h2>
 
 I am now working in the [X-CHI Lab] of our university under the supervision of the Dean of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/), with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger and Hai-Ning.` 
 
@@ -47,13 +47,13 @@ I will also join the [Exertion Games Lab](https://exertiongameslab.org/) of [Mon
 
 I serverd as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020 and CHI PLAY 2020, and I got 2x Special Recognitions for Outstanding Reviews for ISMAR 2020.
 
-## Goals
+<h2 id="Goals">Goals</h2>
 
 My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
 
 For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate. 
 
-## Publications
+<h2 id="Publications">Publications</h2>
 
 **Note**: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI PLAY are generally recognized as top-tier conferences in my field of Human-Computer Interaction, Game Technology, Interaction Design and Virtual/Augmented Reality.
 
@@ -85,7 +85,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
   <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](https://games.jmir.org/2020/3/e17972/) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/RujYL73hjYM)
     
     
-## Presentations (As a Presenting Author)
+<h2 id="Presentations-(As-a-Presenting-Author)">Presentations (As a Presenting Author)</h2>
 
 1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA.<br />
     <img src="/vr2020.png" width="60%"> <br />
@@ -93,7 +93,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     
     - For Chinese friends you can click [here](https://www.bilibili.com/video/BV18E411c73c/) to find my presentation.<br />
 
-## Awards & Honors
+<h2 id="Awards-&-Honors">Awards & Honors</h2>
 
 6. 2x Special Recognitions for Outstanding Reviews for ISMAR 2020 (06/2020)
 
@@ -108,7 +108,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 1. National Academic Research Competition in China: National First Prize (10%) (02/2019)
 
 
-## Extracurricular Activities
+<h2 id="Extracurricular-Activities">Extracurricular Activities</h2>
 
 13. Exertion Games Lab of Monash University (06/2020 - 09/2020)
     - Position: Research Assistant<br />
