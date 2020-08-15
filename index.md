@@ -140,60 +140,30 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 <h2 id="Extracurricular-Activities">Extracurricular Activities</h2>
 
-  - EA13. Exertion Games Lab of Monash University (06/2020 - 09/2020)
+  - EA8. Exertion Games Lab of Monash University (06/2020 - 09/2020)
     - Position: Research Assistant<br />
 
-  - EA12. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
-    - Position: Research Assistant<br />
+  - EA7. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
+    - Position: Research Assistant (10k)<br />
 
-  - EA11. ACM CHI Play: Student Game Design Competition (03/2020 - 07/2020)
+  - EA6. ACM CHI Play: Student Game Design Competition (03/2020 - 07/2020)
     - Position: Leader<br />
 
-  - EA10. Tencent: NEXT IDEA Game Development Competition (03/2020 - 09/2020)
+  - EA5. Tencent: NEXT IDEA Game Development Competition (03/2020 - 09/2020)
     - Position: Member<br />
 
-  - EA9. The Institute of Leadership and Education Advanced Development at Xi'an Jiaotong-Liverpool University (11/2019 - )
+  - EA4. The Institute of Leadership and Education Advanced Development at Xi'an Jiaotong-Liverpool University (11/2019 - )
     - Position: Student Lecturer<br />
 
-  - EA8. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University (11/2019 - 09/2020 )
+  - EA3. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University (11/2019 - 09/2020 )
     - Position: Undergraduate Representative (1 of Univ.)<br />
 
-  - EA7. Summer Undergraduate Research Fellowship (SURF) at Xi'an Jiaotong-Liverpool University (06/2019 - 09/2020)
-    - Position: `Research Volunteer`<br />
+  - EA2. Summer Undergraduate Research Fellowship (SURF) at Xi'an Jiaotong-Liverpool University (06/2019 - 09/2020)
+    - Position: Research Volunteer<br />
 
-  - EA6. The 3rd China University Students VR/AR Development Competition (Sponsored by **Sony** and **Unity**)
+  - EA1. The 3rd China University Students VR/AR Development Competition (Sponsored by **Sony** and **Unity**)
     - Position: Leader
     - Content: Design and program a VR game: _[Cartoon Fitness Coach: My Fitness Coach Cannot be so Cute!](https://connect.unity.com/p/indoors-exergame-er-ci-yuan-de-jian-shen-guan-jia)_<br />
-
-<details>
-<summary>More...</summary>
-<div>
-<ul>
-<li><br />
-  - EA5. Summer Social Research Group (06/2019 - 09/2020)
-    - Position: Member
-    - Content: Research on the Application of Unity in Game Development
-    - Award: Best Results-Making Team for Great Performance in Summer Social Research (1 of Univ.) 
-    - With a Report in Chinese: Research on the Application of Unity in Game Development<br />
-    
-  - EA4. Winter Social Research Group (12/2018 - 03/2019)
-    - Position: Leader
-    - Content: Exploring the Impact of the Internet Age on Primary Education in the Common City of China
-    - Award: National Academic Research Competition in China: National First Prize (10%) 
-    - With a Report in Chinese: Transition and Innovation of Elementary in the Age of the Internet<br />
-
-  - EA3. QCon: The 10th International Software Development Conference (12/2018 - 03/2019)
-    - Position: Assistant Lecturer & Student Volunteer<br />
-
-  - EA2. University of Zurich – XJTLU IBSS Cultural Exchange Experience (09/2019)
-    - Position: Student Volunteer<br />
-
-  - EA1. WingPlus Program at Xi'an Jiaotong-Liverpool University (09/2019 - )
-    - Position: Big Buddy<br />
-</li>
-</ul>
-</div>
-</details>
 
 ## Life
 <br />
@@ -234,4 +204,4 @@ For example, 😘[Kevin GUO](https://guoyuanxinkevin.github.io/GYX_bleach_boi.gi
 
 [You Li (李由)](https://rzvtech.top) from [Beijing Jiaotong University](http://en.njtu.edu.cn/);
 
-And some other MASTERs _TBA_.
+_TBC_.
