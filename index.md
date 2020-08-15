@@ -89,7 +89,9 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
   <img src="/WechatIMG1.png" width="60%"> <br />
   _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](https://games.jmir.org/2020/3/e17972/) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/RujYL73hjYM)
-    
+  
+  - J…. <br />
+  
 **3. Poster/Extended Abstract**
 
   - P3. [ACM CHI PLAY 2020] MusicBubble: When Puzzle Game Meets Musical Rhythms. <br />
@@ -106,6 +108,8 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
   <img src="/WeChat6.png" width="60%"> <br />
   _**Xiang Li**, Xiaoyue Ma, Wenge Xu, Hai-Ning Liang_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/bXmtd_iwHBg)
+  
+  - P…. <br />
     
 <h2 id="Presentations-(As-a-Presenting-Author)">Presentations (As a Presenting Author)</h2>
 
