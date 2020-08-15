@@ -157,6 +157,11 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     - Position: Leader
     - Content: Design and program a VR game: _[Cartoon Fitness Coach: My Fitness Coach Cannot be so Cute!](https://connect.unity.com/p/indoors-exergame-er-ci-yuan-de-jian-shen-guan-jia)_<br />
 
+<details>
+<summary>MORE...</summary>
+<div>
+<ul>
+<li>
 5. Summer Social Research Group (06/2019 - 09/2020)
     - Position: Member
     - Content: Research on the Application of Unity in Game Development
@@ -177,6 +182,10 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 1. WingPlus Program at Xi'an Jiaotong-Liverpool University (09/2019 - )
     - Position: Big Buddy<br />
+</li>
+</ul>
+</div>
+</details>
 
 ## Life
 <br />
