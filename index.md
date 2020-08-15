@@ -170,7 +170,8 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 <div>
 <ul>
 <li>
-  - EA5. Summer Social Research Group (06/2019 - 09/2020)<br />
+<br />
+  - EA5. Summer Social Research Group (06/2019 - 09/2020)
     - Position: Member
     - Content: Research on the Application of Unity in Game Development
     - Award: Best Results-Making Team for Great Performance in Summer Social Research (1 of Univ.) 
