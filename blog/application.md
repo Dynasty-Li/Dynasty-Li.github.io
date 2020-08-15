@@ -25,6 +25,15 @@
 
 <h3 id="Background">学校背景</h3>
 
+  <summary>MORE...</summary>
+  <div>
+    <ul>
+      <li>
+        - 西交利物浦大学
+      </li>
+    </ul>
+</div>
+
 <h3 id="GRE">语言成绩</h3>
 
 <h3 id="Academic-Background">学术背景</h3>
@@ -32,4 +41,11 @@
 <h3 id="Application-Essay">文书</h3>
 
 文书包括：
-  - 
+
+  - 简历/CV
+  
+  - SoP/Statement of Purpose
+  
+  - 推荐信/RL
+  
+  - 面试准备的PPT
