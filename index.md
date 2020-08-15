@@ -59,33 +59,28 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 **1. Conference**
     
-  - C4. [ACM CHI PLAY 2020] A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device. <br /> 
+  - C3. [ACM CHI PLAY 2020] A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device. <br /> 
   <img src="/WechatIMG4.png" width="60%"> <br />
   _Rakesh Pantibanda, Utkarsh Tripathi, **Xiang Li**, Yuzheng Chen, Elise van den Hoven, Florian 'Floyd' Mueller_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code 
     
 
-  - C3. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
+  - C2. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
   <img src="/WechatIMG2.png" width="60%"> <br />
   _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
     
-  - C2. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
+  - C1. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
   <img src="/WechatIMG3.png" width="60%"> <br />
   _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/AR_Boundary_with_author_names_fixed_fig_issue(1).pdf) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/qhnN5UNYX1Q)<br />
     - I am the <font color="red">presenting author</font> of this paper in IEEE VR Conference.
 
-  - C1. [IEEE International Conference on Big Data Analysis (ICBDA) 2020, EI & Scopus] Auto-Hierarchical Data Algorithm: Focus on Increasing Users’ Motivation and Duration in VR.<br />
-  <img src="/ICBDA.png" width="60%"> <br />
-  _**Xiang Li**, Yuzheng Chen_ <br />
-  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/icbda2020.pdf) <br />
-    
   - C…. <br />
     
 **2. Journal**
 
-  - J1. [JMIR Serious Games, SCI (IF=3.53)] Results and Guidelines from a Repeated-Measures Design Experiment Comparing Standing and Seated Full-Body Gesture-Based Immersive Virtual Reality Exergames: Within-Subjects Study. <br />
+  - J1. [JMIR Serious Games, SCI (IF=3.53), Top 1 Journal in Serious Games] Results and Guidelines from a Repeated-Measures Design Experiment Comparing Standing and Seated Full-Body Gesture-Based Immersive Virtual Reality Exergames: Within-Subjects Study. <br />
   <img src="/WechatIMG1.png" width="60%"> <br />
   _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](https://games.jmir.org/2020/3/e17972/) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/RujYL73hjYM)
