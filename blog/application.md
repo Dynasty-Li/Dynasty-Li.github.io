@@ -24,7 +24,7 @@
 我也会整理一个我在申请前做的部分工作的清单供大家参考，比方说想申请哪些学校/教授，为什么，怎么权衡的以及其相关的时间线。（FLAG）
 
 <h3 id="Background">学校背景</h3>
-
+<details>
   <summary>MORE...</summary>
   <div>
     <ul>
@@ -33,7 +33,7 @@
       </li>
     </ul>
 </div>
-
+</details>
 <h3 id="GRE">语言成绩</h3>
 
 <h3 id="Academic-Background">学术背景</h3>
