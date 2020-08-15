@@ -183,6 +183,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 ## Life
 <br />
+
 ```markdown
 Here I will write down a few words to record some important/interesting events.
 
