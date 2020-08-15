@@ -109,9 +109,11 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 <h2 id="Talk">Talk</h2>
 
   - T3. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
+    <img src="/Monash.jpeg" width="40%"> <br />
     - Feasibility and Effectiveness of Gesture-based Virtual Reality Seated Exergames
 
   - T2. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
+    <img src="/Monash.jpeg" width="40%"> <br />
     - MusicBubble: When Puzzle Game Meets Musical Rhythms
 
   - T1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA, Mar. 2020.<br />
