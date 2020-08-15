@@ -24,18 +24,17 @@
   </tr>
 </table>
 
-Hello, my name is Xiang Li, a Year 2 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member.
-
-In addition to my research projects and the research projects I participated in, I am now sorting out several materials for Algorithms and Data Structures (in Java) and you will see these open-source study materials in my github later (perhaps in early 2022).
+Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member.
 
 For more details about me, just wait for the further update or <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your Name">email</a> me to ask for my latest academic curriculum vitae.
-
 
 <h2 id="Research-Interests">Research Interests</h2>
 
 My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). 
 
-I am highly interested in publishing the academic research projects to the top conferences of Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, IEEE ISMAR and so on.
+I've always believed that there is a super gap between what people live with now and advanced technology. It is difficult to integrate, for example, people's established lifestyles with new technologies. My research will focus on exploring the connection between virtual reality/augmented reality with real life applications, and the role of human-computer interaction in creating a real world that is more "natural" and receptive to intelligent devices.
+
+I am highly interested in publishing the academic research projects to the top conferences of Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, IEEE ISMAR and so on. Any cooperation? Email me too!
 
 <h2 id="Academic-Experience">Academic Experience</h2>
 
