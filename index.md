@@ -6,7 +6,7 @@
 <a href="#Academic-Experience">Academic Experience</a> |
 <a href="#Goals">Goals</a> |
 <a href="#Publications">Publications</a> |
-<a href="#Presentations-(As-a-Presenting-Author)">Presentations (As a Presenting Author)</a> |
+<a href="#Talk">Talk</a> |
 <a href="#Awards-&-Honors">Award & Honors</a> |
 <a href="#Extracurricular-Activities">Extracurricular Activities</a></p>
 
@@ -111,75 +111,89 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
   
   - P…. <br />
     
-<h2 id="Presentations-(As-a-Presenting-Author)">Presentations (As a Presenting Author)</h2>
+<h2 id="Talk">Talk</h2>
 
-1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA.<br />
-    <img src="/vr2020.png" width="60%"> <br />
+T3. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
+    - Feasibility and Effectiveness of Gesture-based Virtual Reality Seated Exergames
+
+T2. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
+    - MusicBubble: When Puzzle Game Meets Musical Rhythms
+
+T1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA, Mar. 2020.<br />
+    <img src="/vr2020.png" width="40%"> <br />
     - [Oral Presentation](https://youtu.be/qhnN5UNYX1Q): Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
-    
     - For Chinese friends you can click [here](https://www.bilibili.com/video/BV18E411c73c/) to find my presentation.<br />
 
 <h2 id="Awards-&-Honors">Awards & Honors</h2>
 
-6. 2x Special Recognitions for Outstanding Reviews for ISMAR 2020 (06/2020)
+A6. 2x Special Recognitions for Outstanding Reviews for ISMAR 2020 (06/2020)
 
-5. IEEE VR 2020 Best Conference Paper Nominee (5%) (03/2020)
+A5. IEEE VR 2020 Best Conference Paper Nominee (5%) (03/2020)
 
-4. Student Representative in Academic Practice Sub-Committee (1 of the Univ.) (09/2019 – 09/2020)
+A4. Student Representative in Academic Practice Sub-Committee (1 of the Univ.) (09/2019 – 09/2020)
 
-3. Summer Undergraduate Research Fellowship (SURF) (5% of the Univ.) (06/2019 – 09/2019)
+A3. Summer Undergraduate Research Fellowship (SURF) (5% of the Univ.) (06/2019 – 09/2019)
 
-2. Best Results-Making Team for Great Performance in Summer Social Research (1 of the Univ.) (10/2019)
+A2. Best Results-Making Team for Great Performance in Summer Social Research (1 of the Univ.) (10/2019)
 
-1. National Academic Research Competition in China: National First Prize (10%) (02/2019)
+A1. National Academic Research Competition in China: National First Prize (10%) (02/2019)
 
 <h2 id="Extracurricular-Activities">Extracurricular Activities</h2>
 
-13. Exertion Games Lab of Monash University (06/2020 - 09/2020)
+EA13. Exertion Games Lab of Monash University (06/2020 - 09/2020)
     - Position: Research Assistant<br />
 
-12. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
+EA12. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
     - Position: Research Assistant<br />
 
-11. ACM CHI Play: Student Game Design Competition (03/2020 - 07/2020)
+EA11. ACM CHI Play: Student Game Design Competition (03/2020 - 07/2020)
     - Position: Leader<br />
 
-10. Tencent: NEXT IDEA Game Development Competition (03/2020 - 09/2020)
+EA10. Tencent: NEXT IDEA Game Development Competition (03/2020 - 09/2020)
     - Position: Member<br />
 
-9. The Institute of Leadership and Education Advanced Development at Xi'an Jiaotong-Liverpool University (11/2019 - )
+EA9. The Institute of Leadership and Education Advanced Development at Xi'an Jiaotong-Liverpool University (11/2019 - )
     - Position: Student Lecturer<br />
 
-8. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University (11/2019 - 09/2020 )
+EA8. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University (11/2019 - 09/2020 )
     - Position: Undergraduate Representative (1 of Univ.)<br />
 
-7. Summer Undergraduate Research Fellowship (SURF) at Xi'an Jiaotong-Liverpool University (06/2019 - 09/2020)
+EA7. Summer Undergraduate Research Fellowship (SURF) at Xi'an Jiaotong-Liverpool University (06/2019 - 09/2020)
     - Position: `Research Volunteer`<br />
 
-6. The 3rd China University Students VR/AR Development Competition (Sponsored by **Sony** and **Unity**)
+EA6. The 3rd China University Students VR/AR Development Competition (Sponsored by **Sony** and **Unity**)
     - Position: Leader
     - Content: Design and program a VR game: _[Cartoon Fitness Coach: My Fitness Coach Cannot be so Cute!](https://connect.unity.com/p/indoors-exergame-er-ci-yuan-de-jian-shen-guan-jia)_<br />
 
-5. Summer Social Research Group (06/2019 - 09/2020)
+<details>
+<summary>More...</summary>
+<div>
+<ul>
+<li>
+EA5. Summer Social Research Group (06/2019 - 09/2020)
     - Position: Member
     - Content: Research on the Application of Unity in Game Development
     - Award: Best Results-Making Team for Great Performance in Summer Social Research (1 of Univ.) 
     - With a Report in Chinese: Research on the Application of Unity in Game Development<br />
     
-4. Winter Social Research Group (12/2018 - 03/2019)
+EA4. Winter Social Research Group (12/2018 - 03/2019)
     - Position: Leader
     - Content: Exploring the Impact of the Internet Age on Primary Education in the Common City of China
     - Award: National Academic Research Competition in China: National First Prize (10%) 
     - With a Report in Chinese: Transition and Innovation of Elementary in the Age of the Internet<br />
 
-3. QCon: The 10th International Software Development Conference (12/2018 - 03/2019)
+EA3. QCon: The 10th International Software Development Conference (12/2018 - 03/2019)
     - Position: Assistant Lecturer & Student Volunteer<br />
 
-2. University of Zurich – XJTLU IBSS Cultural Exchange Experience (09/2019)
+EA2. University of Zurich – XJTLU IBSS Cultural Exchange Experience (09/2019)
     - Position: Student Volunteer<br />
 
-1. WingPlus Program at Xi'an Jiaotong-Liverpool University (09/2019 - )
+EA1. WingPlus Program at Xi'an Jiaotong-Liverpool University (09/2019 - )
     - Position: Big Buddy<br />
+</li>
+</ul>
+</div>
+</details>
 
 ## Life
 <br />
