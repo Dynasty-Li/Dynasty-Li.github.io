@@ -1,5 +1,6 @@
-<head> <link rel="shortcut icon" href="favicon2.ico" type="image/x-icon" /> 
-       <link rel="icon" href="favicon.ico" type="image/x-icon" /> 
+<head> 
+<link rel="shortcut icon" href="favicon2.ico" type="image/x-icon" /> 
+<link rel="icon" href="favicon.ico" type="image/x-icon" /> 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164997660-1"></script>
 <script>
@@ -9,7 +10,6 @@
 
   gtag('config', 'UA-164997660-1');
 </script>
-
 </head>
 
 ## Welcome to Xiang 'Dynasty' Li's HomePage!
