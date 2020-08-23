@@ -95,7 +95,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
   
 **3. Poster/Extended Abstract**
   
-  - P1. [ACM CHI PLAY 2020] VirusBoxing: A HIIT-based VR Boxing Game.<font color="red"> Finalist Award<br /> 
+  - P1. [ACM CHI PLAY 2020] VirusBoxing: A HIIT-based VR Boxing Game.<font color="red"> Finalist Award</font><br /> 
   <img src="/WechatIMG106.png" width="60%"> <br />
   _Wenge Xu, Hai-Ning Liang, Xiaoyue Ma, **Xiang Li**_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/LYTcdu3NmT8)
@@ -103,7 +103,6 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
   - P…. <br />
     
 **4.Manuscript**
-
     
   - M3. A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device. <br /> 
   <img src="/WechatIMG4.png" width="60%"> <br />
