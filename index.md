@@ -65,7 +65,7 @@ My long-term goal is to apply HCI-related knowledge into the real society, and l
 
 For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate. 
 
-<h2 id="Publications">Publications</h2>
+<h2 id="Publications">Selected Publications</h2>
 
 **Note**: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI PLAY are generally recognized as top-tier conferences in my field of Human-Computer Interaction, Game Technology, Interaction Design and Virtual/Augmented Reality.
 
