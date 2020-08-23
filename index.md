@@ -143,6 +143,8 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
   - A2. Student Representative in Academic Practice Sub-Committee (1 of the Univ.) (09/2019 – 09/2020)
 
   - A1. Summer Undergraduate Research Fellowship (SURF) (5% of the Univ.) (06/2019 – 09/2019)
+  
+  - A0. Best Results-Making Team for Great Performance in Summer Social Research (1 of the Univ.) (10/2019)
 
 <h2 id="Extracurricular-Activities">Extracurricular Activities</h2>
 
