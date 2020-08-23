@@ -136,17 +136,13 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 <h2 id="Awards-&-Honors">Awards & Honors</h2>
 
-  - A6. 2x Special Recognitions for Outstanding Reviews for ISMAR 2020 (06/2020)
+  - A4. 2x Special Recognitions for Outstanding Reviews for ISMAR 2020 (06/2020)
 
-  - A5. IEEE VR 2020 Best Conference Paper Nominee (5%) (03/2020)
+  - A3. IEEE VR 2020 Best Conference Paper Nominee (5%) (03/2020)
 
-  - A4. Student Representative in Academic Practice Sub-Committee (1 of the Univ.) (09/2019 – 09/2020)
+  - A2. Student Representative in Academic Practice Sub-Committee (1 of the Univ.) (09/2019 – 09/2020)
 
-  - A3. Summer Undergraduate Research Fellowship (SURF) (5% of the Univ.) (06/2019 – 09/2019)
-
-  - A2. Best Results-Making Team for Great Performance in Summer Social Research (1 of the Univ.) (10/2019)
-
-  - A1. National Academic Research Competition in China: National First Prize (10%) (02/2019)
+  - A1. Summer Undergraduate Research Fellowship (SURF) (5% of the Univ.) (06/2019 – 09/2019)
 
 <h2 id="Extracurricular-Activities">Extracurricular Activities</h2>
 
