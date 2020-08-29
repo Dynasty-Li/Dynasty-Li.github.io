@@ -74,7 +74,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
   - C2. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
   <img src="/WechatIMG2.png" width="60%"> <br />
   _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <br />
-  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper 
+  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/paper/ismar20a.pdf) 
     
   - C1. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
   <img src="/WechatIMG3.png" width="60%"> <br />
@@ -98,7 +98,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
   - P1. [ACM CHI PLAY 2020] VirusBoxing: A HIIT-based VR Boxing Game.<br /> 
   <img src="/WechatIMG106.png" width="60%"> <br />
   _Wenge Xu, Hai-Ning Liang, Xiaoyue Ma, **Xiang Li**_ <br />
-  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/LYTcdu3NmT8)
+  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/chiplay.pdf) <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/LYTcdu3NmT8)
   
   - P…. <br />
 
