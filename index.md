@@ -69,6 +69,8 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
 
 **Note**: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI PLAY are generally recognized as top-tier conferences in my field of Human-Computer Interaction, Game Technology, Interaction Design and Virtual/Augmented Reality.
 
+For my full publications, please refer to my [google scholar](https://scholar.google.com/citations?hl=zh-CN&user=HDQU65AAAAAJ#) page.
+
 **1. Conference**
 
   - C2. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
