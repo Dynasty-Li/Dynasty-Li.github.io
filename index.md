@@ -86,7 +86,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
     
 **2. Journal**
 
-  - J1. [JMIR Serious Games, SCI (IF=3.53), Top 1 Journal in Serious Games] Results and Guidelines from a Repeated-Measures Design Experiment Comparing Standing and Seated Full-Body Gesture-Based Immersive Virtual Reality Exergames: Within-Subjects Study. <br />
+  - J1. [JMIR Serious Games, SCI (IF=3.53), Top Journal in Serious Games] Results and Guidelines from a Repeated-Measures Design Experiment Comparing Standing and Seated Full-Body Gesture-Based Immersive Virtual Reality Exergames: Within-Subjects Study. <br />
   <img src="/WechatIMG1.png" width="60%"> <br />
   _Wenge Xu, Hai-Ning Liang, **Xiang Li**, Yuzheng Chen, Kangyou Yu, Qiuyu He_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](https://games.jmir.org/2020/3/e17972/) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/RujYL73hjYM)
