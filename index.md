@@ -98,7 +98,7 @@ For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to
   - P1. [ACM CHI PLAY 2020] VirusBoxing: A HIIT-based VR Boxing Game.<br /> 
   <img src="/chiplay.png" width="60%"> <br />
   _Wenge Xu, Hai-Ning Liang, Xiaoyue Ma, **Xiang Li**_ <br />
-  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/chiplay.pdf) <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/LYTcdu3NmT8)
+  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/chiplay.pdf) <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://www.youtube.com/watch?v=lVBhoAyCcsk)
   
   - P…. <br />
 
