@@ -39,7 +39,7 @@
 
 Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member.
 
-For more details about me, just wait for the further update or <a href="mailto:dynasty.li@outlook.com?subject=Write Your Question or Requirement+Your Name">email</a> me to ask for my latest academic curriculum vitae.
+For more details about me, please read my website and my [cv](/papers/Xiang_Sept_1_CV.pdf)(however, it won't be updated frequently.).
 
 <h2 id="Research-Interests">Research Interests</h2>
 
