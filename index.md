@@ -122,13 +122,17 @@ For my full publications, please refer to my [google scholar](https://scholar.go
 
 <h2 id="Talk">Talk</h2>
 
+  - T4. ChinaVR Conference 2020, Jilin, China. 2020.<br />
+    <img src="/logo3.png" width="40%"> <br />
+    - Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
+    
   - T3. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
     <img src="/Monash.jpeg" width="40%"> <br />
-    - Feasibility and Effectiveness of Gesture-based Virtual Reality Seated Exergames
+    - Feasibility and Effectiveness of Gesture-based Virtual Reality Seated Exergames.
 
   - T2. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
     <img src="/Monash.jpeg" width="40%"> <br />
-    - MusicBubble: When Puzzle Game Meets Musical Rhythms
+    - MusicBubble: When Puzzle Game Meets Musical Rhythms.
 
   - T1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA, Mar. 2020.<br />
     <img src="/vr2020.png" width="40%"> <br />
