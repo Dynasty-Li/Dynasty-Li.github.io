@@ -53,9 +53,9 @@ I am highly interested in publishing the academic research projects to the top c
 
 I have been working in the [X-CHI Lab] of Xi'an Jiaotong-Liverpool University as a research assistant under the supervision of the Head of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/) since 2019 summer, with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger and Hai-Ning.` 
 
-I also worked at the [Exertion Games Lab](https://exertiongameslab.org/) of [Monash University](https://www.monash.edu/) in 2020 summer as a research intern, lying primarily in the fields of Leveraging Electrical Muscle Stimulation as an Embodied Memory Support Device. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/) is my advisor of this intern. He is the **General co-Chair of the _CHI 2020_**, which is the **Top 1** academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Rakesh Patibanda (PhD) at the Exertion Games Lab. **My Pleasure!**.
+I also worked at the [Exertion Games Lab](https://exertiongameslab.org/) of [Monash University](https://www.monash.edu/) in 2020 summer as a research intern, lying primarily in the fields of Leveraging Electrical Muscle Stimulation as an Embodied Memory Support Device. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/) is my advisor of this intern. He is the **General co-Chair of the _CHI 2020_**, which is the **Top 1** academic conference in the field of the Human-Computer Interaction. Meanwhile, I will work with Rakesh Patibanda (PhD) at the Exertion Games Lab. **My Pleasure!**
 
-<img src="/logo.png" width="60%">
+<img src="/logo.png" width="50%">
 
 I serverd as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020 and CHI PLAY 2020, and I got 2x Special Recognitions for Outstanding Reviews for ISMAR 2020.
 
