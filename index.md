@@ -120,7 +120,7 @@ For my full publications, please refer to my [google scholar](https://scholar.go
   <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/bXmtd_iwHBg)
 -->
 
-<h2 id="Talk">Talk</h2>
+<h2 id="Talk">Talks</h2>
 
   - T4. ChinaVR Conference 2020, Jilin, China. 2020.<br />
     <img src="/logo3.png" width="40%"> <br />
@@ -157,7 +157,7 @@ For my full publications, please refer to my [google scholar](https://scholar.go
     - Position: Research Assistant<br />
 
   - EA7. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
-    - Position: Research Assistant (10k)<br />
+    - Position: Research Assistant<br />
 
   - EA6. ACM CHI Play: Student Game Design Competition (03/2020 - 07/2020)
     - Position: Leader<br />
