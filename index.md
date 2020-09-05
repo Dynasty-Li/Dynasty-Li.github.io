@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in UK). I am also an IEEE Student Member.
+Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in the UK). I am also an IEEE Student Member.
 
 For more details about me, please read my website and my [CV/Resume](/papers/Xiang_Sept_1_CV.pdf) (however, it won't be updated frequently.).
 
@@ -45,29 +45,29 @@ For more details about me, please read my website and my [CV/Resume](/papers/Xia
 
 My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). 
 
-I've always believed that there is a super gap between what people live with now and advanced technology. It is difficult to integrate, for example, people's established lifestyles with new technologies. My research will focus on exploring the connection between virtual reality/augmented reality with real life applications, and the role of human-computer interaction in creating a real world that is more "natural" and receptive to intelligent devices.
+I've always believed that there is a super gap between what people live with now and advanced technology. It is difficult to integrate, for example, people's established lifestyles with new technologies. My research will focus on exploring the connection between virtual reality/augmented reality with real-life applications, and the role of human-computer interaction in creating a real-world that is more "natural" and receptive to intelligent devices.
 
-I am highly interested in publishing the academic research projects to the top conferences of Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, IEEE ISMAR and so on. Any cooperation? Email me too!
+I am highly interested in publishing academic research projects to the top conferences of the Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, IEEE ISMAR, and so on. Any cooperation? Email me too!
 
 <h2 id="Academic-Experience">Academic Experience</h2>
 
 I have been working in the [X-CHI Lab] of [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) as a research assistant under the supervision of the Head of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/) since 2019 summer, with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger and Hai-Ning.` 
 
-I also worked at the [Exertion Games Lab](https://exertiongameslab.org/) of [Monash University](https://www.monash.edu/) in 2020 summer as a research intern, lying primarily in the fields of Leveraging Electrical Muscle Stimulation as an Embodied Memory Support Device. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/) is my advisor of this intern. He is the **General co-Chair of the _CHI 2020_**, which is the **Top 1** academic conference in the field of the Human-Computer Interaction. Meanwhile, I am working with Rakesh Patibanda (PhD) at the Exertion Games Lab. **My Pleasure!**
+I also worked at the [Exertion Games Lab](https://exertiongameslab.org/) of [Monash University](https://www.monash.edu/) in 2020 summer as a research intern, lying primarily in the fields of Leveraging Electrical Muscle Stimulation as an Embodied Memory Support Device. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/) is my advisor of this intern. He is the **General co-Chair of the _CHI 2020_**, which is the **Top 1** academic conference in the field of Human-Computer Interaction. Meanwhile, I am working with Rakesh Patibanda (Ph.D.) at the Exertion Games Lab. **My Pleasure!**
 
 <img src="/logo.png" width="50%">
 
-I serverd as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020 and CHI PLAY 2020, and I got 2x Special Recognitions for Outstanding Reviews for ISMAR 2020.
+I served as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020, and CHI PLAY 2020, and I got 2x Special Recognitions for Outstanding Reviews for ISMAR 2020.
 
 <h2 id="Goals">Goals</h2>
 
-My long-term goal is to apply HCI-related knowledge into the real society, and let people can really enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
+My long-term goal is to apply HCI-related knowledge into real society and let people can enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
 
-For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a PhD candidate. 
+For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a Ph.D. candidate. 
 
 <h2 id="Publications">Selected Publications</h2>
 
-**Note**: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI PLAY are generally recognized as top-tier conferences in my field of Human-Computer Interaction, Game Technology, Interaction Design and Virtual/Augmented Reality.
+**Note**: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI PLAY are generally recognized as top-tier conferences in my field of Human-Computer Interaction, Game Technology, Interaction Design, and Virtual/Augmented Reality.
 
 For my full publications, please refer to my [google scholar](https://scholar.google.com/citations?hl=zh-CN&user=HDQU65AAAAAJ#) page.
 
@@ -137,7 +137,7 @@ For my full publications, please refer to my [google scholar](https://scholar.go
   - T1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA, Mar. 2020.<br />
     <img src="/vr2020.png" width="40%"> <br />
     - [Oral Presentation](https://youtu.be/qhnN5UNYX1Q): Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
-    - For Chinese friends you can click [here](https://www.bilibili.com/video/BV18E411c73c/) to find my presentation.<br />
+    - For Chinese friends, you can click [here](https://www.bilibili.com/video/BV18E411c73c/) to find my presentation.<br />
 
 <h2 id="Awards-&-Honors">Awards & Honors</h2>
 
@@ -194,9 +194,9 @@ Here I will write down a few words to record some important/interesting events.
 
 5. Honestly, my GPA (3.5) is quite lower than my classmates in our Univ.  So sad! :-(
 
-4. 😭No visa to US, so I won't make it to Atlanta. What a pity! I will do the remote presentation instead!
+4. 😭No visa to the US, so I won't make it to Atlanta. What a pity! I will do the remote presentation instead!
 
-3. Travelled in `UAE🇦🇪 (Dubai & Abu Dhabi)`, `Tunisia🇹🇳 (almost the whole country)` and `Morocco🇲🇦 (almost the whole country)` this Winter Vacation!
+3. Traveled in `UAE🇦🇪 (Dubai & Abu Dhabi)`, `Tunisia🇹🇳 (almost the whole country)` and `Morocco🇲🇦 (almost the whole country)` this Winter Vacation!
 
 2. One Paper is Finally Accepted by `IEEE VR`! It's also my `first` academic paper!
 
