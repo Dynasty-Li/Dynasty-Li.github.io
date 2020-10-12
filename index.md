@@ -38,7 +38,7 @@
 
 Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in the UK). I am also an IEEE Student Member.
 
-For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf).
+For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf). My [Twitter](https://twitter.com/XiangLi0929): @XiangLi0929. 
 
 <h2 id="Research-Interests">Research Interests</h2>
 
@@ -129,57 +129,33 @@ For my full publications, please refer to my [google scholar](https://scholar.go
 
 <h2 id="Extracurricular-Activities">Extracurricular Activities</h2>
 
-  - EA9. 
+  - EA9. IEEE ISMAR 2020
+    - Position: Student Volunteer<br />
 
-  - EA8. Exertion Games Lab of Monash University (06/2020 - 09/2020)
+  - EA8. ACM CHI PLAY 2020
+    - Position: Student Volunteer<br />
+
+  - EA7. Exertion Games Lab of Monash University
     - Position: Research Assistant<br />
 
-  - EA7. X-CHI Lab of Xi'an Jiaotong-Liverpool University (05/2019 - )
+  - EA6. X-CHI Lab of Xi'an Jiaotong-Liverpool University
     - Position: Research Assistant<br />
 
-  - EA6. ACM CHI Play: Student Game Design Competition (03/2020 - 07/2020)
+  - EA5. ACM CHI Play: Student Game Design Competition
     - Position: Leader<br />
 
-  - EA5. Tencent: NEXT IDEA Game Development Competition (03/2020 - 09/2020)
+  - EA4. Tencent: NEXT IDEA Game Development Competition
     - Position: Member<br />
 
-  - EA4. The Institute of Leadership and Education Advanced Development at Xi'an Jiaotong-Liverpool University (11/2019 - )
-    - Position: Student Lecturer<br />
-
-  - EA3. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University (11/2019 - 09/2020 )
+  - EA3. Academic Practice Sub-Committee at Xi'an Jiaotong-Liverpool University
     - Position: Undergraduate Representative (1 of Univ.)<br />
 
-  - EA2. Summer Undergraduate Research Fellowship (SURF) at Xi'an Jiaotong-Liverpool University (06/2019 - 09/2020)
+  - EA2. Summer Undergraduate Research Fellowship (SURF) at Xi'an Jiaotong-Liverpool University
     - Position: Research Volunteer<br />
 
-  - EA1. The 3rd China University Students VR/AR Development Competition (Sponsored by **Sony** and **Unity**)
+  - EA1. The 3rd China University Students VR/AR Development Competition
     - Position: Leader
     - Content: Design and program a VR game: _[Cartoon Fitness Coach: My Fitness Coach Cannot be so Cute!](https://connect.unity.com/p/indoors-exergame-er-ci-yuan-de-jian-shen-guan-jia)_<br />
-
-## Life
-<br />
-
-```markdown
-Here I will write down a few words to record some important/interesting events.
-
-9. CHI PLAY doesn't like me. SAD :(
-
-8. 1x ISMAR 2020 has been accepted! Congrats to Xueshi! 🎉 7/2020
-
-7. 4x CHI PLAY 2020 Extended Abstract Papers have been submitted! Good Luck! 7/2020
-
-6. I am so happy that my first (but not first-author) paper has been Nominated for a #Best Paper Award# in the IEEE VR 2020 Conference. 🎉 🎉 🎉 3/2020
-
-5. Honestly, my GPA (3.5) is quite lower than my classmates in our Univ.  So sad! :-(
-
-4. 😭No visa to the US, so I won't make it to Atlanta. What a pity! I will do the remote presentation instead!
-
-3. Traveled in `UAE🇦🇪 (Dubai & Abu Dhabi)`, `Tunisia🇹🇳 (almost the whole country)` and `Morocco🇲🇦 (almost the whole country)` this Winter Vacation!
-
-2. One Paper is Finally Accepted by `IEEE VR`! It's also my `first` academic paper!
-
-1. `Wuhan!` 🇨🇳!
-```
 
 ## Friends
 
