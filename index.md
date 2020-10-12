@@ -95,22 +95,6 @@ For my full publications, please refer to my [google scholar](https://scholar.go
   
   - P…. <br />
 
-<!--
-  **4. Manuscript**  
-  - M3. A Novel Game that Leverages Electrical Muscle Stimulation as an Embodied Memory Support Device. <br /> 
-  <img src="/WechatIMG4.png" width="60%"> <br />
-  _Rakesh Patibanda, Utkarsh Tripathi, **Xiang Li**, Yuzheng Chen, Elise van den Hoven, Florian 'Floyd' Mueller_ <br />
-  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code 
-  - M2. MusicBubble: When Puzzle Game Meets Musical Rhythms. <br />
-  <img src="/WeChat5.png" width="60%"> <br />
-  _**Xiang Li**, Yuzheng Chen, Rakesh Patibanda, Florian 'Floyd' Mueller_ <br />
-  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/T8BqO01OwYg)  
-  - M1. LoseSight: Feeling Empathy Towards the Underprivileged. <br />
-  <img src="/WeChat6.png" width="60%"> <br />
-  _**Xiang Li**, Xiaoyue Ma, Wenge Xu, Hai-Ning Liang_ <br />
-  <img class="style6" src="/pdf.gif" height="16" width="16"> Paper <img class="style6" src="/github.png" height="16" width="16"> Code <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/bXmtd_iwHBg)
--->
-
 <h2 id="Talk">Talks</h2>
 
 
@@ -145,7 +129,7 @@ For my full publications, please refer to my [google scholar](https://scholar.go
 
 <h2 id="Extracurricular-Activities">Extracurricular Activities</h2>
 
-  - EA9.
+  - EA9. 
 
   - EA8. Exertion Games Lab of Monash University (06/2020 - 09/2020)
     - Position: Research Assistant<br />
