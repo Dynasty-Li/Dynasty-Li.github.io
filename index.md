@@ -27,7 +27,6 @@
     <td width="60%">
       <h2>Xiang Li</h2>
       <p><b>I am actively looking for a HCI PhD position in 2022 fall.</b></p>
-      <p><b>For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf). </b></p>
     </td>
     <td width="40%">
       <img src="/ppp.jpg" width="100%">
@@ -38,7 +37,7 @@
 
 Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in the UK). I am also an IEEE Student Member.
 
-My Twitter: [@XiangLi0929](https://twitter.com/XiangLi0929). 
+For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf). My Twitter: [@XiangLi0929](https://twitter.com/XiangLi0929). 
 
 <h2 id="Research-Interests">Research Interests</h2>
 
