@@ -24,11 +24,11 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="40%">
       <h2>Xiang Li</h2>
       <p><b>I am actively looking for a HCI PhD position in 2022 fall.</b></p>
     </td>
-    <td width="40%">
+    <td width="60%">
       <img src="/ppp.jpg" width="100%">
       <p><b>Photo of My Freshman Time</b></p>
     </td>
