@@ -26,7 +26,6 @@
   <tr>
     <td width="60%">
       <h2>Xiang Li</h2>
-      <p><b>I am actively looking for a PhD position in 2022 fall, and the opportunities of research visiting/internship in 2021 winter and summer.</b></p>
       <p><b>If you are considered in recruiting a PhD student/visiting RA, feel free to contact me!</b></p>
     </td>
     <td width="40%">
