@@ -113,17 +113,18 @@ For my full publications, please refer to my [google scholar](https://scholar.go
 
 <h2 id="Talk">Talks</h2>
 
-  - T4. ChinaVR Conference 2020, Jilin, China. 2020.<br />
+
+  - T4. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
+    <img src="/Monash.jpeg" width="40%"> <br />
+    - CAPTCHA Design in Virtual Reality
+
+  - T3. ChinaVR Conference 2020, Jilin, China. 2020.<br />
     <img src="/logo3.png" width="40%"> <br />
     - Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
     
-  - T3. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
-    <img src="/Monash.jpeg" width="40%"> <br />
-    - Feasibility and Effectiveness of Gesture-based Virtual Reality Seated Exergames.
-
   - T2. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
     <img src="/Monash.jpeg" width="40%"> <br />
-    - MusicBubble: When Puzzle Game Meets Musical Rhythms.
+    - Feasibility and Effectiveness of Gesture-based Virtual Reality Seated Exergames.
 
   - T1. IEEE Virtual Reality (VR) Conference 2020, Atlanta, Georgia, USA, Mar. 2020.<br />
     <img src="/vr2020.png" width="40%"> <br />
@@ -143,6 +144,8 @@ For my full publications, please refer to my [google scholar](https://scholar.go
   - A0. Best Results-Making Team for Great Performance in Summer Social Research (1 of the Univ.) (10/2019)
 
 <h2 id="Extracurricular-Activities">Extracurricular Activities</h2>
+
+  - EA9.
 
   - EA8. Exertion Games Lab of Monash University (06/2020 - 09/2020)
     - Position: Research Assistant<br />
