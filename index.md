@@ -18,7 +18,7 @@
 <p><a href="#Research-Interests">Research Interests</a> |
 <a href="#Academic-Experience">Academic Experience</a> |
 <a href="#Publications">Publications</a> |
-<a href="#Talk">Talk</a> |
+<a href="#Talk">Presentations</a> |
 <a href="#Awards-&-Honors">Award & Honors</a> |
 <a href="#Extracurricular-Activities">Extracurricular Activities</a></p>
 
@@ -27,6 +27,7 @@
     <td width="60%">
       <h2>Xiang Li</h2>
       <p><b>I am actively looking for a HCI PhD position in 2022 fall.</b></p>
+      <p><b>For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf). </b></p>
     </td>
     <td width="40%">
       <img src="/ppp.jpg" width="100%">
@@ -37,7 +38,7 @@
 
 Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in the UK). I am also an IEEE Student Member.
 
-For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf). My Twitter: [@XiangLi0929](https://twitter.com/XiangLi0929). 
+My Twitter: [@XiangLi0929](https://twitter.com/XiangLi0929). 
 
 <h2 id="Research-Interests">Research Interests</h2>
 
@@ -94,7 +95,7 @@ For my full publications, please refer to my [google scholar](https://scholar.go
   
   - P…. <br />
 
-<h2 id="Talk">Talks</h2>
+<h2 id="Talk">Presentations</h2>
 
 
   - T4. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
