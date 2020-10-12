@@ -39,7 +39,7 @@
 
 Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in the UK). I am also an IEEE Student Member.
 
-For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf) (however, it won't be updated frequently).
+For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf).
 
 <h2 id="Research-Interests">Research Interests</h2>
 
@@ -47,17 +47,17 @@ My research interests include Human-Computer Interaction (HCI) with subfields in
 
 I've always believed that there is a super gap between what people live with now and advanced technology. It is difficult to integrate, for example, people's established lifestyles with new technologies. My research will focus on exploring the connection between virtual reality/augmented reality with real-life applications, and the role of human-computer interaction in creating a real-world that is more "natural" and receptive to intelligent devices.
 
-I am highly interested in publishing academic research projects to the top conferences of the Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, IEEE ISMAR, and so on. Any cooperation? Email me too!
+I am highly interested in publishing academic research projects to the top conferences of the Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, IEEE ISMAR, and so on. Any cooperation? Email me!
 
 <h2 id="Academic-Experience">Academic Experience</h2>
 
-I have been working in the [X-CHI Lab] of [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) as a research assistant under the supervision of the Head of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/) since 2019 summer, with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. `Honest thanks to Wenger and Hai-Ning.` 
+I have been working in the [X-CHI Lab] of [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) as a research assistant under the supervision of the Head of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/) since 2019 summer, with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. 
 
-I also worked at the [Exertion Games Lab](https://exertiongameslab.org/) of [Monash University](https://www.monash.edu/) in 2020 summer as a research intern, lying primarily in the fields of Leveraging Electrical Muscle Stimulation as an Embodied Memory Support Device. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/) is my advisor of this intern. He is the **General co-Chair of the _CHI 2020_**, which is the **Top 1** academic conference in the field of Human-Computer Interaction. Meanwhile, I am working with Rakesh Patibanda (Ph.D.) at the Exertion Games Lab. **My Pleasure!**
+I also worked at the [Exertion Games Lab](https://exertiongameslab.org/) of [Monash University](https://www.monash.edu/) as a research assistant, lying primarily in the fields of Leveraging Electrical Muscle Stimulation as an Embodied Memory Support Device. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/), [Prof. Elise van den Hoven](http://elisevandenhoven.com/), and [Rakesh Patibanda](https://rakeshpatibanda.com) (Ph.D.) are my advisors of this intern. 
 
 <img src="/logo.png" width="50%">
 
-I served as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020, and CHI PLAY 2020, and I got 2x Special Recognitions for Outstanding Reviews for ISMAR 2020.
+I served as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020, CHI PLAY 2020, IEEE TVCG (IEEE VR 2021 Journal-track) and CHI 2021, and I got 2x Special Recognitions for Outstanding Reviews for ISMAR 2020.
 
 <h2 id="Goals">Goals</h2>
 
