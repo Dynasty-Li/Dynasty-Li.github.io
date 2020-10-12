@@ -17,7 +17,6 @@
 ## Welcome to Xiang 'Dynasty' Li's HomePage!
 <p><a href="#Research-Interests">Research Interests</a> |
 <a href="#Academic-Experience">Academic Experience</a> |
-<a href="#Goals">Goals</a> |
 <a href="#Publications">Publications</a> |
 <a href="#Talk">Talk</a> |
 <a href="#Awards-&-Honors">Award & Honors</a> |
@@ -43,11 +42,9 @@ For more details about me, please read my website and my [CV/Resume](/papers/CV.
 
 <h2 id="Research-Interests">Research Interests</h2>
 
-My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality, Game Experience, and Novel Interaction Techniques. Meanwhile, I am also interested in the Sociological Application of Artificial Intelligence (i.e., Computer Vision and Natural Language Processing). 
+My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality (VR/AR/MR), Game Experience, and Interactive Techniques.
 
-I've always believed that there is a super gap between what people live with now and advanced technology. It is difficult to integrate, for example, people's established lifestyles with new technologies. My research will focus on exploring the connection between virtual reality/augmented reality with real-life applications, and the role of human-computer interaction in creating a real-world that is more "natural" and receptive to intelligent devices.
-
-I am highly interested in publishing academic research projects to the top conferences of the Human-Computer Interaction field, such as CHI, CHI Play, SIGGRAPH (& Asia), UIST, IEEE VR, IEEE ISMAR, and so on. Any cooperation? Email me!
+My research will focus on the subjective reality of living in an augmented environment and extended reality devices from a human factors design perspective. In addition, I will focus on analyzing user behavior from physical feedback, as well as subjective user perceptions, through questionnaires and interviews. I will conduct systematic research and analysis of user habits in real life and virtual and design corresponding software/games in real/augmented reality environments to provide and demonstrate the implications and applications of user habit research.
 
 <h2 id="Academic-Experience">Academic Experience</h2>
 
@@ -58,12 +55,6 @@ I also worked at the [Exertion Games Lab](https://exertiongameslab.org/) of [Mon
 <img src="/logo.png" width="50%">
 
 I served as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020, CHI PLAY 2020, IEEE TVCG (IEEE VR 2021 Journal-track) and CHI 2021, and I got 2x Special Recognitions for Outstanding Reviews for ISMAR 2020.
-
-<h2 id="Goals">Goals</h2>
-
-My long-term goal is to apply HCI-related knowledge into real society and let people can enjoy the benefits from the growth and breakthrough of technology instead of letting cutting-edge research stay in the papers’ databases and top conferences. I will focus on solving more realistic problems in the area of human-computer interaction with healthcare and users' experience.
-
-For my short-term goal, ~~I have to graduate alive from XJTLU first.~~ I hope to have the opportunity to participate in the research projects of the world's top HCI academic institutions as a visiting research assistant or a Ph.D. candidate. 
 
 <h2 id="Publications">Selected Publications</h2>
 
