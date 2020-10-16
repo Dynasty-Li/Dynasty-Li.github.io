@@ -1,10 +1,5 @@
 theme: jekyll-theme-minimal
 title: Xiang Li's HomePage
 logo: "/blog/icon.jpg"
-description: Human-Computer Interaction; VR/AR; Natural Interface
+description: Human-Computer Interaction; VR/AR; Natural User Interface
 author: Xiang Li
-
-# Sidebar settings
-sidebar: true  #添加侧边栏
-sidebar-about-description: "简单的描述一下你自己"
-sidebar-avatar: /WechatIMG28.jpeg    #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
