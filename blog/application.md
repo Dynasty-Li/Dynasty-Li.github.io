@@ -11,30 +11,23 @@
 
 开了一个blog用于记录自己申请阶段的所有琐碎的信息。真就碎碎念呗，会写多长我也不知道，说不定持续性资本主义与社会主义割裂导致一键失学。更多关于我的信息请访问[我的主页](https://dynasty-li.github.io)。
 
-写这个申请流水账一是单纯的记录一下这段“跌宕起伏”（中美贸易战，COVID-19，🇭🇰国安法，etc.），二是供之后的学弟学妹们申请做参考。留学最大的困难就是信息不对等，很多学生是没有自主收集并分析处理大量信息的能力的，所以我希望可以通过我这一点微小的贡献帮到更多想申请CS PhD/MS，尤其是HCI方向的同学。
+写这个申请流水账一是单纯的记录一下这段“跌宕起伏”（中美贸易战，COVID-19，🇭🇰国安法，etc.），二是供之后的学弟学妹们申请做参考。留学最大的困难就是信息不对等，很多学生是没有自主收集并分析处理大量信息的能力的，所以我希望可以通过我这一点微小的贡献帮到更多想申请CS PhD，尤其是HCI方向的同学。
 
-在阅读我的blog的同时我希望其他同学们能够辩证的看待我的申请流程，而不是模仿或者一扫而过；我和@鑫宝聊天的时候一直坚信一个观点：顺水推舟。不要“听说申请国外PhD/MS需要做xx”而去做xx，其他同学应当兼顾自己个人独特的背景情况长远地思考申请之后乃至于毕业以后的职业发展或学术发展。
+在阅读我的blog的同时我希望其他同学们能够辩证的看待我的申请流程，而不是模仿或者一扫而过；我和@鑫宝聊天的时候一直坚信一个观点：顺水推舟。不要“听说申请国外PhD/MS需要做xx”而去做xx，其他同学应当兼顾自己个人独特的背景情况长远地思考申请之后乃至于毕业以后的职业发展或学术发展。而且申请的过程本身也是一种自我摸索的过程，建议不要把申请季那一个月需要的工作全部交给中介/随大流，很多信息可以自己逐步摸索。
+
+这里有两个推荐的视频供HCI PhD申请者参考(@Prof. Michael Nebeling, U-Michigan):
+### 2019年的HCI PhD Office Hour
+<iframe src="https://player.twitch.tv/?video=507017970&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+### 2020年的HCI PhD Office Hour
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lHTEyAEY0g4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+2020年的问题文档（比视频中全的多）：[GoogleDoc](https://docs.google.com/document/d/1D10HWizpqaDYDqH3le-nydAxqw03QtM00y-ppPabGqc/edit).
 
 <h3 id="Major">申请方向</h3>
 
-我主要申请的是CS下面的人机交互（HCI）方向，没有AI那么“主流”，但这几年也热度直线上升（因为交叉性学科的关系，很多其他专业的人转CS会考虑HCI这个方向）……
-
-我个人主要会申请的是PhD项目，也可能会考虑一些MS项目（比方说MIT Media Lab是不可以直接申PhD的，只能从MS开始。但关于这一点我还没想好，后续更新再说）。
-
-我也会整理一个我在申请前做的部分工作的清单供大家参考，比方说想申请哪些学校/教授，为什么，怎么权衡的以及其相关的时间线。（FLAG）
+我主要申请的是CS下面的人机交互（HCI）方向，没有AI（CV, NLP, ML, DL...）那么“主流”，但这几年也热度直线上升（因为交叉性学科的关系，很多其他专业的人转CS会考虑HCI这个方向），所以热（卷）度大概仅次于AI PhD。我个人的小方向是HCI下的AR/VR/XR, Exertion Games, Responsive/Interactive Environment。
 
 <h3 id="Background">学校背景</h3>
-<details>
-  <summary>MORE...</summary>
-  <div>
-    <ul>
-      <li>
-        - 西交利物浦大学
-      </li>
-    </ul>
-</div>
-</details>
-
 
 <h3 id="GRE">语言成绩</h3>
 
