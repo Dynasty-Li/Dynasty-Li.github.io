@@ -17,10 +17,21 @@
 
 这里有两个推荐的视频供HCI PhD申请者参考(@Prof. Michael Nebeling, U-Michigan):
 ### 2019年的HCI PhD Office Hour
-<iframe width="560" height="315" src="https://player.twitch.tv/?video=507017970&parent=www.example.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></ br>
+<!-- Add a placeholder for the Twitch embed -->
+<div id="twitch-embed"></div>
+
+<!-- Load the Twitch embed script -->
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+
+<!-- Create a Twitch.Player object. This will render within the placeholder div -->
+<script type="text/javascript">
+  new Twitch.Player("twitch-embed", {
+    video: "507017970"
+  });
+</script>
 
 ### 2020年的HCI PhD Office Hour
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lHTEyAEY0g4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></ br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lHTEyAEY0g4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 2020年的问题总结文档（比视频中全的多）：[Google Doc](https://docs.google.com/document/d/1D10HWizpqaDYDqH3le-nydAxqw03QtM00y-ppPabGqc/edit).
 
 <h3 id="Major">申请方向</h3>
