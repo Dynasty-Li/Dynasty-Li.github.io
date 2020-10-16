@@ -26,6 +26,8 @@
 <!-- Create a Twitch.Player object. This will render within the placeholder div -->
 <script type="text/javascript">
   new Twitch.Player("twitch-embed", {
+    width: "560",
+    height: "315",
     video: "507017970"
   });
 </script>
