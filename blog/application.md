@@ -21,7 +21,8 @@
 @Twitch [Highlight: Prof Neb Live: PhD in technical HCI](https://www.twitch.tv/videos/507017970)
 
 ### 2020年的HCI PhD Office Hour (with @Prof. Anhong Guo and @Prof. Xu Wang)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lHTEyAEY0g4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+@ YouTube [Michael's PhD in HCI Office Hour (2020 Edition)](https://youtu.be/lHTEyAEY0g4)
 
 2020年的问题总结文档（比视频中全的多）：[Google Doc](https://docs.google.com/document/d/1D10HWizpqaDYDqH3le-nydAxqw03QtM00y-ppPabGqc/edit).
 
