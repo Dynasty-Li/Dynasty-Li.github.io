@@ -9,7 +9,7 @@
 
 <h3 id="Description">说明</h3>
 
-开了一个blog用于记录自己申请阶段的所有琐碎的信息。真就碎碎念呗，会写多长我也不知道，说不定持续性资本主义与社会主义割裂导致一键失学。更多关于我的信息请访问[我的主页](https://dynasty-li.github.io)。
+开了一个blog用于记录自己申请阶段的所有琐碎的信息。真就碎碎念呗，会写多长我也不知道，说不定持续性资本主义与社会主义割裂导致一键失学。更多关于我的信息，请访问[我的主页](https://dynasty-li.github.io)。
 
 写这个申请流水账一是单纯的记录一下这段“跌宕起伏”（中美贸易战，COVID-19，🇭🇰国安法，etc.），二是供之后的学弟学妹们申请做参考。留学最大的困难就是信息不对等，很多学生是没有自主收集并分析处理大量信息的能力的，所以我希望可以通过我这一点微小的贡献帮到更多想申请CS PhD，尤其是HCI方向的同学。
 
@@ -41,8 +41,31 @@
 
 我主要申请的是CS下面的人机交互（HCI）方向，没有AI（CV, NLP, ML, DL...）那么“主流”，但这几年也热度直线上升（因为交叉性学科的关系，很多其他专业的人转CS会考虑HCI这个方向），所以热（卷）度大概仅次于AI PhD。我个人的小方向是HCI下的AR/VR/XR, Exertion Games, Responsive/Interactive Environment。
 
-<h3 id="Background">学校背景</h3>
-
+<h3 id="Background">申请list（可能）</h3>
+美国
+1. MIT
+Media Lab (MA): 只录硕士（全奖），内部转PhD，只要雅思*
+CSAIL (EECS)：只录PhD
+2.Stanford
+CS - PhD
+ME - PhD
+Communication - PhD
+3. UC Berkeley
+EECS/iSchool - PhD
+4. CMU
+HCII - PhD
+5. U-Washington
+HCDE - PhD
+iSchool - PhD
+6. Georgia Tech
+CS/HCC - PhD
+7. Columbia
+CS - PhD
+8. U-Michigan
+iSchool - PhD
+9. UC Los Angeles
+ECE - PhD
+10. 
 <h3 id="GRE">语言成绩</h3>
 
 <h3 id="Academic-Background">学术背景</h3>
