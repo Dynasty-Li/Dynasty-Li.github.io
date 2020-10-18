@@ -17,7 +17,7 @@
 
 这里有两个推荐的视频供HCI PhD申请者参考(@Prof. Michael Nebeling, U-Michigan):
 ### 2019年的HCI PhD Office Hour
-<iframe width="560" height="315" src="https://player.twitch.tv/?video=507017970&parent=www.example.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.twitch.tv/?video=507017970&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="560" width="315"></iframe>
 
 ### 2020年的HCI PhD Office Hour (with @Prof. Anhong Guo and @Prof. Xu Wang)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lHTEyAEY0g4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
