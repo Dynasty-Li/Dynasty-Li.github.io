@@ -22,7 +22,7 @@
 
 ### 2020年的HCI PhD Office Hour (with @Prof. Anhong Guo and @Prof. Xu Wang)
 
-@ YouTube [Michael's PhD in HCI Office Hour (2020 Edition)](https://youtu.be/lHTEyAEY0g4)
+@YouTube [Michael's PhD in HCI Office Hour (2020 Edition)](https://youtu.be/lHTEyAEY0g4)
 
 2020年的问题总结文档（比视频中全的多）：[Google Doc](https://docs.google.com/document/d/1D10HWizpqaDYDqH3le-nydAxqw03QtM00y-ppPabGqc/edit).
 
