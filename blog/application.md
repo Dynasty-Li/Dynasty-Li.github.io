@@ -46,7 +46,7 @@
 1. MIT
   - Media Lab (MA): 只录硕士（全奖），内部转PhD，只要雅思*
   - CSAIL (EECS)：只录PhD
-2.Stanford
+2. Stanford
   - CS - PhD
   - ME - PhD
   - Communication - PhD
