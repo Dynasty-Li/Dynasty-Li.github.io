@@ -33,28 +33,26 @@
 <h3 id="Background">申请list（可能）</h3>
 美国
 1. MIT
-  - Media Lab (MA): 只录硕士（全奖），内部转PhD，只要雅思*
-  - CSAIL (EECS)：只录PhD
+  - Media Lab MA
+  - CSAIL EECS PhD
 2. Stanford
-  - CS - PhD
-  - ME - PhD
-  - Communication - PhD
+  - EECS PhD
+  - Communication PhD
 3. UC Berkeley
- - EECS/iSchool - PhD
+ - EECS/iSchool PhD
 4. CMU
- - HCII - PhD
+ - HCII PhD
 5. U-Washington
- - HCDE - PhD
- - iSchool - PhD
+ - HCDE PhD
+ - iSchool PhD
 6. Georgia Tech
- - CS/HCC - PhD
+ - CS/HCC PhD
 7. Columbia
- - CS - PhD
-8. U-Michigan
- - iSchool - PhD
-9. UC Los Angeles
- - ECE - PhD
-10. 
+ - CS PhD
+8. New York University
+ - CS PhD
+9. U-Michigan
+ - iSchool PhD
 <h3 id="GRE">语言成绩</h3>
 
 <h3 id="Academic-Background">学术背景</h3>
