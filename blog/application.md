@@ -33,11 +33,11 @@
 <h3 id="Background">申请list（可能）</h3>
 美国
 1. MIT
-  - Media Lab MA
-  - CSAIL EECS PhD
+ - Media Lab MA
+ - CSAIL EECS PhD
 2. Stanford
-  - EECS PhD
-  - Communication PhD
+ - EECS PhD
+ - Communication PhD
 3. UC Berkeley
  - EECS/iSchool PhD
 4. CMU
