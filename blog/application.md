@@ -32,7 +32,7 @@
 
 <h3 id="Background">选校</h3>
 
-心中的Tier 1 (6所)
+最想去的6所
 1. MIT
  - Media Lab MA
  - CSAIL EECS PhD
@@ -43,12 +43,12 @@
  - EECS/iSchool PhD
 4. CMU
  - HCII PhD
-5. UofToronto
+5. UofToronto [按往年录取感觉UofT应该相对还挺好中的（逃]
  - CS Direct-entry PhD
-6. ETH Zurich
+6. ETH Zurich [主要是钱给的太多了（逃]
  - CS Direct PhD
 
-主申的Tier 2 (7所)
+重点申的3所
 7. U-Washington
  - HCDE PhD
  - iSchool PhD
@@ -56,6 +56,8 @@
  - CS/HCC PhD
 9. Columbia University
  - CS PhD
+ 
+稳点的4所
 10. New York University
  - CS PhD
 11. U-Michigan
@@ -65,7 +67,7 @@
 13. U-Chicago
  - CS PhD
  
-保底的Tier 3 (2所)
+保底的2所
 14. Monash Univeristy
  - CS (FIT) PhD //在Monash做了好久的暑研+合作，老板也愿意留我，所以拿来保底
 15. Purdue University
