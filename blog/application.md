@@ -31,6 +31,7 @@
 我主要申请的是CS下面的人机交互（HCI）方向，没有AI（CV, NLP, ML, DL...）那么“主流”，但这几年也热度直线上升（因为交叉性学科的关系，很多其他专业的人转CS会考虑HCI这个方向），所以热（卷）度大概仅次于AI PhD。我个人的小方向是HCI下的AR/VR/XR, Exertion Games, Responsive/Interactive Environment。
 
 <h3 id="Background">申请list（可能）</h3>
+
 美国
 1. MIT
  - Media Lab MA
