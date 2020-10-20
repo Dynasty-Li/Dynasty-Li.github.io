@@ -2,7 +2,7 @@
 
 <p><a href="#Description">说明</a> |
 <a href="#Major">申请方向</a> |
-<a href="#Background">学校背景</a> |
+<a href="#Background">选校</a> |
 <a href="#GRE">语言成绩</a> |
 <a href="#Academic-Background">学术背景</a> |
 <a href="#Application-Essay">文书</a></p>
@@ -30,9 +30,9 @@
 
 我主要申请的是CS下面的人机交互（HCI）方向，没有AI（CV, NLP, ML, DL...）那么“主流”，但这几年也热度直线上升（因为交叉性学科的关系，很多其他专业的人转CS会考虑HCI这个方向），所以热（卷）度大概仅次于AI PhD。我个人的小方向是HCI下的AR/VR/XR, Exertion Games, Responsive/Interactive Environment。
 
-<h3 id="Background">申请list（可能）</h3>
+<h3 id="Background">选校</h3>
 
-美国
+心中的Tier 1 (6所)
 1. MIT
  - Media Lab MA
  - CSAIL EECS PhD
@@ -43,39 +43,46 @@
  - EECS/iSchool PhD
 4. CMU
  - HCII PhD
-5. U-Washington
+5. UofToronto
+ - CS Direct-entry PhD
+6. ETH Zurich
+ - CS Direct PhD
+
+主申的Tier 2 (7所)
+7. U-Washington
  - HCDE PhD
  - iSchool PhD
-6. Georgia Tech
+8. Georgia Tech
  - CS/HCC PhD
-7. Columbia University
+9. Columbia University
  - CS PhD
-8. New York University
+10. New York University
  - CS PhD
-9. U-Michigan
- - CSE PhD
-10. U-Chicago (Option*)
- - CS PhD
-
-加拿大
-1. UofToronto
- - CS Direct-entry PhD
-2. U-Waterloo (Option*)
+11. U-Michigan
+ - CSE PhD 
+12. EPFL
+ - CS Direct PhD
+13. U-Chicago
  - CS PhD
  
-欧洲
-1. ETH Zurich
- - CS Direct PhD
-2. EPFL (Option*)
- - CS Direct PhD
-3. Cambridge (Option*)
- - CS DPhil
-4. UCL (Option*)
- - CS DPhil
-5. Hasso-Plattner-Institute (Option*)
+保底的Tier 3 (2所)
+14. Monash Univeristy
+ - CS (FIT) PhD //在Monash做了好久的暑研+合作，老板也愿意留我，所以拿来保底
+15. Purdue University
+ - CS PhD //普渡这边已经有教授主动套我了。。所以拿来保底吧
 
-澳洲
-1. Monash Univeristy
+Options: 不确定申不申/需要看套磁结果 --> 反正就是取决于明年发邮件套磁的情况才会决定最后申不申
+1. Cambridge (Option*)
+ - CS PhD (不申，除非给不走CSC的全奖)
+
+2. U-Waterloo (Option*)
+ - CS PhD (取决于套磁结果)
+
+3. UCL (Option*)
+ - CS/UCLIC PhD (不申，除非给不走CSC的全奖)
+
+4. Hasso-Plattner-Institute (Option*)
+ - MS-PhD (取决于套磁结果+硕士) 
 
 <h3 id="GRE">语言成绩</h3>
 
