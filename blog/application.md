@@ -47,12 +47,35 @@
  - iSchool PhD
 6. Georgia Tech
  - CS/HCC PhD
-7. Columbia
+7. Columbia University
  - CS PhD
 8. New York University
  - CS PhD
 9. U-Michigan
- - iSchool PhD
+ - CSE PhD
+10. U-Chicago (Option*)
+ - CS PhD
+
+加拿大
+1. UofToronto
+ - CS Direct-entry PhD
+2. U-Waterloo (Option*)
+ - CS PhD
+ 
+欧洲
+1. ETH Zurich
+ - CS Direct PhD
+2. EPFL (Option*)
+ - CS Direct PhD
+3. Cambridge (Option*)
+ - CS DPhil
+4. UCL (Option*)
+ - CS DPhil
+5. Hasso-Plattner-Institute (Option*)
+
+澳洲
+1. Monash Univeristy
+
 <h3 id="GRE">语言成绩</h3>
 
 <h3 id="Academic-Background">学术背景</h3>
