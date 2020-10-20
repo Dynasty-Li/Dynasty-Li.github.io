@@ -31,7 +31,7 @@
     </td>
     <td width="50%">
       <img src="/WechatIMG28.jpeg" width="100%">
-      <p><b>Photo by @Kevin Guo</b></p>
+      <p><b>Photo by @Kevin Guo | in 2018</b></p>
     </td>
   </tr>
 </table>
