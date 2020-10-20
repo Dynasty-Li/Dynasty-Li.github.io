@@ -34,44 +34,44 @@
 
 最想去的6所
 1. MIT
- - Media Lab MA
- - CSAIL EECS PhD
+ - Media Lab MA //Media Lab必须申硕，这里弄的都是黑科技（
+ - CSAIL EECS PhD //银河系第一牛校+第一神lab（逃
 2. Stanford
- - EECS PhD
- - Communication PhD
+ - EECS PhD //他家hci group director推特上关注了我（逃
+ - Communication PhD //加州第一神校（
 3. UC Berkeley
- - EECS/iSchool PhD
+ - EECS/iSchool PhD //公立第一神校（
 4. CMU
- - HCII PhD
-5. UofToronto [按往年录取感觉UofT应该相对还挺好中的（逃]
- - CS Direct-entry PhD
-6. ETH Zurich [主要是钱给的太多了（逃]
- - CS Direct PhD
+ - HCII PhD //HCI第一大校，好多神人，年轻的hci巨星ap和经验丰富的长者都有（
+5. UofToronto 
+ - CS Direct-entry PhD //按往年录取感觉UofT应该相对还挺好中的（逃
+6. ETH Zurich 
+ - CS Direct PhD //有个心怡的教授，这学期有个项目的合作者来自MSR Redmond和他挺熟的；邮件聊了聊感觉互相感觉都挺好（逃
 
 重点申的3所
 7. U-Washington
  - HCDE PhD
- - iSchool PhD
+ - iSchool PhD //这家算是hci除了传统四大以外最猛的了
 8. Georgia Tech
- - CS/HCC PhD
+ - CS/HCC PhD //这家有好几个神仙坐镇hci；推特申请（x）和Blair有事没事聊聊天（逃
 9. Columbia University
- - CS PhD
+ - CS PhD //VR届先驱在这撑着，综排专排都可以，随缘
  
 稳点的4所
 10. New York University
- - CS PhD
+ - CS PhD //她家没啥正儿八经的hci phd项目，但地处曼哈顿，壕就vans
 11. U-Michigan
- - CSE PhD 
+ - CSE PhD //和Michael聊过几次天，感觉真申还是能中的（逃
 12. EPFL
- - CS Direct PhD
+ - CS Direct PhD //epfl放这不是觉得她好申，单纯是因为她家hci不是很好，主要是奖学金太高了…（逃
 13. U-Chicago
- - CS PhD
+ - CS PhD //Pedro人挺好玩的，和我暑研老板也有connection，应该也比较好中（？）
  
 保底的2所
 14. Monash Univeristy
- - CS (FIT) PhD //在Monash做了好久的暑研+合作，老板也愿意留我，所以拿来保底
+ - CS (FIT) PhD //在Monash做了好久的暑研+合作，老板也愿意留我，所以拿来保底（逃
 15. Purdue University
- - CS PhD //普渡这边已经有教授主动套我了。。所以拿来保底吧
+ - CS PhD //普渡是因为某教授主动套我了。。所以拿来保底吧（逃
 
 Options: 不确定申不申/需要看套磁结果 --> 反正就是取决于明年发邮件套磁的情况才会决定最后申不申
 1. Cambridge (Option*)
