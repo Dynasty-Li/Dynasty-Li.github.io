@@ -82,7 +82,7 @@ Options: 不确定申不申/需要看套磁结果 --> 反正就是取决于明�
  - CS/UCLIC PhD (不申，除非给不走CSC的全奖)
 
 4. Hasso-Plattner-Institute (Option*)
- - MS-PhD (取决于套磁结果+硕士) 
+ - MS-PhD (取决于套磁结果+硕士给全奖) 
 
 <h3 id="GRE">语言成绩</h3>
 
