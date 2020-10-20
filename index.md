@@ -27,7 +27,7 @@
     <td width="50%">
       <h2>Xiang Li</h2>
       <p><b>I am actively looking for a HCI PhD position in 2022 fall.</b></p>
-      <p><b>For industry, feel free to contact me if you're recruiting an HCI intern.</b></p>
+      <p><b>Interested? Let's talk about any research internships or further opportunities!</b></p>
     </td>
     <td width="50%">
       <img src="/WechatIMG28.jpeg" width="100%">
