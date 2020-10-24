@@ -15,10 +15,10 @@
 </html>
 
 ## Welcome to Xiang 'Dynasty' Li's HomePage!
-<p><a href="#Research-Interests">Research Interests</a> |
-<a href="#Academic-Experience">Academic Experience</a> |
+<p><a href="#Academic-Experience">Academic Experience</a> |
 <a href="#Publications">Publications</a> |
 <a href="#Talk">Presentations</a> |
+<a href="#Research-Interests">Research Interests</a> |
 <a href="#Awards-&-Honors">Award & Honors</a> |
 <a href="#Extracurricular-Activities">Extracurricular Activities</a></p>
 
@@ -39,12 +39,6 @@
 Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in the UK). I am also an IEEE Student Member.
 
 For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf). My Twitter: [@XiangLi0929](https://twitter.com/XiangLi0929). 
-
-<h2 id="Research-Interests">Research Interests</h2>
-
-My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality (VR/AR/MR), Game Experience, and Interactive Techniques.
-
-My research will focus on the subjective reality of living in an augmented environment and extended reality devices from a human factors design perspective. In addition, I will focus on analyzing user behavior from physical feedback, as well as subjective user perceptions, through questionnaires and interviews. I will conduct systematic research and analysis of user habits in real life and virtual and design corresponding software/games in real/augmented reality environments to provide and demonstrate the implications and applications of user habit research.
 
 <h2 id="Academic-Experience">Academic Experience</h2>
 
@@ -114,6 +108,12 @@ For my full publications, please refer to my [google scholar](https://scholar.go
     <img src="/vr2020.png" width="40%"> <br />
     - [Oral Presentation](https://youtu.be/qhnN5UNYX1Q): Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.
     - For Chinese friends, you can click [here](https://www.bilibili.com/video/BV18E411c73c/) to find my presentation.<br />
+    
+<h2 id="Research-Interests">Research Interests</h2>
+
+My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality (VR/AR/MR), Game Experience, and Interactive Techniques.
+
+My research will focus on the subjective reality of living in an augmented environment and extended reality devices from a human factors design perspective. In addition, I will focus on analyzing user behavior from physical feedback, as well as subjective user perceptions, through questionnaires and interviews. I will conduct systematic research and analysis of user habits in real life and virtual and design corresponding software/games in real/augmented reality environments to provide and demonstrate the implications and applications of user habit research.
 
 <h2 id="Awards-&-Honors">Awards & Honors</h2>
 
