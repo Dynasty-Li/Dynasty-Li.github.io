@@ -111,9 +111,7 @@ For my full publications, please refer to my [google scholar](https://scholar.go
     
 <h2 id="Research-Interests">Research Interests</h2>
 
-My research interests include Human-Computer Interaction (HCI) with subfields in Extended Reality (VR/AR/MR), Game Experience, and Interactive Techniques.
-
-My research will focus on the subjective reality of living in an augmented environment and extended reality devices from a human factors design perspective. In addition, I will focus on analyzing user behavior from physical feedback, as well as subjective user perceptions, through questionnaires and interviews. I will conduct systematic research and analysis of user habits in real life and virtual and design corresponding software/games in real/augmented reality environments to provide and demonstrate the implications and applications of user habit research.
+My research interests include Human-Computer Interaction with subfields in Extended Reality (AR/VR/MR), Game Experience, and Responsive/Interactive Environments. My research focuses on the subjective reality of living in a responsive environment with extended reality devices. In addition, I am interested in analyzing user behavior from physical feedback, as well as subjective user perceptions, through questionnaires and interviews. I conduct systematic research and analysis of user habits in real life and virtual and design corresponding software/games in real/augmented reality environments to provide and demonstrate the implications and applications of user-habit research.
 
 <h2 id="Awards-&-Honors">Awards & Honors</h2>
 
