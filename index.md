@@ -26,8 +26,8 @@
   <tr>
     <td width="50%">
       <h2>Xiang Li</h2>
-      <p><b>I am actively looking for a HCI PhD position in 2022 fall.</b></p>
-      <p><b>Interested? Let's talk about any research internships or further opportunities in 2021 summer!</b></p>
+      <p><b>I am actively looking for an amazing HCI PhD position in 2022 fall.</b></p>
+      <p><b>Interested? Let's have a talk to discuss any potential opportunities!</b></p>
     </td>
     <td width="50%">
       <img src="/WechatIMG28.jpeg" width="100%">
@@ -36,23 +36,21 @@
   </tr>
 </table>
 
-Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in the UK). I am also an IEEE Student Member.
-
-For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf). My Twitter: [@XiangLi0929](https://twitter.com/XiangLi0929). 
+Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in the UK). For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf). My Twitter: [@XiangLi0929](https://twitter.com/XiangLi0929) and my <a href="mailto:dynasty.li@outlook.com">e-mail.</a>
 
 <h2 id="Academic-Experience">Academic Experience</h2>
 
 I have been working in the [X-CHI Lab] of [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) as a research assistant under the supervision of the Head of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/) since 2019 summer, with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. 
 
-I also worked at the [Exertion Games Lab](https://exertiongameslab.org/) of [Monash University](https://www.monash.edu/) as a research assistant, lying primarily in the fields of Leveraging Electrical Muscle Stimulation as an Embodied Memory Support Device. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/), [Prof. Elise van den Hoven](http://elisevandenhoven.com/), and [Rakesh Patibanda](https://rakeshpatibanda.com) (Ph.D.) are my advisors of this intern. 
+I also worked at the [Exertion Games Lab](https://exertiongameslab.org/) of [Monash University](https://www.monash.edu/) as a research assistant, lying primarily in the field of Leveraging Electrical Muscle Stimulation as an Embodied Memory Support Device. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/) and [Rakesh Patibanda](https://rakeshpatibanda.com) (Ph.D.) are my advisors of this intern. 
 
 <img src="/logo.png" width="50%">
 
-I served as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020, CHI PLAY 2020, IEEE TVCG (IEEE VR 2021 Journal-track) and CHI 2021, and I got 2x Special Recognitions for Outstanding Reviews for ISMAR 2020.
+I served as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020, CHI PLAY 2020, IEEE VR 2021 (& IEEE TVCG) and CHI 2021, and I got 2x Special Recognitions for Outstanding Reviews for ISMAR 2020.
 
 <h2 id="Publications">Selected Publications</h2>
 
-**Note**: ACM CHI, ACM SIGGRAPH (& Asia), IEEE VR, IEEE ISMAR, ACM UIST, and ACM CHI PLAY are generally recognized as top-tier conferences in my field of Human-Computer Interaction, Game Technology, Interaction Design, and Virtual/Augmented Reality.
+**Note**: ACM CHI, IEEE VR, IEEE ISMAR, and ACM CHI PLAY are generally recognized as top-tier (CORE A/A*) conferences in my field of HCI and VR/AR.
 
 For my full publications, please refer to my [google scholar](https://scholar.google.com/citations?hl=zh-CN&user=HDQU65AAAAAJ#) page.
 
@@ -91,7 +89,6 @@ For my full publications, please refer to my [google scholar](https://scholar.go
 
 <h2 id="Talk">Presentations</h2>
 
-
   - T4. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
     <img src="/Monash.jpeg" width="40%"> <br />
     - CAPTCHA Design in Virtual Reality
@@ -111,23 +108,27 @@ For my full publications, please refer to my [google scholar](https://scholar.go
     
 <h2 id="Research-Interests">Research Interests</h2>
 
-My research interests include Human-Computer Interaction with subfields in Extended Reality (AR/VR/MR), Game Experience, and Responsive/Interactive Environments. My research focuses on the subjective reality of living in a responsive environment with extended reality devices. In addition, I am interested in analyzing user behavior from physical feedback, as well as subjective user perceptions, through questionnaires and interviews. I conduct systematic research and analysis of user habits in real life and virtual and design corresponding software/games in real/augmented reality environments to provide and demonstrate the implications and applications of user-habit research.
+My research interests include Human-Computer Interaction with subfields in Extended Reality (AR/VR/MR), Game Experience, and Responsive/Interactive Environments. My research focuses on the subjective reality of living in a responsive environment with extended reality devices. In addition, I am interested in analyzing user behavior from physical feedback, as well as subjective user perceptions through questionnaires and interviews. I conduct systematic research and analysis of user habits in real life and virtual and design corresponding software/games in real/augmented reality environments to provide and demonstrate the implications and applications of user-habit research, which I call "Habit-Computer Interaction".
 
 <h2 id="Awards-&-Honors">Awards & Honors</h2>
 
-  - A4. 2x Special Recognitions for Outstanding Reviews for ISMAR 2020 (06/2020)
+  - A6. ACM CHI PLAY 2020 Student Game Design Competition Finalist
+  
+  - A5. Research Assistant Fellowship at XJTLU ($1,400)
 
-  - A3. IEEE VR 2020 Best Conference Paper Nominee (5%) (03/2020)
+  - A4. 2x Special Recognitions for Outstanding Reviews for ISMAR 2020
+
+  - A3. IEEE VR 2020 Best Conference Paper Nominee (5%)
 
   - A2. Student Representative in Academic Practice Sub-Committee (1 of the Univ.) (09/2019 – 09/2020)
 
-  - A1. Summer Undergraduate Research Fellowship (SURF) (5% of the Univ.) (06/2019 – 09/2019)
+  - A1. Summer Undergraduate Research Fellowship (SURF) (5% of the Univ.)
   
-  - A0. Best Results-Making Team for Great Performance in Summer Social Research (1 of the Univ.) (10/2019)
+  - A0. Best Results-Making Team for Great Performance in Summer Social Research (1 of the Univ.)
 
 <h2 id="Extracurricular-Activities">Extracurricular Activities</h2>
 
-  - EA9. IEEE ISMAR 2020
+  - EA9. IEEE AIVR 2020
     - Position: Student Volunteer<br />
 
   - EA8. ACM CHI PLAY 2020
