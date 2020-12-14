@@ -91,8 +91,8 @@ For my full publications, please refer to my [google scholar](https://scholar.go
 <h2 id="Talk">Presentations</h2>
 
   - T5. Living Library, Xi'an Jiaotong-Liverpool University, Suzhou, China, Nov. 2020.<br />
-  <img src="/cb_living.jpg" width="70%"> <br />
-  - An Undergraduate Student’s Academic Plan
+    <img src="/cb_living.jpg" width="70%"> <br />
+    - An Undergraduate Student’s Academic Plan
 
   - T4. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
     <img src="/Monash.jpeg" width="40%"> <br />
