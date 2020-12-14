@@ -55,7 +55,8 @@ I served as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020, CHI PLAY
 For my full publications, please refer to my [google scholar](https://scholar.google.com/citations?hl=zh-CN&user=HDQU65AAAAAJ#) page.
 
 **1. Conference**
-
+  - C3. [ACM CHI 2021] 
+  
   - C2. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
   <img src="/WechatIMG2.png" width="60%"> <br />
   _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <br />
@@ -88,6 +89,10 @@ For my full publications, please refer to my [google scholar](https://scholar.go
   - P…. <br />
 
 <h2 id="Talk">Presentations</h2>
+
+  - T5. Living Library, Xi'an Jiaotong-Liverpool University, Suzhou, China, Nov. 2020.<br />
+  <img src="/cb_living.jpg" width="40%"> <br />
+  - An Undergraduate Student’s Academic Plan
 
   - T4. Exertion Games Lab, Monash University, Melbourne, Australia, Aug. 2020.<br />
     <img src="/Monash.jpeg" width="40%"> <br />
