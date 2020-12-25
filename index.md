@@ -39,7 +39,8 @@
 Hello, my name is Xiang Li, a Year 3 student from the [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) in China. My major is Information and Computing Science (also with a bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/) in the UK). For more details about me, please read my website and my [CV/Resume](/papers/CV.pdf). My Twitter: [@XiangLi0929](https://twitter.com/XiangLi0929) and my <a href="mailto:dynasty.li@outlook.com">e-mail.</a>
 
 <h2 id="Publications">Updates</h2>
-<font color="red">One co-author paper is conditionally accepted by CHI 2021 with a high score! </font>I am very proud to be involved in this systematic project as part of my summer virtual internship at the Exertion Games Lab in 2020!
+<font color="red">One co-author paper is conditionally accepted by CHI 2021 with a high score! </font>
+I am very proud to be involved in this project as part of my summer virtual internship at the Exertion Games Lab in 2020!
 
 <h2 id="Academic-Experience">Academic Experience</h2>
 
@@ -59,7 +60,7 @@ For my full publications, please refer to my [google scholar](https://scholar.go
 
 **1. Conference**
   - C3. [ACM CHI 2021] Limited Control Over The Body As Intriguing Play Design Resource.<br />
-  _Florian ’Floyd’ Mueller*, Rakesh Patibanda, Rich Byrne, Zhuying Li, Yan Wang, Josh Andres, **Xiang Li**, Jonathan Marquez, Stefan Greuter, Jonathan Duckworth, Joe Marshall_
+  _Florian ’Floyd’ Mueller*, Rakesh Patibanda, Rich Byrne, Zhuying Li, Yan Wang, Josh Andres, **Xiang Li**, Jonathan Marquez, Stefan Greuter, Jonathan Duckworth, Joe Marshall_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper] 
   
   - C2. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
