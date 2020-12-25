@@ -68,7 +68,7 @@ For my full publications, please refer to my [google scholar](https://scholar.go
   _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/ismar20a.pdf) 
     
-  - C1. [IEEE Virtual Reality (VR) 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
+  - C1. [IEEE VR 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
   <img src="/WechatIMG3.png" width="60%"> <br />
   _Wenge Xu, Hai-Ning Liang, Yuzheng Chen, **Xiang Li**, Kangyou Yu_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/AR_Boundary_with_author_names_fixed_fig_issue(1).pdf) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/qhnN5UNYX1Q)<br />
