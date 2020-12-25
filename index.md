@@ -44,9 +44,9 @@ I am very proud to be involved in this project as part of my summer virtual inte
 
 <h2 id="Academic-Experience">Academic Experience</h2>
 
-I have been working in the [X-CHI Lab] of [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) as a research assistant under the supervision of the Head of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/) since 2019 summer, with a focus on Virtual and Augmented Reality, Game Tech (Exergames) and Users' Interaction Experience. 
+I have been working at the [X-CHI Lab] of [Xi'an Jiaotong-Liverpool Univiersity](https://www.xjtlu.edu.cn/) as a research assistant under the supervision of the Head of our department [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-liang/) and [Dr. Wenge Xu](https://www.researchgate.net/profile/Wenge_Xu/) since 2019 summer, with a focus on Virtual and Augmented Reality, Exergames, and User Experience. 
 
-I also worked at the [Exertion Games Lab](https://exertiongameslab.org/) of [Monash University](https://www.monash.edu/) as a research assistant, lying primarily in the field of Leveraging Electrical Muscle Stimulation as an Embodied Memory Support Device. [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/) and [Rakesh Patibanda](https://rakeshpatibanda.com) (Ph.D.) are my advisors of this intern. 
+I also work at the [Exertion Games Lab](https://exertiongameslab.org/) of [Monash University](https://www.monash.edu/) as a research assistant, lying primarily in the field of Electrical Muscle Stimulation (Embodied Memory Support). [Prof. Florian 'Floyd' Mueller](http://floydmueller.com/) and [Rakesh Patibanda](https://rakeshpatibanda.com) (Ph.D.) are my advisors of this intern. 
 
 <img src="/logo.png" width="50%">
 
