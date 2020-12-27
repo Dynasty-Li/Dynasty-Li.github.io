@@ -56,7 +56,7 @@ I served as a reviewer for IMWUT (Ubicomp 2020), ISMAR 2020, VRST 2020, CHI PLAY
 
 **Note**: ACM CHI, IEEE VR, IEEE ISMAR, and ACM CHI PLAY are generally recognized as top-tier (CORE A/A*) conferences in my field of HCI and VR/AR.
 
-For my full publications, please refer to my [google scholar](https://scholar.google.com/citations?hl=zh-CN&user=HDQU65AAAAAJ#) page.
+For my full publications, please refer to my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HDQU65AAAAAJ#) page.
 
 **1. Conference**
   - C3. [ACM CHI 2021] Limited Control Over The Body As Intriguing Play Design Resource.<br />
