@@ -68,7 +68,7 @@ For my full publications, please refer to my [Google Scholar](https://scholar.go
   - C2. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
   <img src="/WechatIMG2.png" width="60%"> <br />
   _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <br />
-  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/ismar20a.pdf) 
+  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/ismar20a.pdf) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/dZWY3AbJTaA?t=1348)<br />
     
   - C1. [IEEE VR 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
   <img src="/WechatIMG3.png" width="60%"> <br />
@@ -140,6 +140,8 @@ My research interests include Human-Computer Interaction with subfields in Exten
   - A0. Best Results-Making Team for Great Performance in Summer Social Research (1 of the Univ.)
 
 <h2 id="Extracurricular-Activities">Extracurricular Activities</h2>
+  - EA10. IUI 2021
+    - Position: Poster and Demo Committee Member<br />
 
   - EA9. IEEE AIVR 2020
     - Position: Student Volunteer<br />
