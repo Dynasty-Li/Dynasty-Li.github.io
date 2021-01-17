@@ -68,7 +68,7 @@ For my full publications, please refer to my [Google Scholar](https://scholar.go
   - C2. [IEEE ISMAR 2020] Exploration of Hands-free Text Entry Techniques For Virtual Reality.<br />
   <img src="/WechatIMG2.png" width="60%"> <br />
   _Xueshi Lu, Difeng Yu, Hai-Ning Liang, Wenge Xu, Yuzheng Chen, **Xiang Li**, Khalad Hasan_ <br />
-  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/ismar20a.pdf) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/dZWY3AbJTaA?t=1348)<br />
+  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/ismar20a.pdf) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/ncE4KeeWDn4)<br />
     
   - C1. [IEEE VR 2020] Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays.<font color="red"> Nominated for the Best Paper Award (5%)</font><br />
   <img src="/WechatIMG3.png" width="60%"> <br />
