@@ -41,6 +41,8 @@ For more details about me, please read my website and my [CV/Resume](/papers/CV.
 My Twitter: [@XiangLi0929](https://twitter.com/XiangLi0929) and my <a href="mailto:dynasty.li@outlook.com">E-mail.</a>
 
 <h2 id="Publications">Updates</h2>
+<font color="red">Submitted three Late-Breaking Work/Interactivity papers to #CHI2021! </font>
+First-author paper x2 + Second-author paper x1!
 <font color="red">One co-author paper is conditionally accepted at #CHI2021! </font>
 I am very proud to be involved in this project as part of my summer virtual internship at the Exertion Games Lab in 2020!
 
