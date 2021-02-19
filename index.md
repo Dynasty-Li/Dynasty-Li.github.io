@@ -93,6 +93,11 @@ For my full publications, please refer to my [Google Scholar](https://scholar.go
   
 **3. Poster/Extended Abstract**
   
+  - P2. [ACM CHI 2021] vrCAPTCHA.<br /> 
+  <img src="/vrcaptcha.png" width="60%"> <br />
+  _**Xiang Li**, Yuzheng Chen, Rakesh Patibanda, Florian 'Floyd' Mueller_ <br />
+  <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper] 
+  
   - P1. [ACM CHI PLAY 2020] VirusBoxing: A HIIT-based VR Boxing Game.<br /> 
   <img src="/chiplay.png" width="60%"> <br />
   _Wenge Xu, Hai-Ning Liang, Xiaoyue Ma, **Xiang Li**_ <br />
