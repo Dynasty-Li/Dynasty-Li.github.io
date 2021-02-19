@@ -47,6 +47,7 @@ _02/2021_ <font color="red">One 1st-author paper is conditionally accepted at #C
 It's also an internship project at the Exertion Games Lab!
 
 _01/2021_ <font color="red">One co-author paper is conditionally accepted at #CHI2021! </font>
+
 I am very proud to be involved in this project as part of my summer virtual internship at the Exertion Games Lab in 2020!
 
 <h2 id="Academic-Experience">Academic Experience</h2>
