@@ -43,11 +43,9 @@ My Twitter: [@XiangLi0929](https://twitter.com/XiangLi0929) and my <a href="mail
 <h2 id="Publications">Updates</h2>
 
 _02/2021_ <font color="red">One 1st-author paper is conditionally accepted at #CHI2021 Interactivity!</font>
-
 It's also an internship project at the Exertion Games Lab!
 
 _01/2021_ <font color="red">One co-author paper is conditionally accepted at #CHI2021! </font>
-
 I am very proud to be involved in this project as part of my summer virtual internship at the Exertion Games Lab in 2020!
 
 <h2 id="Academic-Experience">Academic Experience</h2>
