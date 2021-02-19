@@ -41,9 +41,9 @@ For more details about me, please read my website and my [CV/Resume](/papers/CV.
 My Twitter: [@XiangLi0929](https://twitter.com/XiangLi0929) and my <a href="mailto:dynastyli.cn@gmail.com">E-mail.</a>
 
 <h2 id="Publications">Updates</h2>
-<font color="red">One 1st-author paper is conditionally accepted at #CHI2021 Interactivity! _19/02/2021_</font>
+_02/2021_ <font color="red">One 1st-author paper is conditionally accepted at #CHI2021 Interactivity!</font>
 It's also an internship project at the Exertion Games Lab!
-<font color="red">One co-author paper is conditionally accepted at #CHI2021! </font>
+_01/2021_ <font color="red">One co-author paper is conditionally accepted at #CHI2021! </font>
 I am very proud to be involved in this project as part of my summer virtual internship at the Exertion Games Lab in 2020!
 
 <h2 id="Academic-Experience">Academic Experience</h2>
