@@ -93,7 +93,7 @@ For my full publications, please refer to my [Google Scholar](https://scholar.go
   
 **3. Poster/Extended Abstract**
   
-  - P2. [ACM CHI 2021] vrCAPTCHA.<br /> 
+  - P2. [ACM CHI 2021] vrCAPTCHA: Exploring CAPTCHA Designs in Virtual Reality.<br /> 
   <img src="/vrcaptcha.png" width="60%"> <br />
   _**Xiang Li**, Yuzheng Chen, Rakesh Patibanda, Florian 'Floyd' Mueller_ <br />
   <img class="style6" src="/pdf.gif" height="16" width="16"> [Paper](/papers/vrCAPTCHA.pdf) <img class="style6" src="/Youtube.png" height="16" width="16"> [Video](https://youtu.be/RtGJ2LhJ7u8)
