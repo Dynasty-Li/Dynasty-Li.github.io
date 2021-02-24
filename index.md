@@ -108,7 +108,7 @@ For my full publications, please refer to my [Google Scholar](https://scholar.go
 <h2 id="Talk">Presentations</h2>
 
   - T6. ACM CHI Conference 2021, Yokohama, Japan, May, 2021.<br />
-    <img src="/chi2021.png" width="70%"> <br />
+    <img src="/chi2021.png" width="40%"> <br />
     - vrCAPTCHA: Exploring CAPTCHA Designs in Virtual Reality 
 
   - T5. Living Library, Xi'an Jiaotong-Liverpool University, Suzhou, China, Nov. 2020.<br />
